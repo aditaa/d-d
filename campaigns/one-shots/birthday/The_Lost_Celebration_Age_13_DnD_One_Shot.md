@@ -1,4 +1,4 @@
-<!-- GitHub-readable edition. Use the linked PDFs in README.md for printing and offline play. -->
+<!-- GitHub-readable edition. For printing and table play, use the release PDFs linked in README.md. -->
 
 **BIRTHDAY QUEST - GAME MASTER'S GUIDE + PLAYER PACK**
 
@@ -158,7 +158,7 @@ AC 12; HP 7 each; Speed 30 ft.; Initiative +2. Furious Peck: +4 to hit, 1d4 + 2 
 
 ### First component recovered
 
-The Dawn Pearls reveal the storehouse clue. If the heroes calmed the rooster, give them the Silver Feather loot card: cancel frightened once. A soot-black drake silhouette watches from a distant chimney, then vanishes.
+The Dawn Pearls reveal the storehouse clue. If the heroes calmed the rooster, give them the Silver Feather loot card: one use causes the Frightened condition to end on every hero. A soot-black drake silhouette watches from a distant chimney, then vanishes.
 
 > READ ALOUD — THE TABLET AWAKENS
 > As the third Dawn Pearl settles into the cracked tablet, silver lines race across its surface. A new sentence burns into view: 'Where watchful eyes guard bottled daylight, claim only the gold that may touch a wooden spoon.' Far across Bellweather, the lamplighter tower flashes once—then goes dark. Ask: 'How do you travel there, and who carries the tablet?'
@@ -187,9 +187,9 @@ Run one shared challenge: 3 successes before 2 setbacks. Ask every hero to descr
 > READ ALOUD — LANTERN GOLD RECOVERED
 > The golden flask bears a tiny wooden-spoon seal. When it touches the tablet, the second symbol shines like sunrise through amber glass. Captain Wick exhales. 'That is the true brightseed oil. Whatever you are restoring, Cindermaw is frightened of it.' A new line points toward the abandoned windmill beyond the west gate.
 
-#### Bellweather guard — quick combat
+#### Storehouse scuffle — quick combat
 
-AC 14; HP 11 each; Speed 30 ft.; Initiative +1. Spear: +3 to hit, 1d6 + 1 piercing. Net (one use): ranged +3, 10/20 ft.; a hit restrains until the target uses an action and succeeds on DC 10 Strength. Use these statistics only if a disguised sootling starts a scuffle; real guards use nets, Help, and grapples.
+Disguised Sootling — AC 13; HP 13; Speed 30 ft., Climb 20 ft.; Initiative +2. Smudging Claw: +4 to hit, 1d6 + 2 Psychic. Blue-Fire Dash (Recharge 5–6): move up to its Speed without provoking Opportunity Attacks. Bellweather Guard — AC 14; HP 11; Spear: +3 to hit, 1d6 + 1 Piercing. Net (1/Day): DC 11 Dexterity save, one Large or smaller creature within 15 feet; failure: Restrained. The target or a creature within 5 feet can take an action and pass a DC 10 Strength (Athletics) check to free it. Real guards prefer nets, Help, and grapples.
 
 > READ ALOUD — IF THE ALARM SOUNDS
 > A brass bell CLANGS overhead. Boots pound across the courtyard. One guard smiles far too widely, dissolves into soot, and races for a rack of blue-burning flasks. Captain Wick shouts, 'That one is not mine! Stop it—and keep the blue fire away from the oil!' Ask each player for one immediate action, then roll initiative only if the chase needs it.
@@ -198,6 +198,9 @@ AC 14; HP 11 each; Speed 30 ft.; Initiative +1. Spear: +3 to hit, 1d6 + 1 pierci
 > Track 3 SUCCESS boxes and 2 SETBACK boxes. Ask every hero for an approach before anyone repeats a skill. Nyx can sneak, Bramble can distract, and Elio can question guards. Reveal one clue after every roll. At 3 successes, expose the impostor cleanly. At 2 setbacks, trigger the fleeing sootling. Never block the correct flask.
 
 ### Scene B: The Windmill and Honey Steps
+
+> READ ALOUD — THE SILENT WINDMILL
+> The abandoned windmill leans over a field of knee-high gold grass. Its sails are perfectly still, but four brass chutes hum beneath the millstone: RAVEN, SUN, RIVER, and CROWN. When the tablet draws near, three carved clues shine along the floor. Somewhere inside the gears, something heavy waits to be released. Ask: 'Who studies the clues, and who checks the machinery?'
 
 At the abandoned mill, four marked chutes—Raven, Sun, River, and Crown—must be opened in order to release the preserved Sunmeal. Read the three carved clues:
 
@@ -216,8 +219,8 @@ Answer: River, Raven, Crown, Sun. A wrong choice releases harmless golden dust a
 
 The sprites accept a song, a specific promise to replant their flowers, or a DC 13 Nature, Performance, or Persuasion check. Otherwise, three sprites attack and bargain when two fall. A sincere promise awards Sprite's Favor. With all four components recovered, the heroes camp beneath the sprites' protective flowers for an eight-hour Long Rest and resume at dawn.
 
-> READ ALOUD — ALL FOUR RECOVERED
-> The pale crystals settle into the tablet's final hollow. All four symbols pulse together, and a path of golden footprints appears on the road toward the ruined guildhall. For one instant the air smells warm and familiar—but the memory slips away before you can name it. The sun touches the rooftops. The Founder's Hearth is waiting.
+> READ ALOUD — CLOUDSWEET EARNED
+> The last tiny spear lowers. Whether won through a promise, a performance, or hard-earned respect, the sprites pour pale crystals into a flower-shaped pouch. Their leader says, 'Carry the memory kindly—and bring new flowers when you return.' The crystals settle into the tablet's final hollow. All four symbols pulse together, and golden footprints appear on the road toward the ruined guildhall. For one instant the air smells warm and familiar—but the memory slips away before you can name it.
 
 **GM-ONLY SECTION**
 
@@ -231,6 +234,9 @@ Goal: solve the Four Channels, operate the hearth as a team, and protect the rec
 ### Trial 1: The Four Channels
 
 The recovered portions are already magically measured. The heroes connect each to the correct channel using the tablet: 'What wakes enters first. What gives form follows. Warm gold binds what was divided. Memory crowns the work.' Answer: Dawn Pearls, Sunmeal, Lantern Gold, Cloudsweet. After two mistakes, the correct next channel glows.
+
+> READ ALOUD — THE FOUR CHANNELS ANSWER
+> The last component slides into place. Silver light races through all four channels—Pearl, Meal, Gold, then Sweet—and the stone hands around the dome unfold with a deep, patient click. Four action symbols flare on the tablet: COMBINE, STIR, WARM, CROWN. Ask the players to arrange those pieces before choosing their stations.
 
 ### Trial 2: Operate and Prepare the Hearth
 
@@ -273,13 +279,13 @@ Use the Founder's Hearth map, four rune tokens, two sootlings, Cindermaw, and on
 > 1. Announce lit runes and the hero who may attempt Reconstruction.  2. Let everyone act in initiative order; only one Reconstruction attempt is allowed.  3. A sootling may attack or extinguish a rune.  4. If none does, Cindermaw smothers one unguarded rune.  5. Check victory only after the round ends.
 >
 > OPTIONAL RUNE POWERS
-> PEARL: healing restores +1d4 HP.  MEAL: heroes cannot be pushed or knocked prone.  GOLD: the first weapon hit each round deals +1d4 radiant.  SWEET: heroes have Advantage against Frightened. Use these for the combat-experienced group; omit them if bookkeeping slows play.
+> PEARL: healing restores +1d4 HP.  MEAL: heroes cannot be pushed or knocked Prone.  GOLD: the first weapon hit each round deals +1d4 Radiant damage.  SWEET: heroes have Advantage on saves to avoid or end the Frightened condition. Use these for the combat-experienced group; omit them if bookkeeping slows play.
 
 1. Only one rune can be extinguished per round in total. A sootling may use Foul Rune; if none does, Cindermaw smothers one unguarded rune at round's end. A hero beside a rune may use an action to relight it or guard it until the hero's next turn.
 
 1. Only one Reconstruction check can be attempted each round, and at least 2 runes must be lit. A hero beside the tablet uses an action for a DC 13 fitting check. A different hero must attempt each round until all three have contributed. Success marks MIX, RISE, or FINISH and relights one rune. Progress never resets.
 
-1. At 2 successes, Radiant Draft activates: Cindermaw takes 2d8 radiant damage, every hero ends frightened, and one extinguished rune relights. At 3 successes, finish the current round; then the dome seals, Cindermaw becomes a Tiny ember-drake, and combat ends.
+1. At 2 successes, Radiant Draft activates: Cindermaw takes 2d8 Radiant damage, the Frightened condition ends on every hero, and one extinguished rune relights. At 3 successes, finish the current round; then the dome seals, Cindermaw becomes a Tiny ember-drake, and combat ends.
 
 1. If fewer than 2 runes are lit, Reconstruction cannot be attempted. The townspeople's song relights Pearl at round's end if fewer than 2 remain lit. A hero who expends Heroic Inspiration to reroll a failed Reconstruction check also relights one rune, even if the reroll fails.
 
@@ -290,7 +296,7 @@ Use the Founder's Hearth map, four rune tokens, two sootlings, Cindermaw, and on
 
 ### Cindermaw, Ash Drake
 
-Medium Elemental; AC 14; Initiative +3 (13); HP 52 (42 if preparation succeeded); Speed 30 ft., Climb 20 ft. Saves: Dex +5, Wis +3. Resistance to Fire damage; Immunity to the Frightened condition.
+Medium Elemental; AC 14; Initiative +3 (13); HP 52 (42 only after 3 preparation successes); Speed 30 ft., Climb 20 ft. Saves: Dex +5, Wis +3. Resistance to Fire damage; Immunity to the Frightened condition.
 
 Cinder Claw. Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Fire damage.
 
@@ -326,13 +332,13 @@ Once in a future adventure, the wearer can turn a failed check into a success by
 
 | **Group** | **Checks** | **Final encounter** |
 | --- | --- | --- |
-| New players | Use DC 12; offer a hint after one failed attempt. | Cindermaw HP 44; one sootling; Pearl Rune begins guarded. |
-| Age 13 / default | Use DC 13 and the printed challenges. | Cindermaw HP 52; two sootlings; one rune can be extinguished per round. |
-| Experienced players | Use DC 14; add costs on mixed results. | Cindermaw HP 60; three sootlings; Gold Rune begins dark. |
+| New players | Use DC 12; offer a hint after one failed attempt. | Cindermaw HP 44, or 40 after 3 preparation successes; one sootling; Pearl Rune begins guarded. |
+| Age 13 / default | Use DC 13 and the printed challenges. | Cindermaw HP 52, or 42 after 3 preparation successes; two sootlings; one rune can be extinguished per round. |
+| Experienced players | Use DC 14; add costs on mixed results. | Cindermaw HP 60, or 50 after 3 preparation successes; three sootlings; Gold Rune begins dark. |
 
 ### If the table has only two players plus a GM
 
-Each player chooses a hero and starts with Heroic Inspiration. Use Cindermaw at 34 HP with one sootling. Sprig follows them: AC 13, HP 15; Star Bolt +5 to hit, 1d6 + 3 Radiant; once per round Sprig can take the Help action as a Bonus Action.
+Each player chooses a hero and starts with Heroic Inspiration. Use Cindermaw at 34 HP with one sootling. Sprig follows them: AC 13, HP 15; Star Bolt +4 to hit, 1d6 + 2 Radiant; Sprig can take the Help action as a Bonus Action.
 
 ### Time trims
 
@@ -403,6 +409,16 @@ Award the Restorer's Medal, ask when the players first suspected the answer, and
 | 4–6 | Lay out the Storehouse zones and practise marking 3 successes / 2 setbacks. |
 | 6–8 | Place four rune tokens, MIX / RISE / FINISH, Cindermaw, and two sootlings on the Hearth map. |
 | 8–10 | Cover the real cake or reveal prop; rehearse lifting the cover after the final narration. |
+
+**Handout Cue Strip**
+
+| **When** | **Place on the table** |
+| --- | --- |
+| Hero choice | Sheets 45–50; action cards 41; Elio spell cards 42–43; quick rules 51. |
+| Briar Farm | Act 1 handout 28 and player map 32; give the Dawn Pearls card from 30 when recovered. |
+| Storehouse / Mill | Act 2 handout 29 and maps 33–34; give Lantern Gold and Sunmeal cards from 30. |
+| Honey Steps | Player map 35; give the Cloudsweet card from 30 when earned. |
+| Founder's Hearth | Tracker 31, map 36, rune/progress tokens 38, and action/loot cards 40. |
 
 > **BIRTHDAY & FOOD CHECK**
 > Privately confirm allergies, dietary needs, candles, and serving plans with a parent or guardian. Keep food packaging, scent, and the covered cake away from the play table so they do not reveal the mystery.
@@ -476,7 +492,7 @@ Award the Restorer's Medal, ask when the players first suspected the answer, and
 **GM Map Key: Briar Farm**
 
 > **RUNNING NOTES**
-> Secret: feed in B3 grants Advantage to calm the rooster. Reinforcements enter from B9 only if the heroes dominate the first two rounds.
+> On the illustrated map, 1 square equals 5 feet; use normal movement. Secret: feed in B3 grants Advantage to calm the rooster. Reinforcements enter from B9 only if the heroes dominate the first two rounds.
 
 | B1 RAFTERS<br>DC 12 climb | B2 STONE NEST<br>Dawn Pearls | B3 HAYLOFT<br>hidden feed |
 | --- | --- | --- |
@@ -488,7 +504,7 @@ Award the Restorer's Medal, ask when the players first suspected the answer, and
 **GM Map Key: Storehouse**
 
 > **RUNNING NOTES**
-> Secret: the disguised sootling begins in S8, casts no shadow, and flees through S9 after two setbacks. The roof vent from S5 opens into S6.
+> On the illustrated map, 1 square equals 5 feet; use normal movement. The disguised sootling begins in S8, casts no shadow, and flees through S9 after two setbacks. The S5 roof vent opens toward S6.
 
 | S1 CITY WALL<br>watch post | S2 ROOF WALK<br>real guard | S3 CHIMNEY<br>soot clue |
 | --- | --- | --- |
@@ -500,7 +516,7 @@ Award the Restorer's Medal, ask when the players first suspected the answer, and
 **GM Map Key: Founder's Hearth**
 
 > **RUNNING NOTES**
-> Start sootlings at H1 and H3. Adjacent keyed zones connect horizontally, vertically, or diagonally. Moving one zone costs up to 30 feet. Only one rune can be extinguished each round.
+> On the illustrated map, 1 square equals 5 feet; use normal movement. Start sootlings at H1 and H3, Cindermaw at H2, and heroes at H8. Only one rune can be extinguished each round.
 
 | H1 PEARL RUNE | H2 CHIMNEY<br>Cindermaw | H3 MEAL RUNE |
 | --- | --- | --- |
@@ -526,13 +542,13 @@ Award the Restorer's Medal, ask when the players first suspected the answer, and
 
 Skills History +4, Persuasion +4  •  Senses passive Perception 11  •  Languages Common, Dwarvish  •  Challenge 0 (10 XP; PB +2)
 
-**Town Historian. **Mayor Mallow has advantage on Intelligence (History) checks about Bellweather.
+**Town Historian.** Mayor Mallow has Advantage on Intelligence (History) checks about Bellweather.
 
 **Actions**
 
-**Walking Stick. **Melee Attack Roll: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
+**Walking Stick.** Melee Attack Roll: +2, reach 5 ft. Hit: 2 (1d4) Bludgeoning damage.
 
-**Rallying Word (1/Day). **One creature within 30 ft. gains 5 temporary hit points.
+**Rallying Word (1/Day).** One creature within 30 feet gains 5 Temporary Hit Points.
 
 **Captain Wick**
 
@@ -546,15 +562,15 @@ Skills History +4, Persuasion +4  •  Senses passive Perception 11  •  Langua
 
 Skills Insight +4, Investigation +2, Perception +4  •  Senses passive Perception 14  •  Languages Common  •  Challenge 1 (200 XP; PB +2)
 
-**Watch Captain. **Friendly guards within 30 ft. have advantage on saves against frightened.
+**Watch Captain.** Friendly guards within 30 feet have Advantage on saves to avoid or end the Frightened condition.
 
 **Actions**
 
-**Multiattack. **Wick makes two Spear attacks.
+**Multiattack.** Wick makes two Spear attacks.
 
-**Spear. **Melee or Ranged Attack Roll: +4 to hit, reach 5 ft. or range 20/60 ft. Hit: 5 (1d6+2) piercing damage.
+**Spear.** Melee or Ranged Attack Roll: +4, reach 5 ft. or range 20/60 ft. Hit: 5 (1d6 + 2) Piercing damage.
 
-**Net (1/Day). **Ranged Attack Roll: +3 to hit, range 5/15 ft. A Large or smaller target is restrained; escape DC 10.
+**Net (1/Day).** Dexterity Saving Throw: DC 11, one Large or smaller creature within 15 feet. Failure: the target has the Restrained condition. The target or a creature within 5 feet of it can take an action and make a DC 10 Strength (Athletics) check, freeing the target on a success.
 
 **GM REFERENCE**
 
@@ -572,13 +588,13 @@ Skills Insight +4, Investigation +2, Perception +4  •  Senses passive Percepti
 
 Skills Perception +2  •  Senses passive Perception 12  •  Languages Common  •  Challenge 1/8 (25 XP; PB +2)
 
-**Nonlethal Training. **A guard reduced to 0 HP during this adventure is knocked unconscious and stable.
+**Nonlethal Training.** A guard reduced to 0 HP during this adventure is knocked unconscious and stable.
 
 **Actions**
 
-**Spear. **Melee or Ranged Attack Roll: +3, reach 5 ft. or range 20/60 ft. Hit: 4 (1d6 + 1) Piercing damage.
+**Spear.** Melee or Ranged Attack Roll: +3, reach 5 ft. or range 20/60 ft. Hit: 4 (1d6 + 1) Piercing damage.
 
-**Net (1/Day). **Dexterity Saving Throw: DC 11, one Large or smaller creature within 15 feet. Failure: the target has the Restrained condition until it escapes (DC 10).
+**Net (1/Day).** Dexterity Saving Throw: DC 11, one Large or smaller creature within 15 feet. Failure: the target has the Restrained condition. The target or a creature within 5 feet of it can take an action and make a DC 10 Strength (Athletics) check, freeing the target on a success.
 
 **Moon-Hen**
 
@@ -592,13 +608,13 @@ Skills Perception +2  •  Senses passive Perception 12  •  Languages Common  
 
 Skills Perception +3  •  Senses passive Perception 13  •  Languages —  •  Challenge 1/8 (25 XP; PB +2)
 
-**Flock Fury. **The moon-hen has advantage on an attack roll if another moon-hen is within 5 ft. of the target.
+**Flock Fury.** The moon-hen has Advantage on an attack roll if another moon-hen is within 5 feet of the target.
 
 **Actions**
 
-**Furious Peck. **Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage.
+**Furious Peck.** Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage.
 
-**Wing Flurry (Rooster Only; 1/Round). **Dexterity Saving Throw: DC 12, each creature within 5 feet. Failure: 4 (1d4 + 2) Bludgeoning damage, and the target has the Prone condition.
+**Wing Flurry (Rooster Only; 1/Round).** Dexterity Saving Throw: DC 12, each creature within 5 feet. Failure: 4 (1d4 + 2) Bludgeoning damage, and the target has the Prone condition.
 
 **GM REFERENCE**
 
@@ -616,15 +632,15 @@ Skills Perception +3  •  Senses passive Perception 13  •  Languages —  •
 
 Skills Deception +3, Stealth +4  •  Damage Resistances fire  •  Senses darkvision 60 ft., passive Perception 10  •  Languages understands Common  •  Challenge 1/4 (50 XP; PB +2)
 
-**False Appearance. **While motionless in guard form, the sootling is indistinguishable from a guard except that it casts no shadow and leaves soot tracks.
+**False Appearance.** While motionless in guard form, the sootling is indistinguishable from a guard except that it casts no shadow and leaves soot tracks.
 
-**Soot Shape. **As a Bonus Action, it changes between its soot form and one humanoid disguise.
+**Soot Shape.** As a Bonus Action, it changes between its soot form and one humanoid disguise.
 
 **Actions**
 
-**Smudging Claw. **Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Psychic damage.
+**Smudging Claw.** Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Psychic damage.
 
-**Blue-Fire Dash (Recharge 5–6). **The sootling moves up to its Speed without provoking Opportunity Attacks.
+**Blue-Fire Dash (Recharge 5–6).** The sootling moves up to its Speed without provoking Opportunity Attacks.
 
 **Sugar Sprite**
 
@@ -638,13 +654,13 @@ Skills Deception +3, Stealth +4  •  Damage Resistances fire  •  Senses darkv
 
 Skills Nature +2, Performance +4  •  Senses passive Perception 11  •  Languages Common, Sylvan  •  Challenge 1/4 (50 XP; PB +2)
 
-**Flower Step. **Opportunity attacks against the sprite are made with disadvantage while it is within 5 ft. of a plant.
+**Flower Step.** Opportunity attacks against the sprite are made with disadvantage while it is within 5 ft. of a plant.
 
 **Actions**
 
-**Sugar Sting. **Melee or Ranged Attack Roll: +5, reach 5 ft. or range 20/60 ft. Hit: 5 (1d4+3) Piercing damage.
+**Sugar Sting.** Melee or Ranged Attack Roll: +5, reach 5 ft. or range 20/60 ft. Hit: 5 (1d4+3) Piercing damage.
 
-**Blinding Glitter (Recharge 6). **Constitution Saving Throw: DC 12, one creature within 20 feet. Failure: the target has the Blinded condition until the start of the sprite's next turn.
+**Blinding Glitter (Recharge 6).** Constitution Saving Throw: DC 12, one creature within 20 feet. Failure: the target has the Blinded condition until the start of the sprite's next turn.
 
 **GM REFERENCE**
 
@@ -662,13 +678,13 @@ Skills Nature +2, Performance +4  •  Senses passive Perception 11  •  Langua
 
 Damage Resistances fire  •  Senses darkvision 60 ft., passive Perception 10  •  Languages understands Ignan  •  Challenge 1/8 (25 XP; PB +2)
 
-**Poof! When reduced to 0 HP, the sootling bursts harmlessly. **One creature within 5 ft. can catch its spark and regain 1d4 HP.
+**Poof! When reduced to 0 HP, the sootling bursts harmlessly.** One creature within 5 ft. can catch its spark and regain 1d4 HP.
 
 **Actions**
 
-**Smudging Scratch. **Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Psychic damage.
+**Smudging Scratch.** Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Psychic damage.
 
-**Foul Rune. **The sootling extinguishes one unguarded hearth rune within 5 feet.
+**Foul Rune.** The sootling extinguishes one unguarded hearth rune within 5 feet.
 
 **Cindermaw, Ash Drake**
 
@@ -682,19 +698,19 @@ Damage Resistances fire  •  Senses darkvision 60 ft., passive Perception 10  �
 
 Saving Throws Dex +5, Wis +3  •  Skills Acrobatics +5, Insight +3  •  Damage Resistances fire  •  Condition Immunities frightened  •  Senses darkvision 60 ft., passive Perception 11  •  Languages Common, Ignan  •  Challenge 2 (450 XP; PB +2)
 
-**Hearthbound. **If no sootling used Foul Rune this round, Cindermaw extinguishes one lit, unguarded rune at round's end. Only one rune can be extinguished per round.
+**Hearthbound.** If no sootling used Foul Rune this round, Cindermaw extinguishes one lit, unguarded rune at round's end. Only one rune can be extinguished per round.
 
-**Fear of Extinction. **After 2 Reconstruction successes and no earlier than round 3, a creature can use an action and succeed on a DC 12 Charisma (Persuasion) check to offer Cindermaw a home. The fight ends after the current round.
+**Fear of Extinction.** After 2 Reconstruction successes and no earlier than round 3, a creature can use an action and succeed on a DC 12 Charisma (Persuasion) check to offer Cindermaw a home. The fight ends after the current round.
 
 **Actions**
 
-**Cinder Claw. **Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Fire damage.
+**Cinder Claw.** Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Fire damage.
 
-**Soot Breath (Recharge 5–6). **Wisdom Saving Throw: DC 13, each creature in a 15-foot Cone. Failure: 7 (2d6) Psychic damage, and the target has the Frightened condition until the end of its next turn. Success: Half damage only.
+**Soot Breath (Recharge 5–6).** Wisdom Saving Throw: DC 13, each creature in a 15-foot Cone. Failure: 7 (2d6) Psychic damage, and the target has the Frightened condition until the end of its next turn. Success: Half damage only.
 
 **Reactions**
 
-**Up the Chimney. **Trigger: Cindermaw is hit by an attack. Response: Cindermaw climbs up to 10 feet without provoking Opportunity Attacks.
+**Up the Chimney.** Trigger: Cindermaw is hit by an attack. Response: Cindermaw climbs up to 10 feet without provoking Opportunity Attacks.
 
 **Sprig, Lantern Sprite**
 
@@ -708,13 +724,13 @@ Saving Throws Dex +5, Wis +3  •  Skills Acrobatics +5, Insight +3  •  Damage
 
 Skills Perception +4  •  Damage Resistances radiant  •  Senses darkvision 60 ft., passive Perception 14  •  Languages Common, Sylvan  •  Challenge 1/4 (50 XP; PB +2)
 
-**Helpful Light. **Sprig can take the Help action as a Bonus Action.
+**Helpful Light.** Sprig can take the Help action as a Bonus Action.
 
 **Actions**
 
-**Star Bolt. **Ranged Spell Attack Roll: +4, range 60 ft. Hit: 5 (1d6 + 2) Radiant damage.
+**Star Bolt.** Ranged Spell Attack Roll: +4, range 60 ft. Hit: 5 (1d6 + 2) Radiant damage.
 
-**Kindle (1/Day). **Sprig relights one hearth rune within 30 feet.
+**Kindle (1/Day).** Sprig relights one hearth rune within 30 feet.
 
 **PLAYER HANDOUT — OPENING**
 
@@ -734,7 +750,7 @@ Skills Perception +4  •  Damage Resistances radiant  •  Senses darkvision 60
 | CLOUDSWEET | □ | ____________________________ | ____________ |
 
 > **HEROIC INSPIRATION — 2024 CORE RULE**
-> Each hero starts with Heroic Inspiration. Immediately after rolling any die, expend it to reroll that die; you must use the new roll. A Human can give Heroic Inspiration to another hero when gaining it if already holding it.
+> Each hero starts with Heroic Inspiration. Immediately after rolling any die, expend it to reroll that die; you must use the new roll. A hero can have only one Heroic Inspiration at a time.
 
 **PLAYER HANDOUT**
 
@@ -829,7 +845,7 @@ Skills Perception +4  •  Damage Resistances radiant  •  Senses darkvision 60
 | PEARL | ● / ○ | Healing restores +1d4 HP. | ____________ |
 | MEAL | ● / ○ | Heroes cannot be pushed or knocked prone. | ____________ |
 | GOLD | ● / ○ | First weapon hit each round deals +1d4 radiant. | ____________ |
-| SWEET | ● / ○ | Advantage against frightened. | ____________ |
+| SWEET | ● / ○ | Advantage on saves to avoid or end Frightened. | ____________ |
 
 **Reconstruction Progress**
 
@@ -845,7 +861,7 @@ Skills Perception +4  •  Damage Resistances radiant  •  Senses darkvision 60
 **Briar Farm Zone Map**
 
 > **HOW TO USE**
-> Place hero and moon-hen tokens in zones. Moving to an adjacent zone uses normal movement; climbing to RAFTERS may require DC 12 Athletics or Acrobatics under pressure.
+> TACTICAL SCALE: 1 square = 5 feet. Place hero and moon-hen tokens on the illustrated map and use normal movement; climbing to RAFTERS may require DC 12 Athletics or Acrobatics under pressure.
 
 | BARN RAFTERS<br>ropes • tools • high path | STONE NEST<br>three Dawn Pearls | HAYLOFT<br>cover • loose hay |
 | --- | --- | --- |
@@ -857,7 +873,7 @@ Skills Perception +4  •  Damage Resistances radiant  •  Senses darkvision 60
 **Lamplighter Storehouse Zone Map**
 
 > **HOW TO USE**
-> Choose an official, covert, or bait route. Moving between connected zones is usually automatic; roll only when a guard, height, lock, or fleeing sootling creates pressure.
+> TACTICAL SCALE: 1 square = 5 feet. Choose an official, covert, or bait route; roll only when a guard, height, lock, or fleeing sootling creates pressure.
 
 | CITY WALL<br>watch post | ROOF WALK<br>guard patrol | CHIMNEY<br>soot trail |
 | --- | --- | --- |
@@ -869,7 +885,7 @@ Skills Perception +4  •  Damage Resistances radiant  •  Senses darkvision 60
 **Founder's Hearth Battle Map**
 
 > **HOW TO USE**
-> Place the four rune tokens in corner zones, the dome at center, heroes at the entry, Cindermaw by the chimney, and two sootlings at different runes.
+> TACTICAL SCALE: 1 square = 5 feet. Place the four rune tokens at the glowing platforms, heroes at the entry, Cindermaw by the chimney, and two sootlings at different runes.
 
 | PEARL RUNE | CHIMNEY<br>Cindermaw starts | MEAL RUNE |
 | --- | --- | --- |
@@ -941,24 +957,25 @@ Skills Perception +4  •  Damage Resistances radiant  •  Senses darkvision 60
 **Hero Action Cards**
 
 > **BRAMBLE — 2024 CHAMPION**
-> ATTACK: Longsword +5, 1d8+3 Slashing; Sap mastery.
-> BONUS ACTION: Second Wind heals 1d10+3; two uses.
-> TACTICAL MIND: add 1d10 to a failed ability check.
-> ACTION SURGE: one extra action, except the Magic action.
-> REMEMBER: Advantage on Initiative and Athletics; critical hits on 19–20.
+> ATTACK: Longsword +5, 1d8+3 Slashing. Sap: the target has Disadvantage on its next attack before your next turn.
+> SECOND WIND (Bonus Action, 2 uses): regain 1d10+3 HP. Recover 1 use on a Short Rest and all on a Long Rest.
+> TACTICAL MIND: after a failed ability check, spend Second Wind and add 1d10; if it still fails, the use is not spent.
+> PROTECTION (Reaction): while holding a shield, protect an ally within 5 feet; the triggering and later attacks against that ally have Disadvantage until the start of your next turn while you remain within 5 feet.
+> ACTION SURGE: one extra action, except the Magic action. Javelin Slow reduces Speed 10 feet; Warhammer Push moves a Large or smaller target up to 10 feet away.
 
 > **NYX — 2024 THIEF**
-> ATTACK: Shortbow +5, 1d6+3 Piercing plus Sneak Attack 2d6.
-> BONUS ACTION: Dash, Disengage, Hide, or Fast Hands.
-> STEADY AIM: Bonus Action gives Advantage; Speed becomes 0.
-> SNEAK ATTACK: Advantage, or ally within 5 ft. and no Disadvantage.
-> ALERT: Initiative +5 and may swap Initiative with an ally.
+> ATTACK: Shortbow +5, 1d6+3 Piercing. Vex: after a hit that deals damage, gain Advantage on your next attack against that target before the end of your next turn.
+> SNEAK ATTACK: add 2d6 once per turn with Advantage, or while a conscious ally is within 5 feet of the target and you lack Disadvantage.
+> CUNNING ACTION (Bonus Action): Dash, Disengage, or Hide. STEADY AIM: if you have not moved, gain Advantage on your next attack this turn and then Speed 0 for the turn.
+> FAST HANDS (Bonus Action): pick a lock, disarm a trap, pick a pocket, take the Utilize action, or use a magic item that requires the Magic action. SECOND-STORY WORK: Climb Speed 30 feet; use Dexterity for jump distance.
+> DAGGER NICK: make the Light weapon extra attack inside the Attack action instead of as a Bonus Action, once per turn. ALERT: Initiative +5; may swap with a willing ally.
 
 > **ELIO — 2024 LORE BARD**
-> CANTRIP: Vicious Mockery, DC 13 Wisdom, 1d6 Psychic.
-> BONUS ACTION: Bardic Inspiration d6 or Healing Word (2d4+3 HP).
-> REACTION: Cutting Words subtracts d6 from an enemy roll.
-> SPELLS: save DC 13; attack +5. Track 4 level-1 and 2 level-2 slots.
+> BARDIC INSPIRATION (Bonus Action, 3 uses): an ally within 60 feet who sees or hears you gains a d6 for 1 hour; after failing a D20 Test, they add it and might succeed. Recover all uses on a Long Rest.
+> CUTTING WORDS (Reaction): when a visible creature within 60 feet deals damage or succeeds on an attack roll or ability check, spend a Bardic Inspiration die and subtract the d6.
+> MUSICIAN: after a Short or Long Rest, grant Heroic Inspiration to up to two allies.
+> CANTRIP: Vicious Mockery, DC 13 Wisdom save, 1d6 Psychic. HEALING WORD (Bonus Action): 2d4+3 HP with a level-1 slot.
+> SPELLS: save DC 13; attack +5. Track four level-1 and two level-2 slots.
 
 **PLAYER REFERENCE — CARDS 1–4**
 
@@ -984,7 +1001,7 @@ Skills Perception +4  •  Damage Resistances radiant  •  Senses darkvision 60
 
 > **DISSONANT WHISPERS**
 > Level 1 Enchantment • Action • 60 ft. • V • Instantaneous
-> Wisdom save DC 13. Failure: 3d6 Psychic and reaction movement that can provoke Opportunity Attacks. Success: half damage.
+> Wisdom save DC 13. Failure: 3d6 Psychic, then the target uses its Reaction to move as far away as it safely can; this movement can provoke Opportunity Attacks. Success: half damage.
 
 ✂  - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -1012,7 +1029,7 @@ Skills Perception +4  •  Damage Resistances radiant  •  Senses darkvision 60
 
 > **SUGGESTION**
 > Level 2 Enchantment • Action • 30 ft. • V, M • Concentration, up to 8 hours
-> Wisdom save DC 13. Target follows a reasonable course. Ends if you or allies damage it.
+> Wisdom save DC 13. On a failure, the target follows a course that sounds achievable and does not obviously deal damage. Ends if you or your allies damage it.
 
 ✂  - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -1056,7 +1073,7 @@ Give this card to the group after Bellweather's lost celebration is restored. Th
 
 • Critical Hit: a natural 20 on an attack rolls the attack's damage dice twice, then adds bonuses once.
 
-• Help: assist with a skill or tool you have, or distract an enemy within 5 feet for an ally's next attack.
+• Help: choose one of your skill or tool proficiencies; a nearby ally gets Advantage on its next matching ability check before your next turn. Or distract an enemy within 5 feet to give Advantage on one ally's next attack before your next turn.
 
 • Heroic Inspiration: after rolling any die, expend it to reroll; you must use the new roll.
 
@@ -1066,7 +1083,7 @@ Give this card to the group after Bellweather's lost celebration is restored. Th
 
 • Concentration: after taking damage, make a Constitution save, DC 10 or half the damage taken, whichever is higher.
 
-• At 0 HP: fall unconscious and make death saves. A d20 roll of 10+ is a success; three successes stabilize and three failures are deadly. Healing wakes you.
+• At 0 HP: fall Unconscious and make Death Saving Throws. A 10+ succeeds; a 1 causes two failures; a 20 restores 1 HP. Three successes stabilize; three failures mean death. Healing wakes you.
 
 • Creative play: state your goal, method, and what makes it possible. The GM decides whether it works or requires a roll.
 
@@ -1074,3 +1091,17 @@ Give this card to the group after Bellweather's lost celebration is restored. Th
 > Bramble protects allies and controls space.
 > Nyx scouts, solves locks, and uses Sneak Attack beside an ally.
 > Elio inspires early, controls enemies with magic, and heals fallen friends.
+
+## Illustrated Player Maps
+
+The printable release includes all five player-safe maps. On tactical maps, 1 square equals 5 feet; the Windmill is a puzzle diagram with no tactical scale.
+
+![Briar Farm player map](maps/Briar_Farm_Player_Map.png)
+
+![Lamplighter Storehouse player map](maps/Lamplighter_Storehouse_Player_Map.png)
+
+![Windmill chute puzzle](maps/Windmill_Chute_Puzzle_Map.png)
+
+![Honey Steps player map](maps/Honey_Steps_Player_Map.png)
+
+![Founder's Hearth player map](maps/Founders_Hearth_Player_Map.png)

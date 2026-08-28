@@ -31058,7 +31058,7 @@ endobj
 /Helv 541 0 R
 >>
 >>
-/Length 131
+/Length 133
 >>
 stream
 q
@@ -31069,7 +31069,7 @@ W
 BT
 /Helv 6 Tf 0 g
 2 5.9759999999999955 Td
-(Vex; finesse) Tj
+(Finesse, Light) Tj
 ET
 Q
 EMC
@@ -52317,7 +52317,7 @@ endobj
 /Helv 1022 0 R
 >>
 >>
-/Length 171
+/Length 262
 >>
 stream
 q
@@ -52328,7 +52328,11 @@ W
 BT
 /Helv 7 Tf 0 g
 2 157.4284 Td
-(Musician \(Origin Feat\): three instruments; inspiring song after a rest) Tj
+(Musician \(Origin Feat\)) Tj
+0 -8.091999999999999 Td
+(Three instrument proficiencies) Tj
+0 -8.091999999999999 Td
+(Rest song: up to 2 allies gain Heroic Inspiration) Tj
 ET
 Q
 EMC
@@ -53674,84 +53678,85 @@ endobj
 >>
 /Font <<
 /F1 1324 0 R
+/F1-0 1325 0 R
 /Helv 1022 0 R
-/T1_0 1325 0 R
+/T1_0 1326 0 R
 /TT0 1032 0 R
 /TT1 1028 0 R
 /TT2 1024 0 R
 >>
 /XObject <<
-/Fm0 1330 0 R
-/Fm1 1338 0 R
-/Fm2 1342 0 R
-/Fm3 1346 0 R
-/Fm4 1350 0 R
-/Fm5 1354 0 R
-/Fm6 1356 0 R
-/Fm7 1358 0 R
-/Fm8 1360 0 R
-/Fm9 1362 0 R
-/Fm_Text93 1447 0 R
-/Fm_Text94 1448 0 R
-/Fm_Text95 1449 0 R
-/Fm_Text96 1450 0 R
-/Fm_Text97 1451 0 R
-/Fm_Text98 1452 0 R
-/Fm_Text99 1453 0 R
-/Fm_Text100 1454 0 R
-/Fm_Text111 1455 0 R
-/Fm_Text112 1456 0 R
-/Fm_Text113 1457 0 R
-/Fm_Text121 1458 0 R
-/Fm_Text150 1459 0 R
-/Fm_Text188 1460 0 R
-/Fm_Text237 1461 0 R
-/Fm_Text208 1462 0 R
-/Fm_Text122 1463 0 R
-/Fm_Text151 1464 0 R
-/Fm_Text179 1465 0 R
-/Fm_Text238 1466 0 R
-/Fm_Text209 1467 0 R
-/Fm_Text123 1468 0 R
-/Fm_Text152 1469 0 R
-/Fm_Text180 1470 0 R
-/Fm_Text239 1471 0 R
-/Fm_Text210 1472 0 R
-/Fm_Text124 1473 0 R
-/Fm_Text153 1474 0 R
-/Fm_Text181 1475 0 R
-/Fm_Text240 1476 0 R
-/Fm_Text211 1477 0 R
-/Fm_Text125 1478 0 R
-/Fm_Text154 1479 0 R
-/Fm_Text182 1480 0 R
-/Fm_Text241 1481 0 R
-/Fm_Text212 1482 0 R
-/Fm_Text126 1483 0 R
-/Fm_Text155 1484 0 R
-/Fm_Text183 1485 0 R
-/Fm_Text242 1486 0 R
-/Fm_Text213 1487 0 R
-/Fm_Text127 1488 0 R
-/Fm_Text156 1489 0 R
-/Fm_Text184 1490 0 R
-/Fm_Text243 1491 0 R
-/Fm_Text214 1492 0 R
-/Fm_Text128 1493 0 R
-/Fm_Text157 1494 0 R
-/Fm_Text185 1495 0 R
-/Fm_Text245 1496 0 R
-/Fm_Text215 1497 0 R
-/Fm_Text129 1498 0 R
-/Fm_Text158 1499 0 R
-/Fm_Text186 1500 0 R
-/Fm_Text246 1501 0 R
-/Fm_Text216 1502 0 R
-/Fm_Text130 1503 0 R
-/Fm_Text159 1504 0 R
-/Fm_Text187 1505 0 R
-/Fm_Text247 1506 0 R
-/Fm_Text217 1507 0 R
+/Fm0 1331 0 R
+/Fm1 1339 0 R
+/Fm2 1343 0 R
+/Fm3 1347 0 R
+/Fm4 1351 0 R
+/Fm5 1355 0 R
+/Fm6 1357 0 R
+/Fm7 1359 0 R
+/Fm8 1361 0 R
+/Fm9 1363 0 R
+/Fm_Text93 1448 0 R
+/Fm_Text94 1449 0 R
+/Fm_Text95 1450 0 R
+/Fm_Text96 1451 0 R
+/Fm_Text97 1452 0 R
+/Fm_Text98 1453 0 R
+/Fm_Text99 1454 0 R
+/Fm_Text100 1455 0 R
+/Fm_Text111 1456 0 R
+/Fm_Text112 1457 0 R
+/Fm_Text113 1458 0 R
+/Fm_Text121 1459 0 R
+/Fm_Text150 1460 0 R
+/Fm_Text188 1461 0 R
+/Fm_Text237 1462 0 R
+/Fm_Text208 1463 0 R
+/Fm_Text122 1464 0 R
+/Fm_Text151 1465 0 R
+/Fm_Text179 1466 0 R
+/Fm_Text238 1467 0 R
+/Fm_Text209 1468 0 R
+/Fm_Text123 1469 0 R
+/Fm_Text152 1470 0 R
+/Fm_Text180 1471 0 R
+/Fm_Text239 1472 0 R
+/Fm_Text210 1473 0 R
+/Fm_Text124 1474 0 R
+/Fm_Text153 1475 0 R
+/Fm_Text181 1476 0 R
+/Fm_Text240 1477 0 R
+/Fm_Text211 1478 0 R
+/Fm_Text125 1479 0 R
+/Fm_Text154 1480 0 R
+/Fm_Text182 1481 0 R
+/Fm_Text241 1482 0 R
+/Fm_Text212 1483 0 R
+/Fm_Text126 1484 0 R
+/Fm_Text155 1485 0 R
+/Fm_Text183 1486 0 R
+/Fm_Text242 1487 0 R
+/Fm_Text213 1488 0 R
+/Fm_Text127 1489 0 R
+/Fm_Text156 1490 0 R
+/Fm_Text184 1491 0 R
+/Fm_Text243 1492 0 R
+/Fm_Text214 1493 0 R
+/Fm_Text128 1494 0 R
+/Fm_Text157 1495 0 R
+/Fm_Text185 1496 0 R
+/Fm_Text245 1497 0 R
+/Fm_Text215 1498 0 R
+/Fm_Text129 1499 0 R
+/Fm_Text158 1500 0 R
+/Fm_Text186 1501 0 R
+/Fm_Text246 1502 0 R
+/Fm_Text216 1503 0 R
+/Fm_Text130 1504 0 R
+/Fm_Text159 1505 0 R
+/Fm_Text187 1506 0 R
+/Fm_Text247 1507 0 R
+/Fm_Text217 1508 0 R
 >>
 /ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
 >>
@@ -53763,9 +53768,10 @@ endobj
 endobj
 1292 0 obj
 <<
-/Length 98989
+/Length 99180
 >>
 stream
+q
 q
 q
 0 0 603 774 re
@@ -60070,9 +60076,38 @@ BT
 /F1 12 Tf
 14.4 TL
 ET
+BT
+/F1 6.4 Tf
+7.68 TL
+ET
+0 0 0 rg
+BT
+1 0 0 1 156 410 Tm
+(Action) Tj
+T*
+ET
+BT
+1 0 0 1 156 390 Tm
+(Action) Tj
+T*
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 603 774 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
 0.4 0.439216 0.501961 rg
 BT
-/F1 6.5 Tf
+/F1-0 6.5 Tf
 7.8 TL
 ET
 BT
@@ -60820,25 +60855,34 @@ endobj
 endobj
 1325 0 obj
 <<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+1326 0 obj
+<<
 /BaseFont /IMMDCM+AcuminVariableConcept
-/Encoding 1326 0 R
+/Encoding 1327 0 R
 /FirstChar 31
-/FontDescriptor 1327 0 R
+/FontDescriptor 1328 0 R
 /LastChar 31
 /Subtype /Type1
-/ToUnicode 1329 0 R
+/ToUnicode 1330 0 R
 /Type /Font
 /Widths [ 677 ]
 >>
 endobj
-1326 0 obj
+1327 0 obj
 <<
 /BaseEncoding /WinAnsiEncoding
 /Differences [ 31 /gid00004 ]
 /Type /Encoding
 >>
 endobj
-1327 0 obj
+1328 0 obj
 <<
 /Ascent 1035
 /CapHeight 700
@@ -60847,7 +60891,7 @@ endobj
 /Flags 32
 /FontBBox [ -162 -262 1179 1035 ]
 /FontFamily (Acumin Variable Concept)
-/FontFile3 1328 0 R
+/FontFile3 1329 0 R
 /FontName /IMMDCM+AcuminVariableConcept
 /FontStretch /Normal
 /FontWeight 275
@@ -60857,7 +60901,7 @@ endobj
 /XHeight 500
 >>
 endobj
-1328 0 obj
+1329 0 obj
 <<
 /Filter /FlateDecode
 /Subtype /Type1C
@@ -60868,7 +60912,7 @@ Hâ|P_HSQˇÓö[ÀeYÌ©yw"%òKT¢@XJÈÉ4∑)ﬁÌûm∑∂]π˜NXŸõ’@Höñr¸ÉRë¯îAhH/=VDE≈Ë9º∑Æ
  úÎ{Ïb˙ìà?É-‚Ãê¨ﬂœ“Csåù}áøﬁhı!ûn⁄ã çæG‹ÍCx›∆‡ÙçaÑ¯Í7Ñ˛çI•Õã@<Àƒg7ª]u#:9EîÄŒ‘ã«ft˛Ël!s^Áè,Ü√„∫ãˇzh±ÿà∫{D7«u√Øœ≥ª€∫¢{¯Ÿ€3z=cﬁZ>9◊ì¿=|ji∫)P˚WÄ G$˙
 endstream
 endobj
-1329 0 obj
+1330 0 obj
 <<
 /Filter /FlateDecode
 /Length 236
@@ -60878,22 +60922,22 @@ Hâ\êœjƒ ∆Ô>≈wã&Ì1eÀB˝C”>Ä—I*4*s»€wtó-t@Â„õﬂ9Ú‹?˜¡gêÔÌÄ&·7≤#Œ>à¶Ámæ
 0 ^ qÌ
 endstream
 endobj
-1330 0 obj
+1331 0 obj
 <<
 /BBox [ 180.7 768.52 230.263 728.36 ]
 /Filter /FlateDecode
-/Group 1331 0 R
+/Group 1332 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ColorSpace <<
-/CS0 1332 0 R
+/CS0 1333 0 R
 >>
 /ExtGState <<
 /GS0 971 0 R
 >>
 /ProcSet [ /PDF /ImageC ]
 /XObject <<
-/Im0 1336 0 R
+/Im0 1337 0 R
 >>
 >>
 /Subtype /Form
@@ -60903,7 +60947,7 @@ stream
 HâÃ;¬@¿ﬁßx'p¸Ÿ]€=RîQp Ñ®Jrâ’Ùsê¶r ¨ÿZpÔ¨Áõû¯“AÀ˙|.j≈Â©2˘`5É¶p/ùlV…¶ôRé◊NÀ∂n?∫O ÓÓÕ
 endstream
 endobj
-1331 0 obj
+1332 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -60912,10 +60956,10 @@ endobj
 /Type /Group
 >>
 endobj
-1332 0 obj
-[ /DeviceN [ /Black ] /DeviceCMYK 1333 0 R 1334 0 R ]
-endobj
 1333 0 obj
+[ /DeviceN [ /Black ] /DeviceCMYK 1334 0 R 1335 0 R ]
+endobj
+1334 0 obj
 <<
 /Domain [ 0.0 1 ]
 /Filter /FlateDecode
@@ -60930,26 +60974,26 @@ Hâ™6‘3 #CÖ¢¸úbD2ÛRR+2\…eE
 ∫Ëf†(4*‰ÀõPi3“S!™Â∆0ïFå4Ç[^ê_†P` .ßG±
 endstream
 endobj
-1334 0 obj
+1335 0 obj
 <<
-/Process 1335 0 R
+/Process 1336 0 R
 /Subtype /NChannel
 >>
 endobj
-1335 0 obj
+1336 0 obj
 <<
 /ColorSpace /DeviceCMYK
 /Components [ /Cyan /Magenta /Yellow /Black ]
 >>
 endobj
-1336 0 obj
+1337 0 obj
 <<
 /BitsPerComponent 8
-/ColorSpace 1332 0 R
+/ColorSpace 1333 0 R
 /Filter /DCTDecode
 /Height 101
 /Intent /RelativeColorimetric
-/Metadata 1337 0 R
+/Metadata 1338 0 R
 /Name /X
 /Subtype /Image
 /Type /XObject
@@ -60989,7 +61033,7 @@ iA9àºØ+rq©%e"àºc’1/D-M<È:B\√®Ç*
 “°úêmêmÂˆS;ñé∆ù5ŸHΩ°Àiƒ∏≠+n!ó_i‘#aIJ—P Ñçù±ı©7Æ—≥Íy4vÂº#ñ‹$®¨OLçl®6ÃÉ≥œ]æÿuµoˇŸ
 endstream
 endobj
-1337 0 obj
+1338 0 obj
 <<
 /Subtype /XML
 /Type /Metadata
@@ -61081,22 +61125,22 @@ stream
 
 endstream
 endobj
-1338 0 obj
+1339 0 obj
 <<
 /BBox [ 325.78 767.44 363.516 728.36 ]
 /Filter /FlateDecode
-/Group 1339 0 R
+/Group 1340 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ColorSpace <<
-/CS0 1332 0 R
+/CS0 1333 0 R
 >>
 /ExtGState <<
 /GS0 971 0 R
 >>
 /ProcSet [ /PDF /ImageC ]
 /XObject <<
-/Im0 1340 0 R
+/Im0 1341 0 R
 >>
 >>
 /Subtype /Form
@@ -61107,7 +61151,7 @@ Hâå1
 Ä@˚º"/»ÂÔrÈ± b•¢˛åL±∞ÃÓ*ï¨°âìV‘Bˆá7|6XÑ“03Ó/Dm÷∏Ñ¡Å:	[ÁÍ®C´Ó9«U#-.5;Æ§Ò`Ï/òÇOÄ ä'
 endstream
 endobj
-1339 0 obj
+1340 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -61116,14 +61160,14 @@ endobj
 /Type /Group
 >>
 endobj
-1340 0 obj
+1341 0 obj
 <<
 /BitsPerComponent 8
-/ColorSpace 1332 0 R
+/ColorSpace 1333 0 R
 /Filter /DCTDecode
 /Height 109
 /Intent /RelativeColorimetric
-/Metadata 1341 0 R
+/Metadata 1342 0 R
 /Name /X
 /Subtype /Image
 /Type /XObject
@@ -61193,7 +61237,7 @@ Yù=8é"" °û°†p*'
 ¢*¥FÉ[Ç††âañWX≤ñ`Ñ·…î≤ ¨äÑHbÑÍM1	UZŸ±D8–QrÖé øˇŸ
 endstream
 endobj
-1341 0 obj
+1342 0 obj
 <<
 /Subtype /XML
 /Type /Metadata
@@ -61292,22 +61336,22 @@ stream
 
 endstream
 endobj
-1342 0 obj
+1343 0 obj
 <<
 /BBox [ 219 774.28 283.771 728 ]
 /Filter /FlateDecode
-/Group 1343 0 R
+/Group 1344 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ColorSpace <<
-/CS0 1332 0 R
+/CS0 1333 0 R
 >>
 /ExtGState <<
 /GS0 971 0 R
 >>
 /ProcSet [ /PDF /ImageC ]
 /XObject <<
-/Im0 1344 0 R
+/Im0 1345 0 R
 >>
 >>
 /Subtype /Form
@@ -61318,7 +61362,7 @@ Hâ$À1
 Ä0F·=ß¯O–∆4m“]Gq "N*Í˝AQæÒÒNaòT	fTÉ8ÆÖ&ÏtRÏF∆z”WŸ™fKsH’ùì·ˇ-∏7"π`ﬁ(ˆ£=hx= ﬁ.=
 endstream
 endobj
-1343 0 obj
+1344 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -61327,14 +61371,14 @@ endobj
 /Type /Group
 >>
 endobj
-1344 0 obj
+1345 0 obj
 <<
 /BitsPerComponent 8
-/ColorSpace 1332 0 R
+/ColorSpace 1333 0 R
 /Filter /DCTDecode
 /Height 127
 /Intent /RelativeColorimetric
-/Metadata 1345 0 R
+/Metadata 1346 0 R
 /Name /X
 /Subtype /Image
 /Type /XObject
@@ -61377,7 +61421,7 @@ k<≤2$»ì:g ÕL‰} m\#.±F
 zyKÉ”CfÿÁH–ƒËÃ⁄!Iîí÷ˆÎv„33*¶5î’6h’ªäVHI!Õô!”:î§÷µ$à§∞9m„  ˇŸ
 endstream
 endobj
-1345 0 obj
+1346 0 obj
 <<
 /Subtype /XML
 /Type /Metadata
@@ -61469,22 +61513,22 @@ stream
 
 endstream
 endobj
-1346 0 obj
+1347 0 obj
 <<
 /BBox [ 141.24 771.192 209 728.123 ]
 /Filter /FlateDecode
-/Group 1347 0 R
+/Group 1348 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ColorSpace <<
-/CS0 1332 0 R
+/CS0 1333 0 R
 >>
 /ExtGState <<
 /GS0 971 0 R
 >>
 /ProcSet [ /PDF /ImageC ]
 /XObject <<
-/Im0 1348 0 R
+/Im0 1349 0 R
 >>
 >>
 /Subtype /Form
@@ -61494,7 +61538,7 @@ stream
 HâÃ11D—ﬁßòx=é„8=¢D !™-‹_"zıˇá0\=0|*Ω!ªéDòŒ"æOπ„-álÁõ·ıì:£ZF¡ñïZs¶M0®Ïïùπ^•6X—ÿeªÏÜ”GÆÀ_Ä 0˘
 endstream
 endobj
-1347 0 obj
+1348 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -61503,14 +61547,14 @@ endobj
 /Type /Group
 >>
 endobj
-1348 0 obj
+1349 0 obj
 <<
 /BitsPerComponent 8
-/ColorSpace 1332 0 R
+/ColorSpace 1333 0 R
 /Filter /DCTDecode
 /Height 117
 /Intent /RelativeColorimetric
-/Metadata 1349 0 R
+/Metadata 1350 0 R
 /Name /X
 /Subtype /Image
 /Type /XObject
@@ -61549,7 +61593,7 @@ r)€µO’Êf÷·Z–ËnhæISîARÄ*‹„ŒN◊õ⁄9"ˆuR-∫π≠€™Û≠†NÕ<Ö!≈º€J.¥¬\.Âe‹®hÿGÜ®‘hZ”0›fä”
 moKd4ÿ|À¨•ê‚€m.õh∂¿lu)’5÷¥âù@ÕΩà˜f»I∂B$ÿ$}U“·πGà¡éLH„fÂ€tÌj^vU’bBZqƒ¨llB–ïu»Ï5≠—Â)≈«$ÅKu9Yjíõ€õrq∞Îâ€îIÄ—∑E2$Hë"DâˇŸ
 endstream
 endobj
-1349 0 obj
+1350 0 obj
 <<
 /Subtype /XML
 /Type /Metadata
@@ -61671,22 +61715,22 @@ stream
 
 endstream
 endobj
-1350 0 obj
+1351 0 obj
 <<
 /BBox [ 352.94 757.7 391.94 728.36 ]
 /Filter /FlateDecode
-/Group 1351 0 R
+/Group 1352 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ColorSpace <<
-/CS0 1332 0 R
+/CS0 1333 0 R
 >>
 /ExtGState <<
 /GS0 971 0 R
 >>
 /ProcSet [ /PDF /ImageC ]
 /XObject <<
-/Im0 1352 0 R
+/Im0 1353 0 R
 >>
 >>
 /Subtype /Form
@@ -61697,7 +61741,7 @@ Hâå;
 Ñ@Û>≈ª¿∂˝ôo.à°x £Ÿ≈›˚√ŒTÖıêGÁê≠≤'∏pÇgU|/:¶á¶e‹?zç*ÉÈösÆÖó¿1å˚™∞ej8MkÃ⁄∫ Ê‹Æ
 endstream
 endobj
-1351 0 obj
+1352 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -61706,14 +61750,14 @@ endobj
 /Type /Group
 >>
 endobj
-1352 0 obj
+1353 0 obj
 <<
 /BitsPerComponent 8
-/ColorSpace 1332 0 R
+/ColorSpace 1333 0 R
 /Filter /DCTDecode
 /Height 67
 /Intent /RelativeColorimetric
-/Metadata 1353 0 R
+/Metadata 1354 0 R
 /Name /X
 /Subtype /Image
 /Type /XObject
@@ -61756,7 +61800,7 @@ QÏñL1@≠—qû'fX	8‚òòD #^/Ø-q¨F°ˇ÷é≤BP∞DÀÆ…≥Cx&©Ç„îÄjD÷ Øö"∏_DrZ+å£8âfxµ∞Y
 k®≤jJ"«f*Ö°‘P!lÜ‰™H≤ÑßkM$Ãt[Y™eTÖU2äÕj¶q‘&˘â†.†¿‡|[⁄ñdc!— WD™ú•QB¶ô4p1¿&—@Û0ç‚x≤?hëMë´9Vhoäöñ+”QUëqSP∆LH"`Ö0ﬁ‰ùàe<ì`çÂ\Ãﬁ⁄¢sTi]"CÕ†∆sÃ6Ò¶ˇŸ
 endstream
 endobj
-1353 0 obj
+1354 0 obj
 <<
 /Subtype /XML
 /Type /Metadata
@@ -61848,11 +61892,11 @@ stream
 
 endstream
 endobj
-1354 0 obj
+1355 0 obj
 <<
 /BBox [ 1.66098 1382.6 603.339 607.898 ]
 /Filter /FlateDecode
-/Group 1355 0 R
+/Group 1356 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ExtGState <<
@@ -61867,7 +61911,7 @@ HâúóM™QFÁYEo‡ïı´V (‰-¡Å :nﬂ/éﬁD‰kBÈ{ã&á&Á\ΩÙ˘ØÎ„C•ÆﬂW^üpÈﬁÆ«ª˜Øz}˝ı¯yŸ
 […ô^9JBËîPBç¨í*§Ùp39bJ2Hóc$É8F2ì5íÅ∑îë‹ƒåd`%«I¶N2–îuéAÓJ9« 7≈úcê3rÇcê¡1»sdÉdp\Ãq3}ƒÇd–∏ö$Éjâ$î &… K*I©bI2àîS$_â"x»…¿F™HbE2–#ßIêp4«  ·méA@¬’Éò#}ê0V∏88… ﬁC2ÄÉÎêj≈… >C2ÄÉcHp… Æ!Ñãë°p!C1‡‡ C1‡‡%C1‡‡ZíÅñŸâèrN≤}VîÏDáÉõÏD?#Nv¢√¡Cv¢√¡Iv¢73d':‹d'z·0Cv¢√¡Cv¢√¡Iv¢Œ2d':‹d'∫ß8ŸâŸâ'ŸâÆ#Jv¢√¡Mv¢Ì';—‡‡!;—‡‡$;—û[…N48∏…N¥£‚d'<d'¢√$…N¥JQ≤n≤-CúÏDÉÉáÏDÉÉìÏDÛ#Jv¢¡¡Mv¢Yãìùhpêùhppíùh™¢d'B¡Mf"Ïd%B¿CF"¸õd#û%ˆm≤!_'Ó≤°ﬁ$Û0;…”¢J≥qX‚t *õRd/d¬πáÏBú\ÿ*î%õ∞·h≈#ˆ\≈ˇÙõëóBfßæ¸s®KN9£Ùç`ù•ár•¯°º¡!ÜÁqÉÃ√spø¡¡Œf<Ì`öCoÒzïÁ–ì4á>ÀshhàÁ–sÉC«uxÂ78¿G<á¥¢opÂ9x›‡ 1Ò,op–˝á? ) •h
 endstream
 endobj
-1355 0 obj
+1356 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -61876,11 +61920,11 @@ endobj
 /Type /Group
 >>
 endobj
-1356 0 obj
+1357 0 obj
 <<
 /BBox [ 1.66098 1217.15 603.339 442.45 ]
 /Filter /FlateDecode
-/Group 1357 0 R
+/Group 1358 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ExtGState <<
@@ -61897,7 +61941,7 @@ Z™öı¨˜√¢üﬂ^À˙˘ˆ‘Ûª.˝≠ÁØœÎóèü÷Û◊◊◊ó«ˇΩ”üYaÎ‹«√€¶ü??øﬁ_º_?ÏÌ∂ü^ü^¸0—wlÆ£	∑∏I&N€π
 5úwŸBÁ2Á†ÜÛJ‘p.s‘p.sj8èm5úÓ¥AÁ>®·\Ê<®·\Ê,‘pæñ-‘pÁ†Ñì7ú¥yP¿…öÖ˙mß-îorÊ†zì2≈õåyPªIòÖ“≠∆*7ÈrX∏µÏ6ªã)‹UõÎ¯Ä¢M¶‹®Ÿtv`≈fı⁄»´K´¥µ¥˙µ˙#ZŸ[qÙ·ßCZ‹'¬íMhu/úpk6°ÂÖ‰⁄^HÆıÖ‰Ô˝ÖE…ﬂ'íí+ˆ πﬁπ˛I ˘‹Ä‰£ÿc‰£ÿc‰£ÿÉ‰ä=H>M…{ê\±…{ê\±…ÛPr≈$WÏAr≈$WÏArwJÆÿÉ‰ä=Fﬁ™=Fﬁ =Fﬁß y+¯yKûê\ÊÑ‰2'$ÔM…€)πÃ	…eNH.sBÚ\î\ÊÑ‰2'$ó9!πÃ	…WBÚ∫¥·Í“Ü´CÆm∏⁄¥·j”Ü´°WMÆö6\m∏™ˇo∏Ô Áê˛
 endstream
 endobj
-1357 0 obj
+1358 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -61906,11 +61950,11 @@ endobj
 /Type /Group
 >>
 endobj
-1358 0 obj
+1359 0 obj
 <<
 /BBox [ 1.66098 864.832 603.339 90.132 ]
 /Filter /FlateDecode
-/Group 1359 0 R
+/Group 1360 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ExtGState <<
@@ -61929,7 +61973,7 @@ uŒ
 kdLaçÃ)¨í9Öu2¶…)¨ë1Ö52ß∞JÊ÷…òÇNAy;Ê<h«úÌòó∑c^ﬁéyx;f?h«ÏÌò≈€1ã∑c&o«Ãœvdg‚ùéÙ/«t^éÈº”ä3–w8“OèÚpå··√√1Ó≈ˆıBﬁçqx7FÛnå6°ÍÑ‚Ÿ…≥1ÇgcDr~@p^çaº√x5ÜAçC·—Ë√£—/èFøä!¯…ö7£7oF/ﬁå^¡!‰y !y2zdÙ‡…ËﬁÇÎ∆ã—ç£+/Fõ¡lÇC∞ÀÉ—.F;<Ì`¥Óö£/F+^åñº-£/Fs^åÊºÕx1ö=(FS^å¶ºá„¸_/˛+¿ #WAû
 endstream
 endobj
-1359 0 obj
+1360 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -61938,11 +61982,11 @@ endobj
 /Type /Group
 >>
 endobj
-1360 0 obj
+1361 0 obj
 <<
 /BBox [ 1.66098 1013.6 603.339 238.901 ]
 /Filter /FlateDecode
-/Group 1361 0 R
+/Group 1362 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ExtGState <<
@@ -61964,7 +62008,7 @@ aú¬¨~úÇ+ß0ªß†áS–ƒzÆ¿˙¶–{s
 5K ¶Pª0Ö⁄ )‘JNaîå)Ã»)åíä„dåaúå1Ã&»1åì9Üë2«0R∆F √,É√Hc»sëè≥t`πy>Œn«1‰Z÷E?fÛ~ÃÊ˝òu—èYzÅ!/2Éd»ÙãÄLèvQêiº SyA¶^dúÊ‚\$dlûê±yB∆∫H»ËsÅ°/2ä7do»»ãÜåÙqë<"√yDÜ_DdX]`∞ãäÂÈÁΩ"È–EF˙æ»HﬂÈãg§/ø‡–È}—ë^È≈;“≥.8‰ˇÜ‰/ MBL
 endstream
 endobj
-1361 0 obj
+1362 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -61973,43 +62017,43 @@ endobj
 /Type /Group
 >>
 endobj
-1362 0 obj
+1363 0 obj
 <<
 /BBox [ 273.724 758.891 327.724 732.891 ]
 /Filter /FlateDecode
-/Group 1363 0 R
+/Group 1364 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ColorSpace <<
 /CS0 1047 0 R
 >>
 /ExtGState <<
-/GS0 1364 0 R
-/GS1 1369 0 R
-/GS10 1374 0 R
-/GS11 1379 0 R
-/GS2 1385 0 R
-/GS3 1390 0 R
-/GS4 1395 0 R
-/GS5 1400 0 R
-/GS6 1405 0 R
-/GS7 1410 0 R
-/GS8 1415 0 R
-/GS9 1420 0 R
+/GS0 1365 0 R
+/GS1 1370 0 R
+/GS10 1375 0 R
+/GS11 1380 0 R
+/GS2 1386 0 R
+/GS3 1391 0 R
+/GS4 1396 0 R
+/GS5 1401 0 R
+/GS6 1406 0 R
+/GS7 1411 0 R
+/GS8 1416 0 R
+/GS9 1421 0 R
 >>
 /ProcSet [ /PDF /ImageC /ImageI ]
 /XObject <<
-/Im0 1425 0 R
-/Im1 1427 0 R
-/Im10 1429 0 R
-/Im2 1431 0 R
-/Im3 1433 0 R
-/Im4 1435 0 R
-/Im5 1437 0 R
-/Im6 1439 0 R
-/Im7 1441 0 R
-/Im8 1443 0 R
-/Im9 1445 0 R
+/Im0 1426 0 R
+/Im1 1428 0 R
+/Im10 1430 0 R
+/Im2 1432 0 R
+/Im3 1434 0 R
+/Im4 1436 0 R
+/Im5 1438 0 R
+/Im6 1440 0 R
+/Im7 1442 0 R
+/Im8 1444 0 R
+/Im9 1446 0 R
 >>
 >>
 /Subtype /Form
@@ -62037,7 +62081,7 @@ U°Õ8Ad2(mYÌqB:ÒÓ{Ó˚1zh§?,¥`â‘8û¿z:,3å1–˙s˜h©0Ö>@jò±Ö¥BÒmåCíVì,rIì»Ó
 3‘Òf{∫q(0X˛bﬁ„…0Üoå˛a¬Ïy¢Ê´u~_¯˜RÑé43‹:›6ôX,Åëõtµ±hx	aPôë,•¬‘JπWE}HHêÑÎéÇÏ=a˜∞¬5*3Wb,…Æ|˛ª>W‘ÁJ≈‚PÄ€yßDpmƒˇÂ∫‹q Ña∫˜π R®p Xÿ∏ˇÄ_ì°bt§xiÙÏ˛≤ppßÙ˘Á•ì¿°›aùƒµ¥eÖ‹Gé√˛∞[`ZÚ§i&V'?°©\NW¿ß’h¨ê[4Ìö;Oµ@Õ^uÌôûœ:®%¨+≈tRR[]ÌΩ“ù> Nçı+
 endstream
 endobj
-1363 0 obj
+1364 0 obj
 <<
 /I false
 /K false
@@ -62045,7 +62089,7 @@ endobj
 /Type /Group
 >>
 endobj
-1364 0 obj
+1365 0 obj
 <<
 /AIS false
 /BM /Normal
@@ -62053,28 +62097,28 @@ endobj
 /OP false
 /OPM 1
 /SA true
-/SMask 1365 0 R
+/SMask 1366 0 R
 /Type /ExtGState
 /ca 1
 /op false
 >>
 endobj
-1365 0 obj
+1366 0 obj
 <<
-/BC 1366 0 R
-/G 1367 0 R
+/BC 1367 0 R
+/G 1368 0 R
 /S /Luminosity
 /Type /Mask
 >>
 endobj
-1366 0 obj
+1367 0 obj
 [ 1 1 1 1 ]
 endobj
-1367 0 obj
+1368 0 obj
 <<
 /BBox [ 323.164 741.411 327.244 737.331 ]
 /Filter /FlateDecode
-/Group 1368 0 R
+/Group 1369 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ExtGState <<
@@ -62092,7 +62136,7 @@ stream
 Hâ*‰“w6PH/Ê2—30∑ DåçåıÕå-LÕMÃçÕıåç,L,ÕísπÙ=s\Úππ  @
 endstream
 endobj
-1368 0 obj
+1369 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -62101,7 +62145,7 @@ endobj
 /Type /Group
 >>
 endobj
-1369 0 obj
+1370 0 obj
 <<
 /AIS false
 /BM /Normal
@@ -62109,27 +62153,27 @@ endobj
 /OP false
 /OPM 1
 /SA true
-/SMask 1370 0 R
+/SMask 1371 0 R
 /Type /ExtGState
 /ca 1
 /op false
 >>
 endobj
-1370 0 obj
+1371 0 obj
 <<
-/BC 1371 0 R
-/G 1372 0 R
+/BC 1372 0 R
+/G 1373 0 R
 /S /Luminosity
 /Type /Mask
 >>
 endobj
-1371 0 obj
+1372 0 obj
 [ 1 1 1 1 ]
 endobj
-1372 0 obj
+1373 0 obj
 <<
 /BBox [ 324.124 740.691 326.284 738.291 ]
-/Group 1373 0 R
+/Group 1374 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ExtGState <<
@@ -62152,7 +62196,7 @@ Q
 
 endstream
 endobj
-1373 0 obj
+1374 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -62161,7 +62205,7 @@ endobj
 /Type /Group
 >>
 endobj
-1374 0 obj
+1375 0 obj
 <<
 /AIS false
 /BM /Normal
@@ -62169,27 +62213,27 @@ endobj
 /OP false
 /OPM 1
 /SA true
-/SMask 1375 0 R
+/SMask 1376 0 R
 /Type /ExtGState
 /ca 1
 /op false
 >>
 endobj
-1375 0 obj
+1376 0 obj
 <<
-/BC 1376 0 R
-/G 1377 0 R
+/BC 1377 0 R
+/G 1378 0 R
 /S /Luminosity
 /Type /Mask
 >>
 endobj
-1376 0 obj
+1377 0 obj
 [ 1 1 1 1 ]
 endobj
-1377 0 obj
+1378 0 obj
 <<
 /BBox [ 294.324 758.651 304.644 750.251 ]
-/Group 1378 0 R
+/Group 1379 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ExtGState <<
@@ -62212,7 +62256,7 @@ Q
 
 endstream
 endobj
-1378 0 obj
+1379 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -62221,7 +62265,7 @@ endobj
 /Type /Group
 >>
 endobj
-1379 0 obj
+1380 0 obj
 <<
 /AIS true
 /BM /Multiply
@@ -62229,27 +62273,27 @@ endobj
 /OP true
 /OPM 1
 /SA true
-/SMask 1380 0 R
+/SMask 1381 0 R
 /Type /ExtGState
 /ca 0.350006
 /op true
 >>
 endobj
-1380 0 obj
+1381 0 obj
 <<
-/BC 1381 0 R
-/G 1382 0 R
+/BC 1382 0 R
+/G 1383 0 R
 /S /Luminosity
 /Type /Mask
 >>
 endobj
-1381 0 obj
+1382 0 obj
 [ 1 1 1 1 ]
 endobj
-1382 0 obj
+1383 0 obj
 <<
 /BBox [ 273.724 759.371 327.964 732.971 ]
-/Group 1383 0 R
+/Group 1384 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ExtGState <<
@@ -62257,7 +62301,7 @@ endobj
 >>
 /ProcSet [ /PDF /ImageB ]
 /XObject <<
-/Im0 1384 0 R
+/Im0 1385 0 R
 >>
 >>
 /Subtype /Form
@@ -62272,7 +62316,7 @@ Q
 
 endstream
 endobj
-1383 0 obj
+1384 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -62281,7 +62325,7 @@ endobj
 /Type /Group
 >>
 endobj
-1384 0 obj
+1385 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace /DeviceGray
@@ -62388,7 +62432,7 @@ DŸ…¨,ºLñ£&Ú∂%p]hHåGTfù©QŸZ∏‘≠∞πÄºÌ◊3R…C¡Ã∞R3êL∂x}lqÄDÖùKÜ~K8éFAŸRk“ﬁ
 Êl,Y|á¬‹BP{π∫6Õﬁƒ)=Ud«“}ï)"Lä¿ÀıhÜÿ#7,†Kà<ãœ\Å‰!éÉ•éJÒ¸€"|ÿa;ì®≥\„o(+ú7Ü=N†n.HÍrœ}ÙˇŸ
 endstream
 endobj
-1385 0 obj
+1386 0 obj
 <<
 /AIS false
 /BM /Normal
@@ -62396,28 +62440,28 @@ endobj
 /OP false
 /OPM 1
 /SA true
-/SMask 1386 0 R
+/SMask 1387 0 R
 /Type /ExtGState
 /ca 1
 /op false
 >>
 endobj
-1386 0 obj
+1387 0 obj
 <<
-/BC 1387 0 R
-/G 1388 0 R
+/BC 1388 0 R
+/G 1389 0 R
 /S /Luminosity
 /Type /Mask
 >>
 endobj
-1387 0 obj
+1388 0 obj
 [ 1 1 1 1 ]
 endobj
-1388 0 obj
+1389 0 obj
 <<
 /BBox [ 274.924 756.891 294.364 737.451 ]
 /Filter /FlateDecode
-/Group 1389 0 R
+/Group 1390 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ExtGState <<
@@ -62435,7 +62479,7 @@ stream
 Hâ*‰“w6PH/Ê2¥‘31∂3 D‚ôõËY[õô)òõÎôòXò+$ÁrÈ{Ê(∏‰sr ;¥i
 endstream
 endobj
-1389 0 obj
+1390 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -62444,7 +62488,7 @@ endobj
 /Type /Group
 >>
 endobj
-1390 0 obj
+1391 0 obj
 <<
 /AIS false
 /BM /Normal
@@ -62452,27 +62496,27 @@ endobj
 /OP false
 /OPM 1
 /SA true
-/SMask 1391 0 R
+/SMask 1392 0 R
 /Type /ExtGState
 /ca 1
 /op false
 >>
 endobj
-1391 0 obj
+1392 0 obj
 <<
-/BC 1392 0 R
-/G 1393 0 R
+/BC 1393 0 R
+/G 1394 0 R
 /S /Luminosity
 /Type /Mask
 >>
 endobj
-1392 0 obj
+1393 0 obj
 [ 1 1 1 1 ]
 endobj
-1393 0 obj
+1394 0 obj
 <<
 /BBox [ 304.924 756.891 325.084 737.451 ]
-/Group 1394 0 R
+/Group 1395 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ExtGState <<
@@ -62495,7 +62539,7 @@ Q
 
 endstream
 endobj
-1394 0 obj
+1395 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -62504,7 +62548,7 @@ endobj
 /Type /Group
 >>
 endobj
-1395 0 obj
+1396 0 obj
 <<
 /AIS false
 /BM /Normal
@@ -62512,27 +62556,27 @@ endobj
 /OP false
 /OPM 1
 /SA true
-/SMask 1396 0 R
+/SMask 1397 0 R
 /Type /ExtGState
 /ca 1
 /op false
 >>
 endobj
-1396 0 obj
+1397 0 obj
 <<
-/BC 1397 0 R
-/G 1398 0 R
+/BC 1398 0 R
+/G 1399 0 R
 /S /Luminosity
 /Type /Mask
 >>
 endobj
-1397 0 obj
+1398 0 obj
 [ 1 1 1 1 ]
 endobj
-1398 0 obj
+1399 0 obj
 <<
 /BBox [ 308.284 750.891 313.804 741.531 ]
-/Group 1399 0 R
+/Group 1400 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ExtGState <<
@@ -62555,7 +62599,7 @@ Q
 
 endstream
 endobj
-1399 0 obj
+1400 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -62564,7 +62608,7 @@ endobj
 /Type /Group
 >>
 endobj
-1400 0 obj
+1401 0 obj
 <<
 /AIS false
 /BM /Normal
@@ -62572,27 +62616,27 @@ endobj
 /OP false
 /OPM 1
 /SA true
-/SMask 1401 0 R
+/SMask 1402 0 R
 /Type /ExtGState
 /ca 1
 /op false
 >>
 endobj
-1401 0 obj
+1402 0 obj
 <<
-/BC 1402 0 R
-/G 1403 0 R
+/BC 1403 0 R
+/G 1404 0 R
 /S /Luminosity
 /Type /Mask
 >>
 endobj
-1402 0 obj
+1403 0 obj
 [ 1 1 1 1 ]
 endobj
-1403 0 obj
+1404 0 obj
 <<
 /BBox [ 300.564 746.891 315.444 734.651 ]
-/Group 1404 0 R
+/Group 1405 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ExtGState <<
@@ -62615,7 +62659,7 @@ Q
 
 endstream
 endobj
-1404 0 obj
+1405 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -62624,7 +62668,7 @@ endobj
 /Type /Group
 >>
 endobj
-1405 0 obj
+1406 0 obj
 <<
 /AIS false
 /BM /Normal
@@ -62632,27 +62676,27 @@ endobj
 /OP false
 /OPM 1
 /SA true
-/SMask 1406 0 R
+/SMask 1407 0 R
 /Type /ExtGState
 /ca 1
 /op false
 >>
 endobj
-1406 0 obj
+1407 0 obj
 <<
-/BC 1407 0 R
-/G 1408 0 R
+/BC 1408 0 R
+/G 1409 0 R
 /S /Luminosity
 /Type /Mask
 >>
 endobj
-1407 0 obj
+1408 0 obj
 [ 1 1 1 1 ]
 endobj
-1408 0 obj
+1409 0 obj
 <<
 /BBox [ 291.684 747.371 305.364 735.131 ]
-/Group 1409 0 R
+/Group 1410 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ExtGState <<
@@ -62675,7 +62719,7 @@ Q
 
 endstream
 endobj
-1409 0 obj
+1410 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -62684,7 +62728,7 @@ endobj
 /Type /Group
 >>
 endobj
-1410 0 obj
+1411 0 obj
 <<
 /AIS false
 /BM /Normal
@@ -62692,27 +62736,27 @@ endobj
 /OP false
 /OPM 1
 /SA true
-/SMask 1411 0 R
+/SMask 1412 0 R
 /Type /ExtGState
 /ca 1
 /op false
 >>
 endobj
-1411 0 obj
+1412 0 obj
 <<
-/BC 1412 0 R
-/G 1413 0 R
+/BC 1413 0 R
+/G 1414 0 R
 /S /Luminosity
 /Type /Mask
 >>
 endobj
-1412 0 obj
+1413 0 obj
 [ 1 1 1 1 ]
 endobj
-1413 0 obj
+1414 0 obj
 <<
 /BBox [ 311.364 742.091 312.564 739.691 ]
-/Group 1414 0 R
+/Group 1415 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ExtGState <<
@@ -62735,7 +62779,7 @@ Q
 
 endstream
 endobj
-1414 0 obj
+1415 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -62744,7 +62788,7 @@ endobj
 /Type /Group
 >>
 endobj
-1415 0 obj
+1416 0 obj
 <<
 /AIS false
 /BM /Normal
@@ -62752,27 +62796,27 @@ endobj
 /OP false
 /OPM 1
 /SA true
-/SMask 1416 0 R
+/SMask 1417 0 R
 /Type /ExtGState
 /ca 1
 /op false
 >>
 endobj
-1416 0 obj
+1417 0 obj
 <<
-/BC 1417 0 R
-/G 1418 0 R
+/BC 1418 0 R
+/G 1419 0 R
 /S /Luminosity
 /Type /Mask
 >>
 endobj
-1417 0 obj
+1418 0 obj
 [ 1 1 1 1 ]
 endobj
-1418 0 obj
+1419 0 obj
 <<
 /BBox [ 292.404 754.331 305.124 743.051 ]
-/Group 1419 0 R
+/Group 1420 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ExtGState <<
@@ -62795,7 +62839,7 @@ Q
 
 endstream
 endobj
-1419 0 obj
+1420 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -62804,7 +62848,7 @@ endobj
 /Type /Group
 >>
 endobj
-1420 0 obj
+1421 0 obj
 <<
 /AIS false
 /BM /Normal
@@ -62812,27 +62856,27 @@ endobj
 /OP false
 /OPM 1
 /SA true
-/SMask 1421 0 R
+/SMask 1422 0 R
 /Type /ExtGState
 /ca 1
 /op false
 >>
 endobj
-1421 0 obj
+1422 0 obj
 <<
-/BC 1422 0 R
-/G 1423 0 R
+/BC 1423 0 R
+/G 1424 0 R
 /S /Luminosity
 /Type /Mask
 >>
 endobj
-1422 0 obj
+1423 0 obj
 [ 1 1 1 1 ]
 endobj
-1423 0 obj
+1424 0 obj
 <<
 /BBox [ 304.884 750.491 316.404 743.051 ]
-/Group 1424 0 R
+/Group 1425 0 R
 /Matrix [ 1 0.0 0.0 1 0.0 0.0 ]
 /Resources <<
 /ExtGState <<
@@ -62855,7 +62899,7 @@ Q
 
 endstream
 endobj
-1424 0 obj
+1425 0 obj
 <<
 /CS /DeviceCMYK
 /I false
@@ -62864,7 +62908,7 @@ endobj
 /Type /Group
 >>
 endobj
-1425 0 obj
+1426 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace 1047 0 R
@@ -62873,7 +62917,7 @@ endobj
 /Height 17
 /Intent /RelativeColorimetric
 /Name /X
-/SMask 1426 0 R
+/SMask 1427 0 R
 /Subtype /Image
 /Type /XObject
 /Width 17
@@ -62883,7 +62927,7 @@ stream
 Hâ4è[Ö C£"†<ä®ŸˇRoÍÃÂ+mI¨h£‡ˇj¥Ö8™(9pyü()Æ@`,Mu6Bóhc≥J¥á;pñz¢?˙œ‘1ë>ı	ípN-Œîê«S%5≠Œ√AAéÚã}Õ4"csñZ´õì6ÃHÃñƒn|Ô/f^'¢ÀÕb“Ú∆Lc)}£Æ“‰˝Ïùπ+:≤a~®d^áb∆Ç¸` =U	Æ
 endstream
 endobj
-1426 0 obj
+1427 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace /DeviceGray
@@ -62909,7 +62953,7 @@ stream
 !"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyzÅÇÉÑÖÜáàâäëíìîïñóòôö°¢£§•¶ß®©™±≤≥¥µ∂∑∏π∫¡¬√ƒ≈∆«»… —“”‘’÷◊ÿŸ⁄·‚„‰ÂÊÁËÈÍÒÚÛÙıˆ˜¯˘˙ˇ⁄    ? *@Ä@ˇ–*@Ä@ˇ—*@Ä@ˇŸ
 endstream
 endobj
-1427 0 obj
+1428 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace /DeviceCMYK
@@ -62917,7 +62961,7 @@ endobj
 /Height 10
 /Intent /RelativeColorimetric
 /Name /X
-/SMask 1428 0 R
+/SMask 1429 0 R
 /Subtype /Image
 /Type /XObject
 /Width 9
@@ -62929,7 +62973,7 @@ Hâ\èk
 a?>€TRπE‰P™£|≥A∞SøÇ2Ë¥„¥v≠ÜÍ‘ôt"Ø’˚+y˝ÔøB⁄ìû7\†i/–n£;"Õ8„Ã‰(£°ΩSﬂ´fΩ,‰y}è  ÚÖGg
 endstream
 endobj
-1428 0 obj
+1429 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace /DeviceGray
@@ -62956,7 +63000,7 @@ stream
 !"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyzÅÇÉÑÖÜáàâäëíìîïñóòôö°¢£§•¶ß®©™±≤≥¥µ∂∑∏π∫¡¬√ƒ≈∆«»… —“”‘’÷◊ÿŸ⁄·‚„‰ÂÊÁËÈÍÒÚÛÙıˆ˜¯˘˙ˇ⁄    ? *@@?ˇ–*@@?ˇŸ
 endstream
 endobj
-1429 0 obj
+1430 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace 1047 0 R
@@ -62965,7 +63009,7 @@ endobj
 /Height 35
 /Intent /RelativeColorimetric
 /Name /X
-/SMask 1430 0 R
+/SMask 1431 0 R
 /Subtype /Image
 /Type /XObject
 /Width 43
@@ -62977,7 +63021,7 @@ Hâ,T	b√ s˜BÙˇßN¶Îö.\∂$[ŸªŸA¬x D+“∏"St¢Û∑»ˇßIë\û”@ §ss»∫ﬁRÛŸ}òúπ‚«Ä
 Ñ{:E‰õΩŸï‚»$·Z~SuÉUH¯¶˚zëÿ´p–ö–âs⁄üyÙ[nûØ;˝¥îı±|ET:Õ¡≤2AÜå≤ÂHB˘„;”GSY¬f±leÆ÷—¨»~a˚S˘ñLÿTÀ|‘J#ÛA#€˘±√io∂ò¯JÌwb¬w¢|Ñ·à‡≠¶≥tZn]˘ÃÙ1SMp·™⁄8Ub≠kK±69”çNd!Ÿ|””˘–_÷Íï46}∏Üg|/WV_\UHhëq9VÇ™y5NÂ&Á˙aéÃl®ùŒë/2˝≠ÓÙˆ4øÂØ*¯*ä‡âôw	-<Å]”∂v	≤◊∫Ù≥ö65™◊˚¿\+à÷ÊÈNız®ä„5¡$ÎfîRì∫⁄j˜]?;a8∆uÚï‡«F¿¸‘—⁄Ÿﬁ^˘<∏çﬁA[#%∂¶zMé¥2åãéO’cÿÄw≥˙  CÚ
 endstream
 endobj
-1430 0 obj
+1431 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace /DeviceGray
@@ -63003,7 +63047,7 @@ stream
 !"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyzÅÇÉÑÖÜáàâäëíìîïñóòôö°¢£§•¶ß®©™±≤≥¥µ∂∑∏π∫¡¬√ƒ≈∆«»… —“”‘’÷◊ÿŸ⁄·‚„‰ÂÊÁËÈÍÒÚÛÙıˆ˜¯˘˙ˇ⁄    ? *@Ä@ ˇ–*@Ä@ ˇ—*@Ä@ ˇ“*@Ä@ ˇ”*@Ä@ ˇŸ
 endstream
 endobj
-1431 0 obj
+1432 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace 1047 0 R
@@ -63012,7 +63056,7 @@ endobj
 /Height 81
 /Intent /RelativeColorimetric
 /Name /X
-/SMask 1432 0 R
+/SMask 1433 0 R
 /Subtype /Image
 /Type /XObject
 /Width 81
@@ -63037,7 +63081,7 @@ SG?ß‡Côè¨ã-IÚiCv∞ÛÆÉãﬁ¯6›[*ºé*e sai¢ÉXR¸Ú∞ã\›©d±•§4”_¶’•Ò6z)^∞b^ó‹îº8
 î
 endstream
 endobj
-1432 0 obj
+1433 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace /DeviceGray
@@ -63063,7 +63107,7 @@ stream
 !"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyzÅÇÉÑÖÜáàâäëíìîïñóòôö°¢£§•¶ß®©™±≤≥¥µ∂∑∏π∫¡¬√ƒ≈∆«»… —“”‘’÷◊ÿŸ⁄·‚„‰ÂÊÁËÈÍÒÚÛÙıˆ˜¯˘˙ˇ⁄    ? ™@    ˇ–™@    ˇ—™@    ˇ“™@    ˇ”™@    ˇ‘™@    ˇ’™@    ˇ÷™@    ˇ◊™@    ˇ–™@    ˇ—™@    ˇŸ
 endstream
 endobj
-1433 0 obj
+1434 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace 1047 0 R
@@ -63072,7 +63116,7 @@ endobj
 /Height 81
 /Intent /RelativeColorimetric
 /Name /X
-/SMask 1434 0 R
+/SMask 1435 0 R
 /Subtype /Image
 /Type /XObject
 /Width 84
@@ -63094,7 +63138,7 @@ l4[HnxàC$â!‹‡Ê‚8Ñ¡‡ÍDjÒ`áî"™Ñm1I˘› dˆñÉ(§·oYÌh¸ÈÈ@áñW†)√«*bxú˚Õ%ºy∆é
 øôƒ[|Pï≈∫ÄC±µ	aÃLõÿóRËÊMü®'>I,âX*É\Åä”¥ÂÉ?´ßP£˛){ö&ì·Ê"7¥˘qU\Ë+Æ?ÚP-:)Œ˚≤Îù2êÁwúfDØ–ˇd0+”ë¬Ä£tß8y8 »÷)!⁄m)TI®ÇLlZ)‡W‚Ò¿\^d+CÓ⁄ÿ≠+	Åã.72ælê0π`dénôâTL_˜⁄úyûë†ê—‘mÀ{î«‹T°u+6≠Ï‡qZ\Ë˘àEò[ânÈ˝ãYXe#◊œ$%?‚'Ê;Ñ∞‰"K¨˘∞NÇ%¢ûÏæ©ÁObÙ!]ÉGﬁ_CQÆ&Ù*Åvê4‰¸ƒôÅ‹(%ìÑáÁ)(Óà[ö©n!B˚NN1¥∏›ô∫&_$ò_Ñe!’S;Õ√Ìˇ^û¥˛≤n€<±A.(˝ò¿ñ”ãÈ‚Í˝#]n⁄9eÕÂ˚Ì‚h!ÿ°É70_ä!mò£√Ò“«æœn˚Wrñ`˝¸πΩ5>ÏíÇˇ>(b,	C⁄N≤ÈerŸÒÜX”÷7%ã·Êúkæ¶∑xz¸-ÌkxÑú_lrM3÷íãEaV≤⁄£•H◊ˇ` ®Ó]
 endstream
 endobj
-1434 0 obj
+1435 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace /DeviceGray
@@ -63120,7 +63164,7 @@ stream
 !"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyzÅÇÉÑÖÜáàâäëíìîïñóòôö°¢£§•¶ß®©™±≤≥¥µ∂∑∏π∫¡¬√ƒ≈∆«»… —“”‘’÷◊ÿŸ⁄·‚„‰ÂÊÁËÈÍÒÚÛÙıˆ˜¯˘˙ˇ⁄    ? ™@    ˇ–™@    ˇ—™@    ˇ“™@    ˇ”™@    ˇ‘™@    ˇ’™@    ˇ÷™@    ˇ◊™@    ˇ–™@    ˇ—™@    ˇŸ
 endstream
 endobj
-1435 0 obj
+1436 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace 1047 0 R
@@ -63129,7 +63173,7 @@ endobj
 /Height 39
 /Intent /RelativeColorimetric
 /Name /X
-/SMask 1436 0 R
+/SMask 1437 0 R
 /Subtype /Image
 /Type /XObject
 /Width 23
@@ -63139,7 +63183,7 @@ stream
 Hâ$S	∂É ã ñU$˜?Íœ¯_˚Í8KíYä“Pq!Á9/r?x9»U·:‡±;2F¶|/2/ãA?ß¢$kƒÕL.ÙÍ´R[,Å°*êúÃ-l˘S÷Ø,¢(≈ﬂ¬Íy;%ŒÄpb&9Ä[ÖÆ*…@∞òÅ˜ú∞"îëøÿˆÛ2Æ[Ø>Û∆:Âo∆7‹)'‚bYu8>m’hÆ£òk…¸)‡cR“:äTùª&ëgŒD–#»Àü)¯Ùx+PYî–~j’¡îOkc´Ãªˇí?"ƒAœA6È~DLS,éSÆöé ÎˆØÇÇè∆Oπ£—é%ÌﬁΩd	n€<•lb0d⁄Rá÷[⁄TÙZu¸NJÆM3“?õçÁ‘˛ËÖÆóî~\˙‹Ë˛^π1˜Ëêo∫Ãé5D∫ÚêÒÚ˘m!ÿREVyno¶bë~í¡9R∑•)Hßbß•úDCª’âæµ∂";/¥∏£ﬁÖ≥4)_õèVıMD§-”O;Di	VúzÈØ¥¸¥¥f'j´•ÆôM˝Öcî$[«√Î{NæØ¯4êﬁ±ì˝'™5&RÕˆ1puç∫œaã¨Gˇøn≈˜€êèˇª@Q˛ *ﬂFñ∑;“9HÃÒƒiå˚ªù˜OÄ *s‚
 endstream
 endobj
-1436 0 obj
+1437 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace /DeviceGray
@@ -63165,7 +63209,7 @@ stream
 !"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyzÅÇÉÑÖÜáàâäëíìîïñóòôö°¢£§•¶ß®©™±≤≥¥µ∂∑∏π∫¡¬√ƒ≈∆«»… —“”‘’÷◊ÿŸ⁄·‚„‰ÂÊÁËÈÍÒÚÛÙıˆ˜¯˘˙ˇ⁄    ? *@Ä@ˇ–*@Ä@ˇ—*@Ä@ˇ“*@Ä@ˇ”*@Ä@ˇŸ
 endstream
 endobj
-1437 0 obj
+1438 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace 1047 0 R
@@ -63174,7 +63218,7 @@ endobj
 /Height 51
 /Intent /RelativeColorimetric
 /Name /X
-/SMask 1438 0 R
+/SMask 1439 0 R
 /Subtype /Image
 /Type /XObject
 /Width 62
@@ -63189,7 +63233,7 @@ s8ç:¡Å·´	ã˜r2ügœ|Q$øz)P+†b»;™wvº:æ…ÂË·°Q›nxÈ,8u]Q£Q –_¥äﬁ/Z.ua˝A
 #®A[∫˘•á∏H(ﬂ¯›<˘:MêVF∆ó…A…#òƒÕ‚zà:_‹;z\ARı¿l£{e‰PhÁ∆Qﬁ~«*;SÈnª‹9®=Ç√êHhíÃªØÒF#“ïnôh\p™«Ó£V3Hc‹G<ª∏∂%]’1Uö˝ûåëC$ÈO(úgk	OaËÀhTÙ8â™∆\˙¶X¶*é FÖIƒITòÕ°ã?ﬁxôÊ±YñpMÚ`Y.$íÇ¯e<,xíQ=˙°d≥I∂ªﬂ*K,BL?Mïúe Ã,(®â¸1`?∏«){Eî&êy£@êû/ºUQT„¢ª&k0Q.Öõ:t'Ñ≥å&ÄìÒ¢„£Æ‹–ÕZFŒı“â»J¥™>≈¶öèo /â«±∆∞îÏ[ª†PëÖÖüÇ`øCM∫›&ÏGÇú\-~òBºë]B£Â¯ìµÚÛ/Î≥∑PW‡&c ≠œÄ™XO8Âäµ¸˙ÿ«\±ŸMës∂OŸ”¯2»X^ ìP]è]‚gáÅ‰∞m¢∆ÇUË„Öó.‘Ñ%”VûçCMVıˆ]Q}Jﬂù≤P`#åûbzV“¿W÷¨¯ñé±e¥˝'∂ïπ›‡ù};äËƒ%Í~Û'≥n◊◊X¢1±*#•ˆoLQlæE¶ñ˙Õπ#î˙€GIf¬€ÊZAÑC»øuF3|ÙkB~+,Ï∆l\˝÷G=¨Ê◊Õê5d[,n¯∏Q¢ÏºæÓ‘Üïïæ.,D=À6¶É◊zgæTNZ8æ8Qé˛ ûËÉ–
 endstream
 endobj
-1438 0 obj
+1439 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace /DeviceGray
@@ -63215,7 +63259,7 @@ stream
 !"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyzÅÇÉÑÖÜáàâäëíìîïñóòôö°¢£§•¶ß®©™±≤≥¥µ∂∑∏π∫¡¬√ƒ≈∆«»… —“”‘’÷◊ÿŸ⁄·‚„‰ÂÊÁËÈÍÒÚÛÙıˆ˜¯˘˙ˇ⁄    ? TÑˇ–TÑˇ—TÑˇ“TÑˇ”TÑˇ‘TÑˇ’TÑˇŸ
 endstream
 endobj
-1439 0 obj
+1440 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace 1047 0 R
@@ -63224,7 +63268,7 @@ endobj
 /Height 51
 /Intent /RelativeColorimetric
 /Name /X
-/SMask 1440 0 R
+/SMask 1441 0 R
 /Subtype /Image
 /Type /XObject
 /Width 57
@@ -63237,7 +63281,7 @@ KDπß=çäx°Ñùªa-ñÿÿ√îª	à≈äº‚.píCˇÆ%ÓÖ0√±ÁÑ+Æ˝›ùàxGÕF :ßpXÕ∆£òOB6
 ∏"∞øúÓr„‘≠»ì·.¶ªÑ:±»Ì√¬mILò‡¨<”a∏3~0·ŸX>Y]N6X7N-«∑K˛GÇ∞œ4(w»,{qbÖ? ∂îÅ≠
 endstream
 endobj
-1440 0 obj
+1441 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace /DeviceGray
@@ -63263,7 +63307,7 @@ stream
 !"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyzÅÇÉÑÖÜáàâäëíìîïñóòôö°¢£§•¶ß®©™±≤≥¥µ∂∑∏π∫¡¬√ƒ≈∆«»… —“”‘’÷◊ÿŸ⁄·‚„‰ÂÊÁËÈÍÒÚÛÙıˆ˜¯˘˙ˇ⁄    ? TÑˇ–TÑˇ—TÑˇ“TÑˇ”TÑˇ‘TÑˇ’TÑˇŸ
 endstream
 endobj
-1441 0 obj
+1442 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace /DeviceCMYK
@@ -63271,7 +63315,7 @@ endobj
 /Height 10
 /Intent /RelativeColorimetric
 /Name /X
-/SMask 1442 0 R
+/SMask 1443 0 R
 /Subtype /Image
 /Type /XObject
 /Width 5
@@ -63281,7 +63325,7 @@ stream
 Hâb``ÿœ¿¿p	à ÒU >≈ÁÅ¯T¸í<LÕ)Ñ^êÿ®¯Y$5W†‚ó†j˜CÂéCÈ˝x9®N†â√‹¥j>»W +'
 endstream
 endobj
-1442 0 obj
+1443 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace /DeviceGray
@@ -63308,7 +63352,7 @@ stream
 !"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyzÅÇÉÑÖÜáàâäëíìîïñóòôö°¢£§•¶ß®©™±≤≥¥µ∂∑∏π∫¡¬√ƒ≈∆«»… —“”‘’÷◊ÿŸ⁄·‚„‰ÂÊÁËÈÍÒÚÛÙıˆ˜¯˘˙ˇ⁄    ? *@ˇ–*@ˇŸ
 endstream
 endobj
-1443 0 obj
+1444 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace 1047 0 R
@@ -63317,7 +63361,7 @@ endobj
 /Height 47
 /Intent /RelativeColorimetric
 /Name /X
-/SMask 1444 0 R
+/SMask 1445 0 R
 /Subtype /Image
 /Type /XObject
 /Width 53
@@ -63332,7 +63376,7 @@ Hâ,V	bÉ0sn»M˛ˇS'eÌ÷ä„CñÂ-#‚KIY.ë˙J~T_ßÜ.—&KÉNmfO≠“z\!y…ÚU#WIöUﬁØË}'∏P}∆.Íç
 ë]P–si)Íˇ»è˘Ç¶j›cV∞´§Q-ªñˇc¥p‰ ≤$ëBQ”çñ∑@ÃM√@8Zû*P2Áäùµé;gM√E2º:ë/∆∞˛€«âQå¢¿«Ä∞,LX(©ar«†¯/iö	Ÿ∆ÂÚÀ*ú¸•ÌR”éK@†˙˜l*u™pÖ‚≠Ü)ÍM≠u\»»áÂ””ˆ’€*Ù˚ãó^Ì<Ú‡.õ‚°$Ö¥#lº¥BRR+&xBÜ»7L$¨¢˙Ñï£öÔ(XÛ4LœB’·{ªT∞ëÜ»x#øÄÏª≥kQ öΩ\ˆeπó>‰çq“H‘ò◊,zv Dm›ù^e˚‘yËL’‚Tªˇ&B˜ ˇ¨7‹‚hq¯EJ›ZmıîóuJ†¶$t%ôCk	k-Ú»∫ÀzËVªqíœ®&¢¸Sìœ¬£ˆ}w˛WA”õ€£q≠n∞Ï¿Ï°á~Wù˚_˛e4Ç∏„@E˙_Ïf¨°†]ì…X⁄œB◊;ˆSl¢Êº˛r‹‹i‰77∂Ã›@ˆ¨%£wP›√,ÆËb“øª}=+¯É"∏™qTi§;.çÅX'3Yjò/ﬂ≈=ç¢†˘©¡¸§u?ƒˇu˛4d6XLÀû¬ƒ|êíŒ@µ™%ˆt¬›,M^pﬁE‡^¬x!˝™≤·¸` ùp„
 endstream
 endobj
-1444 0 obj
+1445 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace /DeviceGray
@@ -63358,7 +63402,7 @@ stream
 !"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyzÅÇÉÑÖÜáàâäëíìîïñóòôö°¢£§•¶ß®©™±≤≥¥µ∂∑∏π∫¡¬√ƒ≈∆«»… —“”‘’÷◊ÿŸ⁄·‚„‰ÂÊÁËÈÍÒÚÛÙıˆ˜¯˘˙ˇ⁄    ? *@Ä@ ˇ–*@Ä@ ˇ—*@Ä@ ˇ“*@Ä@ ˇ”*@Ä@ ˇ‘*@Ä@ ˇŸ
 endstream
 endobj
-1445 0 obj
+1446 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace 1047 0 R
@@ -63367,7 +63411,7 @@ endobj
 /Height 31
 /Intent /RelativeColorimetric
 /Name /X
-/SMask 1446 0 R
+/SMask 1447 0 R
 /Subtype /Image
 /Type /XObject
 /Width 48
@@ -63380,7 +63424,7 @@ Hâ4T	í‰0√˜ﬂ¸ˇ©+‹;©ÍN‚`#$çn∆†Kë(.÷ºb"⁄äq€X9Ù∫ıcÑP”dâÊ‹ñ1≠O≥n}ÉÒ—X∫Ì~LÉ÷“m“
 ’N]-∆Ñ_–gf "[À¨±Ü*ò‚F»»Ö7®•Áœ.Ú Ë≠∂EÉÙOÄ 9ò2ú
 endstream
 endobj
-1446 0 obj
+1447 0 obj
 <<
 /BitsPerComponent 8
 /ColorSpace /DeviceGray
@@ -63406,7 +63450,7 @@ stream
 !"#$%&'()*123456789:ABCDEFGHIJQRSTUVWXYZabcdefghijqrstuvwxyzÅÇÉÑÖÜáàâäëíìîïñóòôö°¢£§•¶ß®©™±≤≥¥µ∂∑∏π∫¡¬√ƒ≈∆«»… —“”‘’÷◊ÿŸ⁄·‚„‰ÂÊÁËÈÍÒÚÛÙıˆ˜¯˘˙ˇ⁄    ? *@Ä@ ˇ–*@Ä@ ˇ—*@Ä@ ˇ“*@Ä@ ˇŸ
 endstream
 endobj
-1447 0 obj
+1448 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63435,7 +63479,7 @@ Q
 
 endstream
 endobj
-1448 0 obj
+1449 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63464,7 +63508,7 @@ Q
 
 endstream
 endobj
-1449 0 obj
+1450 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63493,7 +63537,7 @@ Q
 
 endstream
 endobj
-1450 0 obj
+1451 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63522,7 +63566,7 @@ Q
 
 endstream
 endobj
-1451 0 obj
+1452 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63555,7 +63599,7 @@ Q
 
 endstream
 endobj
-1452 0 obj
+1453 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63584,7 +63628,7 @@ Q
 
 endstream
 endobj
-1453 0 obj
+1454 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63617,7 +63661,7 @@ Q
 
 endstream
 endobj
-1454 0 obj
+1455 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63646,7 +63690,7 @@ Q
 
 endstream
 endobj
-1455 0 obj
+1456 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63675,7 +63719,7 @@ Q
 
 endstream
 endobj
-1456 0 obj
+1457 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63704,7 +63748,7 @@ Q
 
 endstream
 endobj
-1457 0 obj
+1458 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63733,7 +63777,7 @@ Q
 
 endstream
 endobj
-1458 0 obj
+1459 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63762,7 +63806,7 @@ Q
 
 endstream
 endobj
-1459 0 obj
+1460 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63791,7 +63835,7 @@ Q
 
 endstream
 endobj
-1460 0 obj
+1461 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63820,7 +63864,7 @@ Q
 
 endstream
 endobj
-1461 0 obj
+1462 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63849,7 +63893,7 @@ Q
 
 endstream
 endobj
-1462 0 obj
+1463 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63878,7 +63922,7 @@ Q
 
 endstream
 endobj
-1463 0 obj
+1464 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63907,7 +63951,7 @@ Q
 
 endstream
 endobj
-1464 0 obj
+1465 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63936,7 +63980,7 @@ Q
 
 endstream
 endobj
-1465 0 obj
+1466 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63965,7 +64009,7 @@ Q
 
 endstream
 endobj
-1466 0 obj
+1467 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -63994,7 +64038,7 @@ Q
 
 endstream
 endobj
-1467 0 obj
+1468 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64004,7 +64048,7 @@ endobj
 /Helv 1022 0 R
 >>
 >>
-/Length 159
+/Length 149
 >>
 stream
 q
@@ -64015,7 +64059,7 @@ W
 BT
 /Helv 5.5 Tf 0 g
 2 5.9160000000000315 Td
-(Wis save; 1d6 psychic; Disadv. next atk) Tj
+(Wis; 1d6; Disadv. next attack) Tj
 ET
 Q
 EMC
@@ -64023,7 +64067,7 @@ Q
 
 endstream
 endobj
-1468 0 obj
+1469 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64052,7 +64096,7 @@ Q
 
 endstream
 endobj
-1469 0 obj
+1470 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64081,7 +64125,7 @@ Q
 
 endstream
 endobj
-1470 0 obj
+1471 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64110,7 +64154,7 @@ Q
 
 endstream
 endobj
-1471 0 obj
+1472 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64139,7 +64183,7 @@ Q
 
 endstream
 endobj
-1472 0 obj
+1473 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64168,7 +64212,7 @@ Q
 
 endstream
 endobj
-1473 0 obj
+1474 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64197,7 +64241,7 @@ Q
 
 endstream
 endobj
-1474 0 obj
+1475 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64226,7 +64270,7 @@ Q
 
 endstream
 endobj
-1475 0 obj
+1476 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64255,7 +64299,7 @@ Q
 
 endstream
 endobj
-1476 0 obj
+1477 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64284,7 +64328,7 @@ Q
 
 endstream
 endobj
-1477 0 obj
+1478 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64294,7 +64338,7 @@ endobj
 /Helv 1022 0 R
 >>
 >>
-/Length 149
+/Length 146
 >>
 stream
 q
@@ -64305,7 +64349,7 @@ W
 BT
 /Helv 5.5 Tf 0 g
 2 5.916499999999991 Td
-([C] Lineage spell; 1/Long Rest) Tj
+([C, R] Lineage; 1/Long Rest) Tj
 ET
 Q
 EMC
@@ -64313,7 +64357,7 @@ Q
 
 endstream
 endobj
-1478 0 obj
+1479 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64342,7 +64386,7 @@ Q
 
 endstream
 endobj
-1479 0 obj
+1480 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64371,7 +64415,7 @@ Q
 
 endstream
 endobj
-1480 0 obj
+1481 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64400,7 +64444,7 @@ Q
 
 endstream
 endobj
-1481 0 obj
+1482 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64429,7 +64473,7 @@ Q
 
 endstream
 endobj
-1482 0 obj
+1483 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64458,7 +64502,7 @@ Q
 
 endstream
 endobj
-1483 0 obj
+1484 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64487,7 +64531,7 @@ Q
 
 endstream
 endobj
-1484 0 obj
+1485 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64516,7 +64560,7 @@ Q
 
 endstream
 endobj
-1485 0 obj
+1486 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64545,7 +64589,7 @@ Q
 
 endstream
 endobj
-1486 0 obj
+1487 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64574,7 +64618,7 @@ Q
 
 endstream
 endobj
-1487 0 obj
+1488 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64584,7 +64628,7 @@ endobj
 /Helv 1022 0 R
 >>
 >>
-/Length 155
+/Length 142
 >>
 stream
 q
@@ -64595,7 +64639,7 @@ W
 BT
 /Helv 5.5 Tf 0 g
 2 5.916499999999991 Td
-(Wis save; 3d6 psychic; reaction move) Tj
+(Wis; 3d6; Reaction move) Tj
 ET
 Q
 EMC
@@ -64603,7 +64647,7 @@ Q
 
 endstream
 endobj
-1488 0 obj
+1489 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64632,7 +64676,7 @@ Q
 
 endstream
 endobj
-1489 0 obj
+1490 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64661,7 +64705,7 @@ Q
 
 endstream
 endobj
-1490 0 obj
+1491 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64690,7 +64734,7 @@ Q
 
 endstream
 endobj
-1491 0 obj
+1492 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64719,7 +64763,7 @@ Q
 
 endstream
 endobj
-1492 0 obj
+1493 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64729,7 +64773,7 @@ endobj
 /Helv 1022 0 R
 >>
 >>
-/Length 155
+/Length 150
 >>
 stream
 q
@@ -64740,7 +64784,7 @@ W
 BT
 /Helv 5.5 Tf 0 g
 2 5.916000000000003 Td
-([C] Dex save; attacks gain Advantage) Tj
+([C] Dex; attacks have Advantage) Tj
 ET
 Q
 EMC
@@ -64748,7 +64792,7 @@ Q
 
 endstream
 endobj
-1493 0 obj
+1494 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64777,7 +64821,7 @@ Q
 
 endstream
 endobj
-1494 0 obj
+1495 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64806,7 +64850,7 @@ Q
 
 endstream
 endobj
-1495 0 obj
+1496 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64835,7 +64879,7 @@ Q
 
 endstream
 endobj
-1496 0 obj
+1497 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64864,7 +64908,7 @@ Q
 
 endstream
 endobj
-1497 0 obj
+1498 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64874,7 +64918,7 @@ endobj
 /Helv 1022 0 R
 >>
 >>
-/Length 145
+/Length 140
 >>
 stream
 q
@@ -64885,7 +64929,7 @@ W
 BT
 /Helv 5.5 Tf 0 g
 2 5.916000000000003 Td
-(Con save; 2d8; push 10 ft.) Tj
+(Con; 2d8; push 10 ft.) Tj
 ET
 Q
 EMC
@@ -64893,7 +64937,7 @@ Q
 
 endstream
 endobj
-1498 0 obj
+1499 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64922,7 +64966,7 @@ Q
 
 endstream
 endobj
-1499 0 obj
+1500 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64951,7 +64995,7 @@ Q
 
 endstream
 endobj
-1500 0 obj
+1501 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -64980,7 +65024,7 @@ Q
 
 endstream
 endobj
-1501 0 obj
+1502 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -65009,7 +65053,7 @@ Q
 
 endstream
 endobj
-1502 0 obj
+1503 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -65019,7 +65063,7 @@ endobj
 /Helv 1022 0 R
 >>
 >>
-/Length 147
+/Length 146
 >>
 stream
 q
@@ -65030,7 +65074,7 @@ W
 BT
 /Helv 5.5 Tf 0 g
 2 5.916000000000003 Td
-(Con save; 3d8; 10-ft. sphere) Tj
+([M] Con; 3d8; 10-ft. sphere) Tj
 ET
 Q
 EMC
@@ -65038,7 +65082,7 @@ Q
 
 endstream
 endobj
-1503 0 obj
+1504 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -65067,7 +65111,7 @@ Q
 
 endstream
 endobj
-1504 0 obj
+1505 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -65096,7 +65140,7 @@ Q
 
 endstream
 endobj
-1505 0 obj
+1506 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -65125,7 +65169,7 @@ Q
 
 endstream
 endobj
-1506 0 obj
+1507 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -65154,7 +65198,7 @@ Q
 
 endstream
 endobj
-1507 0 obj
+1508 0 obj
 <<
 /Type /XObject
 /Subtype /Form
@@ -65164,7 +65208,7 @@ endobj
 /Helv 1022 0 R
 >>
 >>
-/Length 157
+/Length 155
 >>
 stream
 q
@@ -65175,7 +65219,7 @@ W
 BT
 /Helv 5.5 Tf 0 g
 2 5.916499999999991 Td
-([C] Wis save; reasonable course; 8 hr.) Tj
+([C, M] Wis; achievable course; 8 hr.) Tj
 ET
 Q
 EMC
@@ -65184,7 +65228,7 @@ Q
 endstream
 endobj
 xref
-0 1508
+0 1509
 0000000000 65535 f 
 0000000015 00000 n 
 0000000162 00000 n 
@@ -65944,761 +65988,762 @@ xref
 0000710851 00000 n 
 0000711128 00000 n 
 0000711410 00000 n 
-0000711699 00000 n 
-0000711981 00000 n 
-0000712258 00000 n 
-0000712540 00000 n 
-0000712836 00000 n 
-0000713321 00000 n 
-0000713743 00000 n 
-0000714128 00000 n 
-0000714441 00000 n 
-0000714737 00000 n 
-0000714999 00000 n 
-0000715237 00000 n 
-0000715487 00000 n 
-0000715737 00000 n 
-0000715987 00000 n 
-0000716227 00000 n 
-0000716477 00000 n 
-0000716795 00000 n 
-0000717112 00000 n 
-0000717429 00000 n 
-0000717746 00000 n 
-0000718063 00000 n 
-0000718380 00000 n 
-0000718697 00000 n 
-0000719014 00000 n 
-0000719313 00000 n 
-0000719611 00000 n 
-0000719910 00000 n 
-0000720209 00000 n 
-0000720506 00000 n 
-0000720802 00000 n 
-0000721099 00000 n 
-0000721397 00000 n 
-0000721694 00000 n 
-0000721993 00000 n 
-0000722292 00000 n 
-0000722589 00000 n 
-0000722886 00000 n 
-0000723184 00000 n 
-0000723483 00000 n 
-0000723781 00000 n 
-0000724077 00000 n 
-0000724377 00000 n 
-0000724676 00000 n 
-0000724975 00000 n 
-0000725275 00000 n 
-0000725574 00000 n 
-0000725873 00000 n 
-0000726173 00000 n 
-0000727738 00000 n 
-0000823001 00000 n 
-0000823070 00000 n 
-0000823202 00000 n 
-0000823342 00000 n 
-0000823482 00000 n 
-0000823607 00000 n 
-0000823680 00000 n 
-0000823705 00000 n 
-0000829490 00000 n 
-0000829577 00000 n 
-0000830148 00000 n 
-0000830704 00000 n 
-0000831265 00000 n 
-0000831811 00000 n 
-0000832411 00000 n 
-0000832996 00000 n 
-0000833645 00000 n 
-0000834279 00000 n 
-0000834928 00000 n 
-0000835562 00000 n 
-0000836147 00000 n 
-0000836717 00000 n 
-0000837344 00000 n 
-0000837956 00000 n 
-0000838583 00000 n 
-0000839195 00000 n 
-0000839752 00000 n 
-0000840294 00000 n 
-0000840910 00000 n 
-0000841511 00000 n 
-0000842101 00000 n 
-0000842676 00000 n 
-0000842785 00000 n 
-0000842980 00000 n 
-0000843080 00000 n 
-0000843407 00000 n 
-0000844086 00000 n 
-0000844396 00000 n 
-0000844805 00000 n 
-0000844892 00000 n 
-0000844961 00000 n 
-0000845194 00000 n 
-0000845253 00000 n 
-0000845346 00000 n 
-0000849800 00000 n 
-0000853607 00000 n 
-0000854018 00000 n 
-0000854105 00000 n 
-0000859302 00000 n 
-0000863421 00000 n 
-0000863815 00000 n 
-0000863902 00000 n 
-0000870943 00000 n 
-0000874750 00000 n 
-0000875160 00000 n 
-0000875247 00000 n 
-0000880100 00000 n 
-0000884780 00000 n 
-0000885186 00000 n 
-0000885273 00000 n 
-0000888519 00000 n 
-0000892326 00000 n 
-0000893314 00000 n 
-0000893401 00000 n 
-0000894487 00000 n 
-0000894574 00000 n 
-0000895884 00000 n 
-0000895971 00000 n 
-0000897198 00000 n 
-0000897285 00000 n 
-0000903319 00000 n 
-0000903390 00000 n 
-0000903516 00000 n 
-0000903589 00000 n 
-0000903618 00000 n 
-0000903965 00000 n 
-0000904052 00000 n 
-0000904178 00000 n 
-0000904251 00000 n 
-0000904280 00000 n 
-0000904603 00000 n 
-0000904690 00000 n 
-0000904816 00000 n 
-0000904889 00000 n 
-0000904918 00000 n 
-0000905247 00000 n 
-0000905334 00000 n 
-0000905473 00000 n 
-0000905546 00000 n 
-0000905575 00000 n 
-0000905905 00000 n 
-0000905992 00000 n 
-0000924500 00000 n 
-0000924626 00000 n 
-0000924699 00000 n 
-0000924728 00000 n 
-0000925077 00000 n 
-0000925164 00000 n 
-0000925290 00000 n 
-0000925363 00000 n 
-0000925392 00000 n 
-0000925721 00000 n 
-0000925808 00000 n 
-0000925934 00000 n 
-0000926007 00000 n 
-0000926036 00000 n 
-0000926364 00000 n 
-0000926451 00000 n 
-0000926577 00000 n 
-0000926650 00000 n 
-0000926679 00000 n 
-0000927009 00000 n 
-0000927096 00000 n 
-0000927222 00000 n 
-0000927295 00000 n 
-0000927324 00000 n 
-0000927654 00000 n 
-0000927741 00000 n 
-0000927867 00000 n 
-0000927940 00000 n 
-0000927969 00000 n 
-0000928288 00000 n 
-0000928375 00000 n 
-0000928501 00000 n 
-0000928574 00000 n 
-0000928603 00000 n 
-0000928931 00000 n 
-0000929018 00000 n 
-0000929144 00000 n 
-0000929217 00000 n 
-0000929246 00000 n 
-0000929573 00000 n 
-0000929660 00000 n 
-0000930073 00000 n 
-0000930629 00000 n 
-0000930966 00000 n 
-0000931512 00000 n 
-0000932577 00000 n 
-0000933162 00000 n 
-0000936954 00000 n 
-0000937588 00000 n 
-0000941442 00000 n 
-0000942076 00000 n 
-0000942810 00000 n 
-0000943380 00000 n 
-0000945365 00000 n 
-0000945977 00000 n 
-0000947809 00000 n 
-0000948421 00000 n 
-0000948724 00000 n 
-0000949266 00000 n 
-0000950865 00000 n 
-0000951466 00000 n 
-0000952521 00000 n 
-0000953096 00000 n 
-0000953375 00000 n 
-0000953821 00000 n 
-0000954112 00000 n 
-0000954533 00000 n 
-0000954825 00000 n 
-0000957911 00000 n 
-0001028078 00000 n 
-0001028147 00000 n 
-0001028271 00000 n 
-0001028393 00000 n 
-0001028531 00000 n 
-0001028656 00000 n 
-0001028729 00000 n 
-0001028754 00000 n 
-0001038428 00000 n 
-0001038515 00000 n 
-0001039115 00000 n 
-0001039700 00000 n 
-0001040295 00000 n 
-0001040875 00000 n 
-0001041470 00000 n 
-0001042050 00000 n 
-0001042665 00000 n 
-0001043265 00000 n 
-0001043860 00000 n 
-0001044440 00000 n 
-0001045030 00000 n 
-0001045605 00000 n 
-0001046182 00000 n 
-0001046744 00000 n 
-0001047330 00000 n 
-0001047901 00000 n 
-0001048475 00000 n 
-0001049034 00000 n 
-0001049242 00000 n 
-0001049435 00000 n 
-0001050036 00000 n 
-0001050622 00000 n 
-0001051184 00000 n 
-0001051730 00000 n 
-0001052285 00000 n 
-0001052824 00000 n 
-0001053446 00000 n 
-0001054052 00000 n 
-0001054649 00000 n 
-0001055230 00000 n 
-0001055822 00000 n 
-0001056398 00000 n 
-0001056995 00000 n 
-0001057576 00000 n 
-0001057730 00000 n 
-0001057761 00000 n 
-0001058013 00000 n 
-0001058090 00000 n 
-0001058403 00000 n 
-0001058498 00000 n 
-0001061175 00000 n 
-0001061515 00000 n 
-0001061625 00000 n 
-0001061729 00000 n 
-0001063058 00000 n 
-0001063507 00000 n 
-0001063803 00000 n 
-0001069700 00000 n 
-0001070158 00000 n 
-0001070610 00000 n 
-0001070903 00000 n 
-0001076973 00000 n 
-0001077438 00000 n 
-0001078024 00000 n 
-0001078311 00000 n 
-0001086697 00000 n 
-0001087247 00000 n 
-0001087335 00000 n 
-0001088583 00000 n 
-0001088671 00000 n 
-0001090036 00000 n 
-0001090124 00000 n 
-0001091343 00000 n 
-0001091431 00000 n 
-0001092760 00000 n 
-0001092848 00000 n 
-0001102981 00000 n 
-0001103053 00000 n 
-0001103108 00000 n 
-0001103234 00000 n 
-0001103362 00000 n 
-0001103438 00000 n 
-0001103468 00000 n 
-0001103793 00000 n 
-0001103881 00000 n 
-0001104009 00000 n 
-0001104085 00000 n 
-0001104115 00000 n 
-0001104443 00000 n 
-0001104531 00000 n 
-0001104659 00000 n 
-0001104735 00000 n 
-0001104765 00000 n 
-0001105093 00000 n 
-0001105181 00000 n 
-0001105309 00000 n 
-0001105385 00000 n 
-0001105415 00000 n 
-0001105742 00000 n 
-0001105830 00000 n 
-0001105958 00000 n 
-0001106034 00000 n 
-0001106064 00000 n 
-0001106391 00000 n 
-0001106479 00000 n 
-0001106607 00000 n 
-0001106683 00000 n 
-0001106713 00000 n 
-0001107040 00000 n 
-0001107128 00000 n 
-0001107256 00000 n 
-0001107332 00000 n 
-0001107362 00000 n 
-0001107688 00000 n 
-0001107776 00000 n 
-0001107904 00000 n 
-0001107980 00000 n 
-0001108010 00000 n 
-0001108337 00000 n 
-0001108425 00000 n 
-0001108553 00000 n 
-0001108629 00000 n 
-0001108659 00000 n 
-0001108986 00000 n 
-0001109074 00000 n 
-0001109202 00000 n 
-0001109278 00000 n 
-0001109308 00000 n 
-0001109636 00000 n 
-0001109724 00000 n 
-0001109852 00000 n 
-0001109928 00000 n 
-0001109958 00000 n 
-0001110274 00000 n 
-0001110362 00000 n 
-0001110490 00000 n 
-0001110566 00000 n 
-0001110596 00000 n 
-0001110913 00000 n 
-0001111001 00000 n 
-0001111129 00000 n 
-0001111205 00000 n 
-0001111235 00000 n 
-0001111564 00000 n 
-0001111652 00000 n 
-0001111780 00000 n 
-0001111856 00000 n 
-0001111886 00000 n 
-0001112205 00000 n 
-0001112293 00000 n 
-0001112421 00000 n 
-0001112497 00000 n 
-0001112527 00000 n 
-0001112842 00000 n 
-0001112930 00000 n 
-0001113071 00000 n 
-0001113147 00000 n 
-0001113177 00000 n 
-0001113508 00000 n 
-0001113596 00000 n 
-0001144994 00000 n 
-0001145122 00000 n 
-0001145198 00000 n 
-0001145228 00000 n 
-0001145555 00000 n 
-0001145643 00000 n 
-0001145771 00000 n 
-0001145847 00000 n 
-0001145877 00000 n 
-0001146206 00000 n 
-0001146294 00000 n 
-0001146422 00000 n 
-0001146498 00000 n 
-0001146528 00000 n 
-0001146857 00000 n 
-0001146945 00000 n 
-0001147073 00000 n 
-0001147149 00000 n 
-0001147179 00000 n 
-0001147508 00000 n 
-0001147596 00000 n 
-0001147724 00000 n 
-0001147800 00000 n 
-0001147830 00000 n 
-0001148159 00000 n 
-0001148247 00000 n 
-0001148375 00000 n 
-0001148451 00000 n 
-0001148481 00000 n 
-0001148810 00000 n 
-0001148898 00000 n 
-0001149026 00000 n 
-0001149102 00000 n 
-0001149132 00000 n 
-0001149461 00000 n 
-0001149549 00000 n 
-0001150604 00000 n 
-0001151190 00000 n 
-0001152185 00000 n 
-0001152766 00000 n 
-0001153791 00000 n 
-0001154372 00000 n 
-0001156000 00000 n 
-0001156601 00000 n 
-0001157653 00000 n 
-0001158234 00000 n 
-0001159294 00000 n 
-0001159875 00000 n 
-0001160747 00000 n 
-0001161323 00000 n 
-0001161964 00000 n 
-0001162527 00000 n 
-0001163396 00000 n 
-0001163968 00000 n 
-0001164591 00000 n 
-0001165151 00000 n 
-0001165408 00000 n 
-0001165602 00000 n 
-0001165853 00000 n 
-0001166047 00000 n 
-0001167125 00000 n 
-0001167711 00000 n 
-0001168041 00000 n 
-0001168587 00000 n 
-0001168867 00000 n 
-0001169406 00000 n 
-0001171189 00000 n 
-0001171795 00000 n 
-0001172863 00000 n 
-0001173449 00000 n 
-0001174416 00000 n 
-0001174997 00000 n 
-0001175809 00000 n 
-0001176385 00000 n 
-0001177199 00000 n 
-0001177775 00000 n 
-0001178740 00000 n 
-0001179321 00000 n 
-0001180359 00000 n 
-0001180940 00000 n 
-0001181238 00000 n 
-0001181532 00000 n 
-0001181805 00000 n 
-0001182103 00000 n 
-0001182396 00000 n 
-0001182664 00000 n 
-0001182963 00000 n 
-0001183260 00000 n 
-0001183559 00000 n 
-0001183842 00000 n 
-0001184124 00000 n 
-0001184394 00000 n 
-0001184663 00000 n 
-0001184923 00000 n 
-0001185183 00000 n 
-0001185451 00000 n 
-0001185698 00000 n 
-0001185966 00000 n 
-0001186222 00000 n 
-0001186481 00000 n 
-0001186749 00000 n 
-0001187014 00000 n 
-0001187299 00000 n 
-0001187577 00000 n 
-0001187861 00000 n 
-0001188168 00000 n 
-0001188461 00000 n 
-0001188740 00000 n 
-0001189024 00000 n 
-0001189315 00000 n 
-0001189608 00000 n 
-0001189890 00000 n 
-0001190178 00000 n 
-0001190468 00000 n 
-0001190973 00000 n 
-0001191348 00000 n 
-0001191825 00000 n 
-0001192159 00000 n 
-0001192414 00000 n 
-0001192681 00000 n 
-0001192921 00000 n 
-0001193173 00000 n 
-0001193425 00000 n 
-0001193677 00000 n 
-0001193919 00000 n 
-0001194171 00000 n 
-0001194491 00000 n 
-0001194810 00000 n 
-0001195129 00000 n 
-0001195448 00000 n 
-0001195767 00000 n 
-0001196086 00000 n 
-0001196405 00000 n 
-0001196724 00000 n 
-0001197043 00000 n 
-0001197362 00000 n 
-0001197681 00000 n 
-0001198000 00000 n 
-0001198301 00000 n 
-0001198601 00000 n 
-0001198902 00000 n 
-0001199203 00000 n 
-0001199502 00000 n 
-0001199800 00000 n 
-0001200099 00000 n 
-0001200399 00000 n 
-0001200698 00000 n 
-0001200999 00000 n 
-0001201300 00000 n 
-0001201599 00000 n 
-0001201898 00000 n 
-0001202198 00000 n 
-0001202499 00000 n 
-0001202799 00000 n 
-0001203097 00000 n 
-0001203399 00000 n 
-0001203700 00000 n 
-0001204001 00000 n 
-0001204303 00000 n 
-0001204604 00000 n 
-0001204905 00000 n 
-0001205207 00000 n 
-0001207973 00000 n 
-0001307018 00000 n 
-0001307088 00000 n 
-0001307221 00000 n 
-0001307362 00000 n 
-0001307503 00000 n 
-0001307630 00000 n 
-0001307706 00000 n 
-0001307732 00000 n 
-0001313530 00000 n 
-0001313618 00000 n 
-0001314191 00000 n 
-0001314748 00000 n 
-0001315311 00000 n 
-0001315858 00000 n 
-0001316460 00000 n 
-0001317046 00000 n 
-0001317697 00000 n 
-0001318332 00000 n 
-0001318983 00000 n 
-0001319618 00000 n 
-0001320205 00000 n 
-0001320776 00000 n 
-0001321405 00000 n 
-0001322018 00000 n 
-0001322647 00000 n 
-0001323260 00000 n 
-0001323819 00000 n 
-0001324362 00000 n 
-0001324980 00000 n 
-0001325582 00000 n 
-0001326174 00000 n 
-0001326750 00000 n 
-0001326860 00000 n 
-0001327059 00000 n 
-0001327160 00000 n 
-0001327489 00000 n 
-0001328169 00000 n 
-0001328480 00000 n 
-0001328893 00000 n 
-0001328981 00000 n 
-0001329053 00000 n 
-0001329287 00000 n 
-0001329348 00000 n 
-0001329442 00000 n 
-0001333899 00000 n 
-0001337707 00000 n 
-0001338122 00000 n 
-0001338210 00000 n 
-0001343410 00000 n 
-0001347530 00000 n 
-0001347928 00000 n 
-0001348016 00000 n 
-0001355060 00000 n 
-0001358868 00000 n 
-0001359282 00000 n 
-0001359370 00000 n 
-0001364226 00000 n 
-0001368907 00000 n 
-0001369317 00000 n 
-0001369405 00000 n 
-0001372654 00000 n 
-0001376462 00000 n 
-0001377452 00000 n 
-0001377540 00000 n 
-0001378628 00000 n 
-0001378716 00000 n 
-0001380028 00000 n 
-0001380116 00000 n 
-0001381345 00000 n 
-0001381433 00000 n 
-0001387493 00000 n 
-0001387565 00000 n 
-0001387693 00000 n 
-0001387769 00000 n 
-0001387799 00000 n 
-0001388149 00000 n 
-0001388237 00000 n 
-0001388365 00000 n 
-0001388441 00000 n 
-0001388471 00000 n 
-0001388797 00000 n 
-0001388885 00000 n 
-0001389013 00000 n 
-0001389089 00000 n 
-0001389119 00000 n 
-0001389451 00000 n 
-0001389539 00000 n 
-0001389680 00000 n 
-0001389756 00000 n 
-0001389786 00000 n 
-0001390119 00000 n 
-0001390207 00000 n 
-0001408716 00000 n 
-0001408844 00000 n 
-0001408920 00000 n 
-0001408950 00000 n 
-0001409302 00000 n 
-0001409390 00000 n 
-0001409518 00000 n 
-0001409594 00000 n 
-0001409624 00000 n 
-0001409956 00000 n 
-0001410044 00000 n 
-0001410172 00000 n 
-0001410248 00000 n 
-0001410278 00000 n 
-0001410609 00000 n 
-0001410697 00000 n 
-0001410825 00000 n 
-0001410901 00000 n 
-0001410931 00000 n 
-0001411264 00000 n 
-0001411352 00000 n 
-0001411480 00000 n 
-0001411556 00000 n 
-0001411586 00000 n 
-0001411919 00000 n 
-0001412007 00000 n 
-0001412135 00000 n 
-0001412211 00000 n 
-0001412241 00000 n 
-0001412563 00000 n 
-0001412651 00000 n 
-0001412779 00000 n 
-0001412855 00000 n 
-0001412885 00000 n 
-0001413216 00000 n 
-0001413304 00000 n 
-0001413432 00000 n 
-0001413508 00000 n 
-0001413538 00000 n 
-0001413868 00000 n 
-0001413956 00000 n 
-0001414372 00000 n 
-0001414929 00000 n 
-0001415268 00000 n 
-0001415815 00000 n 
-0001416883 00000 n 
-0001417469 00000 n 
-0001421264 00000 n 
-0001421899 00000 n 
-0001425756 00000 n 
-0001426391 00000 n 
-0001427128 00000 n 
-0001427699 00000 n 
-0001429687 00000 n 
-0001430300 00000 n 
-0001432135 00000 n 
-0001432748 00000 n 
-0001433053 00000 n 
-0001433596 00000 n 
-0001435198 00000 n 
-0001435800 00000 n 
-0001436858 00000 n 
-0001437434 00000 n 
-0001437734 00000 n 
-0001438024 00000 n 
-0001438303 00000 n 
-0001438584 00000 n 
-0001439023 00000 n 
-0001439316 00000 n 
-0001439726 00000 n 
-0001440020 00000 n 
-0001440302 00000 n 
-0001440584 00000 n 
-0001440866 00000 n 
-0001441143 00000 n 
-0001441432 00000 n 
-0001441714 00000 n 
-0001441999 00000 n 
-0001442298 00000 n 
-0001442575 00000 n 
-0001442870 00000 n 
-0001443152 00000 n 
-0001443434 00000 n 
-0001443753 00000 n 
-0001444022 00000 n 
-0001444309 00000 n 
-0001444591 00000 n 
-0001444876 00000 n 
-0001445178 00000 n 
-0001445445 00000 n 
-0001445738 00000 n 
-0001446021 00000 n 
-0001446303 00000 n 
-0001446612 00000 n 
-0001446881 00000 n 
-0001447172 00000 n 
-0001447453 00000 n 
-0001447738 00000 n 
-0001448026 00000 n 
-0001448306 00000 n 
-0001448591 00000 n 
-0001448873 00000 n 
-0001449157 00000 n 
-0001449472 00000 n 
-0001449747 00000 n 
-0001450039 00000 n 
-0001450322 00000 n 
-0001450604 00000 n 
-0001450919 00000 n 
-0001451196 00000 n 
-0001451487 00000 n 
-0001451769 00000 n 
-0001452051 00000 n 
-0001452356 00000 n 
-0001452625 00000 n 
-0001452902 00000 n 
-0001453178 00000 n 
-0001453462 00000 n 
-0001453769 00000 n 
-0001454044 00000 n 
-0001454334 00000 n 
-0001454611 00000 n 
-0001454895 00000 n 
+0000711701 00000 n 
+0000711983 00000 n 
+0000712260 00000 n 
+0000712542 00000 n 
+0000712838 00000 n 
+0000713323 00000 n 
+0000713745 00000 n 
+0000714130 00000 n 
+0000714443 00000 n 
+0000714739 00000 n 
+0000715001 00000 n 
+0000715239 00000 n 
+0000715489 00000 n 
+0000715739 00000 n 
+0000715989 00000 n 
+0000716229 00000 n 
+0000716479 00000 n 
+0000716797 00000 n 
+0000717114 00000 n 
+0000717431 00000 n 
+0000717748 00000 n 
+0000718065 00000 n 
+0000718382 00000 n 
+0000718699 00000 n 
+0000719016 00000 n 
+0000719315 00000 n 
+0000719613 00000 n 
+0000719912 00000 n 
+0000720211 00000 n 
+0000720508 00000 n 
+0000720804 00000 n 
+0000721101 00000 n 
+0000721399 00000 n 
+0000721696 00000 n 
+0000721995 00000 n 
+0000722294 00000 n 
+0000722591 00000 n 
+0000722888 00000 n 
+0000723186 00000 n 
+0000723485 00000 n 
+0000723783 00000 n 
+0000724079 00000 n 
+0000724379 00000 n 
+0000724678 00000 n 
+0000724977 00000 n 
+0000725277 00000 n 
+0000725576 00000 n 
+0000725875 00000 n 
+0000726175 00000 n 
+0000727740 00000 n 
+0000823003 00000 n 
+0000823072 00000 n 
+0000823204 00000 n 
+0000823344 00000 n 
+0000823484 00000 n 
+0000823609 00000 n 
+0000823682 00000 n 
+0000823707 00000 n 
+0000829492 00000 n 
+0000829579 00000 n 
+0000830150 00000 n 
+0000830706 00000 n 
+0000831267 00000 n 
+0000831813 00000 n 
+0000832413 00000 n 
+0000832998 00000 n 
+0000833647 00000 n 
+0000834281 00000 n 
+0000834930 00000 n 
+0000835564 00000 n 
+0000836149 00000 n 
+0000836719 00000 n 
+0000837346 00000 n 
+0000837958 00000 n 
+0000838585 00000 n 
+0000839197 00000 n 
+0000839754 00000 n 
+0000840296 00000 n 
+0000840912 00000 n 
+0000841513 00000 n 
+0000842103 00000 n 
+0000842678 00000 n 
+0000842787 00000 n 
+0000842982 00000 n 
+0000843082 00000 n 
+0000843409 00000 n 
+0000844088 00000 n 
+0000844398 00000 n 
+0000844807 00000 n 
+0000844894 00000 n 
+0000844963 00000 n 
+0000845196 00000 n 
+0000845255 00000 n 
+0000845348 00000 n 
+0000849802 00000 n 
+0000853609 00000 n 
+0000854020 00000 n 
+0000854107 00000 n 
+0000859304 00000 n 
+0000863423 00000 n 
+0000863817 00000 n 
+0000863904 00000 n 
+0000870945 00000 n 
+0000874752 00000 n 
+0000875162 00000 n 
+0000875249 00000 n 
+0000880102 00000 n 
+0000884782 00000 n 
+0000885188 00000 n 
+0000885275 00000 n 
+0000888521 00000 n 
+0000892328 00000 n 
+0000893316 00000 n 
+0000893403 00000 n 
+0000894489 00000 n 
+0000894576 00000 n 
+0000895886 00000 n 
+0000895973 00000 n 
+0000897200 00000 n 
+0000897287 00000 n 
+0000903321 00000 n 
+0000903392 00000 n 
+0000903518 00000 n 
+0000903591 00000 n 
+0000903620 00000 n 
+0000903967 00000 n 
+0000904054 00000 n 
+0000904180 00000 n 
+0000904253 00000 n 
+0000904282 00000 n 
+0000904605 00000 n 
+0000904692 00000 n 
+0000904818 00000 n 
+0000904891 00000 n 
+0000904920 00000 n 
+0000905249 00000 n 
+0000905336 00000 n 
+0000905475 00000 n 
+0000905548 00000 n 
+0000905577 00000 n 
+0000905907 00000 n 
+0000905994 00000 n 
+0000924502 00000 n 
+0000924628 00000 n 
+0000924701 00000 n 
+0000924730 00000 n 
+0000925079 00000 n 
+0000925166 00000 n 
+0000925292 00000 n 
+0000925365 00000 n 
+0000925394 00000 n 
+0000925723 00000 n 
+0000925810 00000 n 
+0000925936 00000 n 
+0000926009 00000 n 
+0000926038 00000 n 
+0000926366 00000 n 
+0000926453 00000 n 
+0000926579 00000 n 
+0000926652 00000 n 
+0000926681 00000 n 
+0000927011 00000 n 
+0000927098 00000 n 
+0000927224 00000 n 
+0000927297 00000 n 
+0000927326 00000 n 
+0000927656 00000 n 
+0000927743 00000 n 
+0000927869 00000 n 
+0000927942 00000 n 
+0000927971 00000 n 
+0000928290 00000 n 
+0000928377 00000 n 
+0000928503 00000 n 
+0000928576 00000 n 
+0000928605 00000 n 
+0000928933 00000 n 
+0000929020 00000 n 
+0000929146 00000 n 
+0000929219 00000 n 
+0000929248 00000 n 
+0000929575 00000 n 
+0000929662 00000 n 
+0000930075 00000 n 
+0000930631 00000 n 
+0000930968 00000 n 
+0000931514 00000 n 
+0000932579 00000 n 
+0000933164 00000 n 
+0000936956 00000 n 
+0000937590 00000 n 
+0000941444 00000 n 
+0000942078 00000 n 
+0000942812 00000 n 
+0000943382 00000 n 
+0000945367 00000 n 
+0000945979 00000 n 
+0000947811 00000 n 
+0000948423 00000 n 
+0000948726 00000 n 
+0000949268 00000 n 
+0000950867 00000 n 
+0000951468 00000 n 
+0000952523 00000 n 
+0000953098 00000 n 
+0000953377 00000 n 
+0000953823 00000 n 
+0000954114 00000 n 
+0000954535 00000 n 
+0000954827 00000 n 
+0000957913 00000 n 
+0001028080 00000 n 
+0001028149 00000 n 
+0001028273 00000 n 
+0001028395 00000 n 
+0001028533 00000 n 
+0001028658 00000 n 
+0001028731 00000 n 
+0001028756 00000 n 
+0001038430 00000 n 
+0001038517 00000 n 
+0001039117 00000 n 
+0001039702 00000 n 
+0001040297 00000 n 
+0001040877 00000 n 
+0001041472 00000 n 
+0001042052 00000 n 
+0001042667 00000 n 
+0001043267 00000 n 
+0001043862 00000 n 
+0001044442 00000 n 
+0001045032 00000 n 
+0001045607 00000 n 
+0001046184 00000 n 
+0001046746 00000 n 
+0001047332 00000 n 
+0001047903 00000 n 
+0001048477 00000 n 
+0001049036 00000 n 
+0001049244 00000 n 
+0001049437 00000 n 
+0001050038 00000 n 
+0001050624 00000 n 
+0001051186 00000 n 
+0001051732 00000 n 
+0001052287 00000 n 
+0001052826 00000 n 
+0001053448 00000 n 
+0001054054 00000 n 
+0001054651 00000 n 
+0001055232 00000 n 
+0001055824 00000 n 
+0001056400 00000 n 
+0001056997 00000 n 
+0001057578 00000 n 
+0001057732 00000 n 
+0001057763 00000 n 
+0001058015 00000 n 
+0001058092 00000 n 
+0001058405 00000 n 
+0001058500 00000 n 
+0001061177 00000 n 
+0001061517 00000 n 
+0001061627 00000 n 
+0001061731 00000 n 
+0001063060 00000 n 
+0001063509 00000 n 
+0001063805 00000 n 
+0001069702 00000 n 
+0001070160 00000 n 
+0001070612 00000 n 
+0001070905 00000 n 
+0001076975 00000 n 
+0001077440 00000 n 
+0001078026 00000 n 
+0001078313 00000 n 
+0001086699 00000 n 
+0001087249 00000 n 
+0001087337 00000 n 
+0001088585 00000 n 
+0001088673 00000 n 
+0001090038 00000 n 
+0001090126 00000 n 
+0001091345 00000 n 
+0001091433 00000 n 
+0001092762 00000 n 
+0001092850 00000 n 
+0001102983 00000 n 
+0001103055 00000 n 
+0001103110 00000 n 
+0001103236 00000 n 
+0001103364 00000 n 
+0001103440 00000 n 
+0001103470 00000 n 
+0001103795 00000 n 
+0001103883 00000 n 
+0001104011 00000 n 
+0001104087 00000 n 
+0001104117 00000 n 
+0001104445 00000 n 
+0001104533 00000 n 
+0001104661 00000 n 
+0001104737 00000 n 
+0001104767 00000 n 
+0001105095 00000 n 
+0001105183 00000 n 
+0001105311 00000 n 
+0001105387 00000 n 
+0001105417 00000 n 
+0001105744 00000 n 
+0001105832 00000 n 
+0001105960 00000 n 
+0001106036 00000 n 
+0001106066 00000 n 
+0001106393 00000 n 
+0001106481 00000 n 
+0001106609 00000 n 
+0001106685 00000 n 
+0001106715 00000 n 
+0001107042 00000 n 
+0001107130 00000 n 
+0001107258 00000 n 
+0001107334 00000 n 
+0001107364 00000 n 
+0001107690 00000 n 
+0001107778 00000 n 
+0001107906 00000 n 
+0001107982 00000 n 
+0001108012 00000 n 
+0001108339 00000 n 
+0001108427 00000 n 
+0001108555 00000 n 
+0001108631 00000 n 
+0001108661 00000 n 
+0001108988 00000 n 
+0001109076 00000 n 
+0001109204 00000 n 
+0001109280 00000 n 
+0001109310 00000 n 
+0001109638 00000 n 
+0001109726 00000 n 
+0001109854 00000 n 
+0001109930 00000 n 
+0001109960 00000 n 
+0001110276 00000 n 
+0001110364 00000 n 
+0001110492 00000 n 
+0001110568 00000 n 
+0001110598 00000 n 
+0001110915 00000 n 
+0001111003 00000 n 
+0001111131 00000 n 
+0001111207 00000 n 
+0001111237 00000 n 
+0001111566 00000 n 
+0001111654 00000 n 
+0001111782 00000 n 
+0001111858 00000 n 
+0001111888 00000 n 
+0001112207 00000 n 
+0001112295 00000 n 
+0001112423 00000 n 
+0001112499 00000 n 
+0001112529 00000 n 
+0001112844 00000 n 
+0001112932 00000 n 
+0001113073 00000 n 
+0001113149 00000 n 
+0001113179 00000 n 
+0001113510 00000 n 
+0001113598 00000 n 
+0001144996 00000 n 
+0001145124 00000 n 
+0001145200 00000 n 
+0001145230 00000 n 
+0001145557 00000 n 
+0001145645 00000 n 
+0001145773 00000 n 
+0001145849 00000 n 
+0001145879 00000 n 
+0001146208 00000 n 
+0001146296 00000 n 
+0001146424 00000 n 
+0001146500 00000 n 
+0001146530 00000 n 
+0001146859 00000 n 
+0001146947 00000 n 
+0001147075 00000 n 
+0001147151 00000 n 
+0001147181 00000 n 
+0001147510 00000 n 
+0001147598 00000 n 
+0001147726 00000 n 
+0001147802 00000 n 
+0001147832 00000 n 
+0001148161 00000 n 
+0001148249 00000 n 
+0001148377 00000 n 
+0001148453 00000 n 
+0001148483 00000 n 
+0001148812 00000 n 
+0001148900 00000 n 
+0001149028 00000 n 
+0001149104 00000 n 
+0001149134 00000 n 
+0001149463 00000 n 
+0001149551 00000 n 
+0001150606 00000 n 
+0001151192 00000 n 
+0001152187 00000 n 
+0001152768 00000 n 
+0001153793 00000 n 
+0001154374 00000 n 
+0001156002 00000 n 
+0001156603 00000 n 
+0001157655 00000 n 
+0001158236 00000 n 
+0001159296 00000 n 
+0001159877 00000 n 
+0001160749 00000 n 
+0001161325 00000 n 
+0001161966 00000 n 
+0001162529 00000 n 
+0001163398 00000 n 
+0001163970 00000 n 
+0001164593 00000 n 
+0001165153 00000 n 
+0001165410 00000 n 
+0001165604 00000 n 
+0001165855 00000 n 
+0001166049 00000 n 
+0001167127 00000 n 
+0001167713 00000 n 
+0001168043 00000 n 
+0001168589 00000 n 
+0001168869 00000 n 
+0001169408 00000 n 
+0001171191 00000 n 
+0001171797 00000 n 
+0001172865 00000 n 
+0001173451 00000 n 
+0001174418 00000 n 
+0001174999 00000 n 
+0001175811 00000 n 
+0001176387 00000 n 
+0001177201 00000 n 
+0001177777 00000 n 
+0001178742 00000 n 
+0001179323 00000 n 
+0001180361 00000 n 
+0001180942 00000 n 
+0001181240 00000 n 
+0001181534 00000 n 
+0001181807 00000 n 
+0001182105 00000 n 
+0001182398 00000 n 
+0001182666 00000 n 
+0001182965 00000 n 
+0001183262 00000 n 
+0001183561 00000 n 
+0001183844 00000 n 
+0001184126 00000 n 
+0001184396 00000 n 
+0001184665 00000 n 
+0001184925 00000 n 
+0001185185 00000 n 
+0001185453 00000 n 
+0001185700 00000 n 
+0001185968 00000 n 
+0001186224 00000 n 
+0001186483 00000 n 
+0001186751 00000 n 
+0001187016 00000 n 
+0001187301 00000 n 
+0001187579 00000 n 
+0001187863 00000 n 
+0001188170 00000 n 
+0001188463 00000 n 
+0001188742 00000 n 
+0001189026 00000 n 
+0001189317 00000 n 
+0001189610 00000 n 
+0001189892 00000 n 
+0001190180 00000 n 
+0001190470 00000 n 
+0001190975 00000 n 
+0001191350 00000 n 
+0001191827 00000 n 
+0001192252 00000 n 
+0001192507 00000 n 
+0001192774 00000 n 
+0001193014 00000 n 
+0001193266 00000 n 
+0001193518 00000 n 
+0001193770 00000 n 
+0001194012 00000 n 
+0001194264 00000 n 
+0001194584 00000 n 
+0001194903 00000 n 
+0001195222 00000 n 
+0001195541 00000 n 
+0001195860 00000 n 
+0001196179 00000 n 
+0001196498 00000 n 
+0001196817 00000 n 
+0001197136 00000 n 
+0001197455 00000 n 
+0001197774 00000 n 
+0001198093 00000 n 
+0001198394 00000 n 
+0001198694 00000 n 
+0001198995 00000 n 
+0001199296 00000 n 
+0001199595 00000 n 
+0001199893 00000 n 
+0001200192 00000 n 
+0001200492 00000 n 
+0001200791 00000 n 
+0001201092 00000 n 
+0001201393 00000 n 
+0001201692 00000 n 
+0001201991 00000 n 
+0001202291 00000 n 
+0001202592 00000 n 
+0001202892 00000 n 
+0001203190 00000 n 
+0001203492 00000 n 
+0001203793 00000 n 
+0001204094 00000 n 
+0001204396 00000 n 
+0001204697 00000 n 
+0001204998 00000 n 
+0001205300 00000 n 
+0001208081 00000 n 
+0001307317 00000 n 
+0001307387 00000 n 
+0001307520 00000 n 
+0001307661 00000 n 
+0001307802 00000 n 
+0001307929 00000 n 
+0001308005 00000 n 
+0001308031 00000 n 
+0001313829 00000 n 
+0001313917 00000 n 
+0001314490 00000 n 
+0001315047 00000 n 
+0001315610 00000 n 
+0001316157 00000 n 
+0001316759 00000 n 
+0001317345 00000 n 
+0001317996 00000 n 
+0001318631 00000 n 
+0001319282 00000 n 
+0001319917 00000 n 
+0001320504 00000 n 
+0001321075 00000 n 
+0001321704 00000 n 
+0001322317 00000 n 
+0001322946 00000 n 
+0001323559 00000 n 
+0001324118 00000 n 
+0001324661 00000 n 
+0001325279 00000 n 
+0001325881 00000 n 
+0001326473 00000 n 
+0001327049 00000 n 
+0001327159 00000 n 
+0001327269 00000 n 
+0001327468 00000 n 
+0001327569 00000 n 
+0001327898 00000 n 
+0001328578 00000 n 
+0001328889 00000 n 
+0001329302 00000 n 
+0001329390 00000 n 
+0001329462 00000 n 
+0001329696 00000 n 
+0001329757 00000 n 
+0001329851 00000 n 
+0001334308 00000 n 
+0001338116 00000 n 
+0001338531 00000 n 
+0001338619 00000 n 
+0001343819 00000 n 
+0001347939 00000 n 
+0001348337 00000 n 
+0001348425 00000 n 
+0001355469 00000 n 
+0001359277 00000 n 
+0001359691 00000 n 
+0001359779 00000 n 
+0001364635 00000 n 
+0001369316 00000 n 
+0001369726 00000 n 
+0001369814 00000 n 
+0001373063 00000 n 
+0001376871 00000 n 
+0001377861 00000 n 
+0001377949 00000 n 
+0001379037 00000 n 
+0001379125 00000 n 
+0001380437 00000 n 
+0001380525 00000 n 
+0001381754 00000 n 
+0001381842 00000 n 
+0001387902 00000 n 
+0001387974 00000 n 
+0001388102 00000 n 
+0001388178 00000 n 
+0001388208 00000 n 
+0001388558 00000 n 
+0001388646 00000 n 
+0001388774 00000 n 
+0001388850 00000 n 
+0001388880 00000 n 
+0001389206 00000 n 
+0001389294 00000 n 
+0001389422 00000 n 
+0001389498 00000 n 
+0001389528 00000 n 
+0001389860 00000 n 
+0001389948 00000 n 
+0001390089 00000 n 
+0001390165 00000 n 
+0001390195 00000 n 
+0001390528 00000 n 
+0001390616 00000 n 
+0001409125 00000 n 
+0001409253 00000 n 
+0001409329 00000 n 
+0001409359 00000 n 
+0001409711 00000 n 
+0001409799 00000 n 
+0001409927 00000 n 
+0001410003 00000 n 
+0001410033 00000 n 
+0001410365 00000 n 
+0001410453 00000 n 
+0001410581 00000 n 
+0001410657 00000 n 
+0001410687 00000 n 
+0001411018 00000 n 
+0001411106 00000 n 
+0001411234 00000 n 
+0001411310 00000 n 
+0001411340 00000 n 
+0001411673 00000 n 
+0001411761 00000 n 
+0001411889 00000 n 
+0001411965 00000 n 
+0001411995 00000 n 
+0001412328 00000 n 
+0001412416 00000 n 
+0001412544 00000 n 
+0001412620 00000 n 
+0001412650 00000 n 
+0001412972 00000 n 
+0001413060 00000 n 
+0001413188 00000 n 
+0001413264 00000 n 
+0001413294 00000 n 
+0001413625 00000 n 
+0001413713 00000 n 
+0001413841 00000 n 
+0001413917 00000 n 
+0001413947 00000 n 
+0001414277 00000 n 
+0001414365 00000 n 
+0001414781 00000 n 
+0001415338 00000 n 
+0001415677 00000 n 
+0001416224 00000 n 
+0001417292 00000 n 
+0001417878 00000 n 
+0001421673 00000 n 
+0001422308 00000 n 
+0001426165 00000 n 
+0001426800 00000 n 
+0001427537 00000 n 
+0001428108 00000 n 
+0001430096 00000 n 
+0001430709 00000 n 
+0001432544 00000 n 
+0001433157 00000 n 
+0001433462 00000 n 
+0001434005 00000 n 
+0001435607 00000 n 
+0001436209 00000 n 
+0001437267 00000 n 
+0001437843 00000 n 
+0001438143 00000 n 
+0001438433 00000 n 
+0001438712 00000 n 
+0001438993 00000 n 
+0001439432 00000 n 
+0001439725 00000 n 
+0001440135 00000 n 
+0001440429 00000 n 
+0001440711 00000 n 
+0001440993 00000 n 
+0001441275 00000 n 
+0001441552 00000 n 
+0001441841 00000 n 
+0001442123 00000 n 
+0001442408 00000 n 
+0001442707 00000 n 
+0001442984 00000 n 
+0001443279 00000 n 
+0001443561 00000 n 
+0001443843 00000 n 
+0001444152 00000 n 
+0001444421 00000 n 
+0001444708 00000 n 
+0001444990 00000 n 
+0001445275 00000 n 
+0001445577 00000 n 
+0001445844 00000 n 
+0001446137 00000 n 
+0001446420 00000 n 
+0001446702 00000 n 
+0001447008 00000 n 
+0001447277 00000 n 
+0001447568 00000 n 
+0001447849 00000 n 
+0001448134 00000 n 
+0001448422 00000 n 
+0001448702 00000 n 
+0001448987 00000 n 
+0001449269 00000 n 
+0001449553 00000 n 
+0001449855 00000 n 
+0001450130 00000 n 
+0001450422 00000 n 
+0001450705 00000 n 
+0001450987 00000 n 
+0001451297 00000 n 
+0001451574 00000 n 
+0001451865 00000 n 
+0001452147 00000 n 
+0001452429 00000 n 
+0001452729 00000 n 
+0001452998 00000 n 
+0001453275 00000 n 
+0001453551 00000 n 
+0001453835 00000 n 
+0001454141 00000 n 
+0001454416 00000 n 
+0001454706 00000 n 
+0001454983 00000 n 
+0001455267 00000 n 
 trailer
 <<
-/Size 1508
+/Size 1509
 /Root 3 0 R
 /Info 1 0 R
 >>
 startxref
-1455212
+1455582
 %%EOF

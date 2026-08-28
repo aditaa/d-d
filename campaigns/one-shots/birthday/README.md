@@ -31,7 +31,7 @@ No separate character creation is required. The three included 2024 character sh
 3. Print pages 27–51 single-sided for player materials; hand them out only when the GM guide calls for them.
 4. If available, print pages 37–44 on cardstock and cut out the tokens, cards, and table pieces.
 5. Put pages 20–26 behind the GM screen and place the Player Quick Rules page beside the dice.
-6. Read the ten-minute rehearsal on binder page 17, arrange the finale pieces, and keep the birthday reveal hidden.
+6. Read the ten-minute rehearsal and handout cue strip on binder page 17, arrange the finale pieces, and keep the birthday reveal hidden.
 
 The [one-page binder index and print guide](pdf/The_Lost_Celebration_Binder_Index_and_Print_Guide.pdf) provides the same tab order and print checklist without requiring the full binder to be open.
 
@@ -43,6 +43,10 @@ The [one-page binder index and print guide](pdf/The_Lost_Celebration_Binder_Inde
 | [Lightweight binder preview](pdf/previews/The_Lost_Celebration_Age_13_DnD_One_Shot.pdf) | A smaller, screen-friendly copy of the entire 51-page binder for reviewing on GitHub. |
 | [Full-quality printable binder](pdf/The_Lost_Celebration_Age_13_DnD_One_Shot.pdf) | The all-in-one, highest-quality 51-page release containing everything needed to run and play. |
 | [Binder index and print guide](pdf/The_Lost_Celebration_Binder_Index_and_Print_Guide.pdf) | A one-page tab layout, page index, and printing checklist for offline binder setup. |
+
+## SillyTavern campaign kit
+
+The [SillyTavern setup folder](sillytavern/README.md) contains an importable AI Game Master character card, campaign lorebook, state prompts, hero reference, and beginner instructions. It supports playing the same one-shot in a SillyTavern solo chat while keeping the printable binder as the authoritative offline edition.
 
 ## GM and player print files
 
@@ -77,6 +81,8 @@ The files in [`pdf/previews/`](pdf/previews/) are lightweight, screen-friendly c
 ## Illustrated map source files
 
 The print-ready map packets above are the easiest way to use the maps. The individual PNG files in [`maps/`](maps/) are also included for virtual-tabletop use or custom printing.
+
+The Briar Farm, Storehouse, Honey Steps, and Founder's Hearth maps use **1 square = 5 feet** whenever tactical movement matters. The Windmill is a puzzle diagram and has no tactical scale.
 
 | File | What it is |
 | --- | --- |

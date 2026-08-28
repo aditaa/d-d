@@ -45,7 +45,7 @@ endobj
 endobj
 5 0 obj
 <<
-/Length 1507
+/Length 1574
 >>
 stream
 q
@@ -86,7 +86,8 @@ BT 1 0 0 1 50 200 Tm (B7 Old well   B8 Hero entrance   B9 Orchard) Tj T* ET
 n 50 185 m 562 185 l S
 .141176 .176471 .227451 rg
 BT /F1 8.5 Tf 10.2 TL ET
-BT 1 0 0 1 50 169 Tm (Secret: feed in B3 grants Advantage to calm the rooster. Reinforcements enter from B9 only if needed.) Tj T* ET
+BT 1 0 0 1 50 169 Tm (TACTICAL SCALE: 1 square = 5 feet. Secret: feed in B3 grants Advantage to calm the rooster. Reinforcements enter from B9 only if) Tj T* ET
+BT 1 0 0 1 50 158 Tm (needed.) Tj T* ET
 .4 .439216 .501961 rg
 BT /F1 8 Tf 9.6 TL ET
 BT 1 0 0 1 36 39 Tm (The Lost Celebration \227 illustrated map set) Tj T* ET
@@ -186,7 +187,7 @@ endobj
 endobj
 11 0 obj
 <<
-/Length 1512
+/Length 1547
 >>
 stream
 q
@@ -227,7 +228,7 @@ BT 1 0 0 1 50 200 Tm (S7 Front approach   S8 Supply hall   S9 Alley exit) Tj T* 
 n 50 185 m 562 185 l S
 .141176 .176471 .227451 rg
 BT /F1 8.5 Tf 10.2 TL ET
-BT 1 0 0 1 50 169 Tm (The impostor begins in S8 and flees through S9. The S5 vent provides access toward S6.) Tj T* ET
+BT 1 0 0 1 50 169 Tm (TACTICAL SCALE: 1 square = 5 feet. The impostor begins in S8 and flees through S9. The S5 vent provides access toward S6.) Tj T* ET
 .4 .439216 .501961 rg
 BT /F1 8 Tf 9.6 TL ET
 BT 1 0 0 1 36 39 Tm (The Lost Celebration \227 illustrated map set) Tj T* ET
@@ -309,7 +310,7 @@ endobj
 endobj
 15 0 obj
 <<
-/Length 1530
+/Length 1597
 >>
 stream
 q
@@ -350,7 +351,8 @@ BT 1 0 0 1 50 200 Tm (H7 Gold rune   H8 Hero entry   H9 Sweet rune) Tj T* ET
 n 50 185 m 562 185 l S
 .141176 .176471 .227451 rg
 BT /F1 8.5 Tf 10.2 TL ET
-BT 1 0 0 1 50 169 Tm (Start sootlings at H1 and H3, Cindermaw at H2, and heroes at H8. Only one rune can be extinguished each round.) Tj T* ET
+BT 1 0 0 1 50 169 Tm (TACTICAL SCALE: 1 square = 5 feet. Start sootlings at H1 and H3, Cindermaw at H2, and heroes at H8. Only one rune can be) Tj T* ET
+BT 1 0 0 1 50 158 Tm (extinguished each round.) Tj T* ET
 .4 .439216 .501961 rg
 BT /F1 8 Tf 9.6 TL ET
 BT 1 0 0 1 36 39 Tm (The Lost Celebration \227 illustrated map set) Tj T* ET
@@ -415,18 +417,18 @@ xref
 0000000212 00000 n 
 0000000261 00000 n 
 0000000557 00000 n 
-0000002116 00000 n 
-0000002223 00000 n 
-0000002330 00000 n 
-0000002442 00000 n 
-0005153891 00000 n 
-0005154191 00000 n 
-0005155756 00000 n 
-0005155864 00000 n 
-0009966508 00000 n 
-0009966808 00000 n 
-0009968391 00000 n 
-0009968499 00000 n 
+0000002183 00000 n 
+0000002290 00000 n 
+0000002397 00000 n 
+0000002509 00000 n 
+0005153958 00000 n 
+0005154258 00000 n 
+0005155858 00000 n 
+0005155966 00000 n 
+0009966610 00000 n 
+0009966910 00000 n 
+0009968560 00000 n 
+0009968668 00000 n 
 trailer
 <<
 /Size 18
@@ -434,5 +436,5 @@ trailer
 /Info 1 0 R
 >>
 startxref
-14916383
+14916552
 %%EOF
