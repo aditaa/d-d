@@ -46,7 +46,7 @@ The [one-page binder index and print guide](pdf/The_Lost_Celebration_Binder_Inde
 
 ## SillyTavern campaign kit
 
-The [SillyTavern setup folder](sillytavern/README.md) contains an importable AI Game Master character card, campaign lorebook, state prompts, hero reference, and beginner instructions. It supports playing the same one-shot in a SillyTavern solo chat while keeping the printable binder as the authoritative offline edition.
+The [SillyTavern GM-assistant folder](sillytavern/README.md) contains an importable human-GM assistant card, campaign lorebook, live-state prompts, hero reference, and beginner instructions. It gives a human Game Master behind-the-screen retrieval, preparation, rules, and tracking help without allowing the AI to run or advance the adventure. The printable binder remains the authoritative offline edition.
 
 ## GM and player print files
 

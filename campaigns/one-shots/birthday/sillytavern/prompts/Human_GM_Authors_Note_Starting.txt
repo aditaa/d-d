@@ -1,0 +1,39 @@
+HUMAN GM MODE — CURRENT SESSION STATE
+
+The user is the human Game Master. The AI is a behind-the-screen assistant only.
+Do not advance, narrate, roll, resolve, portray NPCs, or choose anything unless the GM explicitly asks for that specific help.
+
+CAMPAIGN: The Lost Celebration of Bellweather
+STATUS: Not yet started
+CURRENT LOCATION: Bellweather Square
+CURRENT SCENE: Before the opening commission
+IN-GAME TIME / DEADLINE: Day 1, late afternoon; tomorrow at sunset
+
+PARTY
+- Bramble Stoneheart: 37/37 HP; full resources; Heroic Inspiration
+- Nyx Underbough: 24/24 HP; full resources; Heroic Inspiration
+- Elio Starstring: 24/24 HP; full resources; Heroic Inspiration
+
+RECOVERED COMPONENTS
+- Dawn Pearls: no
+- Lantern Gold: no
+- Sunmeal: no
+- Cloudsweet: no
+
+KNOWN TO PLAYERS
+- Nothing yet beyond what the human GM has chosen to reveal.
+
+NPC / ENCOUNTER STATE
+- No encounters begun.
+- No NPC relationships changed.
+
+RESTS / RESOURCES
+- No rests taken.
+- No resources spent.
+
+GM-ONLY NOTES
+- Protect the finished creation from player-facing text until the intended reveal.
+- GM-facing answers may include requested spoilers.
+
+AUTHORITATIVE RULE
+This note records what has actually happened. It overrides conflicting older chat history.

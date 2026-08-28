@@ -1,191 +1,189 @@
-# The Lost Celebration — SillyTavern Setup
+# Bellweather GM Assistant — SillyTavern Setup
 
-This folder turns **The Lost Celebration of Bellweather** into a SillyTavern campaign. It is written for someone who already has SillyTavern running but has never added a campaign before.
+This folder configures SillyTavern as a **behind-the-screen assistant for a human Game Master** running **The Lost Celebration of Bellweather**.
 
-The recommended setup is one solo chat with **Bellweather Game Master**. You control Bramble, Nyx, and Elio as a party; the AI runs the world, NPCs, puzzles, and enemies. No SillyTavern extensions or scripts are required.
+The human GM always controls the game. SillyTavern retrieves campaign details, prepares scenes, answers rules questions, tracks session state, suggests consequences, and writes short player-facing passages only when requested. It must not independently narrate, roll, resolve actions, portray NPCs, choose for the players, or advance the adventure.
 
-> **Spoiler warning:** The lorebook and Game Master card contain the adventure's solution, encounter answers, and finale. Players should not open those files.
+> **GM-only material:** The character card, lorebook, and state files contain puzzle answers and campaign spoilers. Do not share this folder with players during the game.
 
-## Files in this folder
+## What to import
 
-| File | What it is | Where it goes |
+| File | Purpose | SillyTavern destination |
 | --- | --- | --- |
-| [Bellweather_Game_Master.json](characters/Bellweather_Game_Master.json) | Importable Character Card V2 for the AI Game Master. | SillyTavern **Characters → Import Character**. |
-| [The_Lost_Celebration_Lorebook.json](lorebooks/The_Lost_Celebration_Lorebook.json) | Importable World Info/lorebook containing scenes, clues, rules, statistics, and secrets. | SillyTavern **World Info → Import**. |
-| [Authors_Note_Starting.txt](prompts/Authors_Note_Starting.txt) | Initial campaign-state reminder for the AI. | The new chat's **Author's Note** field. |
-| [Session_State_Template.md](prompts/Session_State_Template.md) | Blank state record for saving, resuming, or correcting the AI's tracking. | Keep beside the chat; copy its state block into Author's Note when needed. |
-| [Hero_Party_Reference.md](reference/Hero_Party_Reference.md) | Plain-text statistics and key actions for all three heroes. | Player reference; it does not need to be imported. |
+| [Bellweather_GM_Assistant.json](characters/Bellweather_GM_Assistant.json) | Human-GM assistant Character Card V2. | **Characters → Import Character** |
+| [The_Lost_Celebration_Lorebook.json](lorebooks/The_Lost_Celebration_Lorebook.json) | Campaign facts, scenes, clues, procedures, puzzle answers, stat blocks, rewards, and finale rules. | **World Info → Import** |
+| [Human_GM_Authors_Note_Starting.txt](prompts/Human_GM_Authors_Note_Starting.txt) | Starting live-state record and assistant-only reminder. | Chat-specific **Author's Note** |
+| [Human_GM_Session_State_Template.md](prompts/Human_GM_Session_State_Template.md) | Reusable state template for later scenes and sessions. | Copy the completed state into **Author's Note** |
+| [Hero_Party_Reference.md](reference/Hero_Party_Reference.md) | Quick statistics and features for Bramble, Nyx, and Elio. | Human-GM reference; no import needed |
 
-The existing [campaign README](../README.md), [complete adventure](../The_Lost_Celebration_Age_13_DnD_One_Shot.md), [maps](../maps/), and [printable PDFs](../pdf/) remain the authoritative offline edition.
+The [printable campaign README](../README.md), [complete adventure](../The_Lost_Celebration_Age_13_DnD_One_Shot.md), [maps](../maps/), and [PDF binder](../pdf/The_Lost_Celebration_Age_13_DnD_One_Shot.pdf) remain the authoritative game materials.
 
-## Before importing the campaign
+## Before you begin
 
-SillyTavern must be connected to a text-generation model before a character can answer. This campaign does not require a particular provider or model. If ordinary SillyTavern characters can reply, you are ready.
+This kit assumes SillyTavern is installed and connected to a text-generation model. If an ordinary imported character can reply, the connection is ready. This campaign requires no SillyTavern extensions, scripts, dice tools, or group chats.
 
-For best results, use a model with at least a 16,000-token context window. A larger context helps it remember combat and puzzle state, but the supplied Author's Note is still the authoritative current state.
+For reliable campaign retrieval, use at least a 16,000-token context window; approximately 32,000 is preferable. Model settings vary, but a moderate temperature around 0.4–0.7 generally keeps factual assistant answers steadier. Start with a response limit around 800–1,500 tokens and ask for expanded preparation only when needed.
 
-## Step 1 — Import the Game Master
+## Step 1 — Import the GM Assistant
 
 1. Open SillyTavern.
 2. Open the **Characters** panel.
 3. Select **Import Character**.
-4. Choose [characters/Bellweather_Game_Master.json](characters/Bellweather_Game_Master.json).
-5. Select the imported **Bellweather Game Master** character.
+4. Choose [characters/Bellweather_GM_Assistant.json](characters/Bellweather_GM_Assistant.json).
+5. Open the imported **Bellweather GM Assistant** character.
 
-If SillyTavern asks whether to import the card's tags, either answer is safe. Tags only help organize the character list.
+If SillyTavern asks whether to import tags, either answer is safe. Tags only organize the character list.
 
 ## Step 2 — Import and link the lorebook
 
 1. Open **World Info** using the globe icon.
-2. Choose **Import** and select [lorebooks/The_Lost_Celebration_Lorebook.json](lorebooks/The_Lost_Celebration_Lorebook.json).
-3. Return to **Bellweather Game Master** in the Character Management panel.
-4. Click the character's globe button and choose **The Lost Celebration of Bellweather** as its Character Lore.
-5. Confirm the selection.
+2. Choose **Import**.
+3. Select [lorebooks/The_Lost_Celebration_Lorebook.json](lorebooks/The_Lost_Celebration_Lorebook.json).
+4. Return to the **Bellweather GM Assistant** character.
+5. Click the character's globe button.
+6. Choose **The_Lost_Celebration_Lorebook** as Character Lore and confirm.
 
-Linking the book to the character is important. Merely importing it does not guarantee that it will be active in this chat. SillyTavern's current documentation describes Character Lore as the character globe button and allows one primary World Info book to be linked there.
+The repository lorebook already contains a human-GM-assistant contract. **Do not disable or edit any lorebook entry after importing it.**
 
-## Step 3 — Start the chat and add campaign state
+Importing the book is not enough by itself: it must be linked to the character so SillyTavern activates it whenever this assistant is open.
 
-1. Start a **new solo chat** with Bellweather Game Master.
-2. Open the options button beside the message box and select **Author's Note**.
-3. Copy all of [prompts/Authors_Note_Starting.txt](prompts/Authors_Note_Starting.txt) into the chat-specific Author's Note.
-4. Set placement to **In-chat**, depth to **1**, and frequency to **1**. If your version only offers a placement choice, use **After Scenario**.
-5. Reply to the Game Master's greeting with:
+## Step 3 — Create the assistant chat
 
-       Party mode. I will roll physical dice. Begin the adventure.
+1. Start a new solo chat with **Bellweather GM Assistant**.
+2. Open the options button beside the chat input.
+3. Select **Author's Note**.
+4. Copy the complete contents of [Human_GM_Authors_Note_Starting.txt](prompts/Human_GM_Authors_Note_Starting.txt) into the chat-specific Author's Note.
+5. Set placement to **In-chat**, depth **1**, frequency **1**. If those controls are unavailable in your version, use **After Scenario**.
+6. Send a GM request such as:
 
-That is the complete required setup.
+       Prep the opening commission. Do not start or narrate the scene.
 
-## Choose how to play
+The assistant should respond with information for you, not begin talking to the players.
 
-The opening message asks for two choices.
+## What the assistant should do
 
-### Recommended: Party mode
+### Prepare a scene
 
-You make decisions for all three heroes. Write one combined turn or list each hero's action separately. The AI never chooses an action for your heroes.
+Ask:
 
-Example:
+    Prep Briar Farm for me. Include the objective, visible details, challenge procedure, creature statistics, clues, consequences, reward, and next lead. Do not narrate the scene.
 
-    Bramble blocks the barn door, Nyx climbs toward the rafters, and Elio tries the farmer's calming whistle.
+The answer should organize information for the human GM. You decide what to present and when.
 
-### Optional: Single-hero mode
+### Retrieve an exact campaign fact
 
-Choose Bramble, Nyx, or Elio. You control that hero while the AI Game Master runs the other two as helpful companions. The companions should support your choices rather than solve puzzles before you.
+Ask:
 
-Example:
+    What does Captain Wick know about Lantern Gold?
 
-    Single-hero mode as Nyx. I will roll physical dice. Begin.
+    What is the exact Windmill answer and hint ladder?
 
-### Three human players at one screen
+    Give me Cindermaw's stat block and tactics.
 
-Use **Party mode** and give Bramble, Nyx, and Elio to different people. One person types each player's declared action and the resulting dice totals into the shared chat. Do **not** create a SillyTavern Group Chat for this setup: in SillyTavern, a Group Chat means several AI character cards, not several human logins.
+GM-facing answers may include spoilers because the chat is behind the screen.
 
-Example:
+### Get player-facing text
 
-    Bramble rolled 16 Athletics and braces the gate. Nyx rolled 18 Stealth and heads for the rafters. Elio scatters feed and rolled 12 Animal Handling.
+Ask for it explicitly and state what the players currently know:
 
-### Dice choices
+    Give me no more than 20 seconds of player-facing description for entering the Storehouse courtyard. The players know Wick suspects an impostor. Do not include hidden clues or mechanics.
 
-- **Physical dice:** the Game Master tells you what to roll, the modifier, and the DC when it is known. You reply with the die result or total.
-- **Chat dice:** type a SillyTavern dice macro such as `{{roll::1d20+7}}`, then tell the Game Master the result. The macro is built into current SillyTavern releases.
-- **Narrated dice:** tell the Game Master to roll for everyone. This is easiest, but an AI's narrated rolls should be treated as storytelling rather than independently verifiable randomness unless a dice extension or tool is active.
+The assistant should provide only the requested passage and stop. The human GM reads or adapts it at the table.
 
-Do not install the optional D&D Dice extension just for this campaign unless you already want it; physical dice and the built-in roll macro are sufficient.
+### Ask for a rule or ruling
 
-## How to write actions
+Ask:
 
-State the hero, goal, and method. The Game Master will decide whether the idea works automatically or needs a check.
+    Is Nyx eligible for Sneak Attack here? Separate the 2024 rule from your recommendation.
 
-    Nyx checks the gold flask for the wooden-spoon seal without touching the blue fire.
+    How does Bramble's Protection reaction apply to this attack?
 
-    Bramble guards the Pearl Rune and uses Protection if a sootling attacks Elio.
+The assistant should label whether its answer is a **2024 rule**, a **campaign procedure**, or a **recommendation**.
 
-    Elio offers Cindermaw a place as Bellweather's new hearth-keeper.
+### Ask for consequences or improvisation
 
-When a roll is requested, answer plainly:
+Give the actual player action and roll:
 
-    Nyx rolled 14 + 7 Stealth = 21.
+    Nyx rolled 9 crossing the rafters. Give me two fail-forward consequences that preserve the Dawn Pearls. Label anything not printed in the adventure as suggested improvisation.
 
-During combat, include movement, action, Bonus Action, and intended Reaction only when relevant. The AI should announce initiative, current HP, conditions, and the next creature to act.
+You remain responsible for choosing the result.
 
-## Maps and character sheets
+## During the game
 
-SillyTavern is handling narration and campaign memory, not acting as a battle-map application. Open the supplied files beside the chat:
+SillyTavern is not the table and is not the GM. Continue running initiative, rolling dice, moving pieces, speaking as NPCs, and making final rulings yourself. Use the assistant when you need rapid retrieval or a second opinion.
 
-- [Briar Farm player map](../maps/Briar_Farm_Player_Map.png)
-- [Lamplighter Storehouse player map](../maps/Lamplighter_Storehouse_Player_Map.png)
+A helpful rhythm is:
+
+1. Run the scene at the table.
+2. Ask the assistant a specific question only when needed.
+3. Report important outcomes after the scene.
+4. Ask it to produce an updated state block.
+5. Check the block yourself before placing it in Author's Note.
+
+Example state request:
+
+    Update the human-GM session state. Dawn Pearls recovered; Silver Feather earned; Bramble 31 HP with one Second Wind remaining; Nyx and Elio are unhurt; Break 1 Short Rest is beginning. Do not add events I did not report.
+
+## Saving and resuming state
+
+The current Author's Note should contain what actually happened at your table. Chat history is useful context, but the state note wins if older messages conflict.
+
+At a pause:
+
+1. Open [Human_GM_Session_State_Template.md](prompts/Human_GM_Session_State_Template.md).
+2. Ask the assistant to fill it from only the results you have reported.
+3. Correct any HP, resources, clues, relationships, or decisions.
+4. Replace the old chat-specific Author's Note with the corrected state.
+
+When returning, ask:
+
+    Using the current Author's Note, give me a GM-only status check and prep the next likely scene. Do not advance the game.
+
+## Maps and print references
+
+Keep the printable binder or relevant PDF open beside SillyTavern. Use the GM-keyed maps yourself and show only player-safe maps to players.
+
+- [Briar Farm player map](../maps/Briar_Farm_Player_Map.png) and [GM keyed map](../maps/Briar_Farm_GM_Keyed_Map.png)
+- [Lamplighter Storehouse player map](../maps/Lamplighter_Storehouse_Player_Map.png) and [GM keyed map](../maps/Lamplighter_Storehouse_GM_Keyed_Map.png)
 - [Windmill puzzle map](../maps/Windmill_Chute_Puzzle_Map.png)
 - [Honey Steps player map](../maps/Honey_Steps_Player_Map.png)
-- [Founder's Hearth player map](../maps/Founders_Hearth_Player_Map.png)
-- [Bramble character sheet](../pdf/Bramble_Stoneheart_Official_2024_Character_Sheet.pdf)
-- [Nyx character sheet](../pdf/Nyx_Underbough_Official_2024_Character_Sheet.pdf)
-- [Elio character sheet](../pdf/Elio_Starstring_Official_2024_Character_Sheet.pdf)
+- [Founder's Hearth player map](../maps/Founders_Hearth_Player_Map.png) and [GM keyed map](../maps/Founders_Hearth_GM_Keyed_Map.png)
+- [GM guide and stat blocks](../pdf/The_Lost_Celebration_GM_Guide_and_Stat_Blocks.pdf)
 
-Only use the player maps while playing. The files whose names contain **GM_Keyed** reveal secrets and starting positions.
+The three players continue using their printed character sheets. Do not create a SillyTavern Group Chat: Group Chats are for multiple AI characters, not three human players.
 
-## Pausing and resuming
+## Troubleshooting
 
-At the end of a scene, send:
+### The assistant starts running the game
 
-    Pause the adventure. Give me a compact campaign-state block using the supplied template, without revealing future secrets.
+Confirm that the selected character is **Bellweather GM Assistant**, not an older autonomous Game Master card. Then replace the Author's Note with [Human_GM_Authors_Note_Starting.txt](prompts/Human_GM_Authors_Note_Starting.txt) or a current human-GM state block and send:
 
-Copy the returned state into the top section of [prompts/Session_State_Template.md](prompts/Session_State_Template.md), correct any mistakes, and replace the text in the chat's Author's Note. The chat history remains saved by SillyTavern, but this short state block prevents old details from displacing current HP, resources, and quest progress.
+    Human GM mode is absolute. Stop narrating or advancing. Answer only my behind-the-screen questions unless I explicitly request player-facing text.
 
-When returning, send:
+### The assistant cannot find campaign facts
 
-    Resume from the current Author's Note. Recap only what the heroes know, then continue at the next decision.
+Open the character panel, click the globe, and verify that **The_Lost_Celebration_Lorebook** is selected as Character Lore. The lorebook must be linked, not merely imported.
 
-## Correcting the AI without restarting
-
-If the Game Master forgets a rule or advances too early, state the correction directly:
-
-    Correction: Lantern Gold has been recovered, but Sunmeal has not. Update state and continue at the Windmill.
-
-    Correction: Bramble has 21 of 37 HP and one Second Wind use left.
-
-    Do not reveal the lost creation yet. Continue using only the component names.
-
-You can also edit the most recent AI message or swipe to generate a replacement. Campaign state in Author's Note should win over conflicting older chat text.
-
-## Troubleshooting this campaign
-
-### The AI reveals the mystery too early
-
-Confirm that the lorebook is linked, then add this line to Author's Note:
-
-    Keep the finished creation secret until the Founder's Hearth dome opens; NPCs cannot confirm guesses.
-
-### The AI chooses actions for the party
+### The assistant invents details
 
 Send:
 
-    Party mode: stop before every player decision and never choose Bramble's, Nyx's, or Elio's actions.
+    Separate printed campaign facts from suggested improvisation. If the campaign does not specify something, say so before offering options.
 
-### The AI forgets hit points or quest items
+### The assistant gives player spoilers
 
-Replace Author's Note with a corrected copy of the state template. Do not rely on old chat messages to override it.
+State exactly what the players know and request player-facing text only. If needed, send:
 
-### The lorebook seems inactive
+    Player-facing text only. Remove puzzle answers, hidden motives, future events, DCs, and GM notes.
 
-Open Bellweather Game Master's Character Management panel, click the globe, and verify that **The Lost Celebration of Bellweather** is selected. The book should be linked as Character Lore, not merely present in the World Info list.
-
-### The model writes too much
+### The response is too long during play
 
 Send:
 
-    Use one short scene description, necessary NPC dialogue, and one clear question. Stop before resolving any player choice.
-
-## Optional human-table use
-
-A human GM can use the same character as a quiet rules and scene assistant. Begin with:
-
-    Assistant mode. I am the human GM. Do not narrate or advance the story unless asked. Answer only my campaign questions and provide spoiler-safe text when I request it.
-
-For an in-person birthday game, the printable binder remains easier to run than typing every table action into SillyTavern.
+    Answer first in no more than six bullets. I will ask if I need detail.
 
 ## Current SillyTavern references
 
-- [Characters and character importing](https://docs.sillytavern.app/usage/characters/)
-- [World Info and linking Character Lore](https://docs.sillytavern.app/usage/core-concepts/worldinfo/)
+- [Characters and importing](https://docs.sillytavern.app/usage/characters/)
+- [World Info and Character Lore](https://docs.sillytavern.app/usage/core-concepts/worldinfo/)
 - [Author's Note](https://docs.sillytavern.app/usage/core-concepts/authors-note/)
-- [Macros, including dice rolls](https://docs.sillytavern.app/usage/core-concepts/macros/)
