@@ -6,7 +6,9 @@ The heroes must recover four strangely named components and rebuild Bellweather'
 
 ## Fastest way to play
 
-For the simplest setup, download the [complete 51-page printable binder](pdf/The_Lost_Celebration_Age_13_DnD_One_Shot.pdf). It contains the GM adventure, read-aloud text, illustrated maps, creature statistics, player handouts, tokens, spell cards, quick rules, and all three character sheets. Nothing needs to be rebuilt or purchased from this repository.
+For the simplest setup, download the [complete 51-page printable binder](pdf/The_Lost_Celebration_Age_13_DnD_One_Shot.pdf?raw=1). It contains the GM adventure, read-aloud text, illustrated maps, creature statistics, player handouts, tokens, spell cards, quick rules, and all three character sheets. Nothing needs to be rebuilt or purchased from this repository.
+
+The binder link forces a direct download because GitHub's built-in viewer can cache or misrender large PDFs. If a browser still shows blurry or outdated-looking pages, download the file and open it in a desktop PDF reader.
 
 Before downloading the full-quality binder, you can [open the lightweight GitHub preview](pdf/previews/The_Lost_Celebration_Age_13_DnD_One_Shot.pdf) or [read the adventure directly on GitHub](The_Lost_Celebration_Age_13_DnD_One_Shot.md).
 
@@ -41,7 +43,7 @@ The [one-page binder index and print guide](pdf/The_Lost_Celebration_Binder_Inde
 | --- | --- |
 | [GitHub-readable adventure](The_Lost_Celebration_Age_13_DnD_One_Shot.md) | The complete adventure text formatted for reading in a browser; use the PDFs for printing and table play. |
 | [Lightweight binder preview](pdf/previews/The_Lost_Celebration_Age_13_DnD_One_Shot.pdf) | A smaller, screen-friendly copy of the entire 51-page binder for reviewing on GitHub. |
-| [Full-quality printable binder](pdf/The_Lost_Celebration_Age_13_DnD_One_Shot.pdf) | The all-in-one, highest-quality 51-page release containing everything needed to run and play. |
+| [Full-quality printable binder](pdf/The_Lost_Celebration_Age_13_DnD_One_Shot.pdf?raw=1) | The all-in-one, highest-quality 51-page release containing everything needed to run and play. |
 | [Binder index and print guide](pdf/The_Lost_Celebration_Binder_Index_and_Print_Guide.pdf) | A one-page tab layout, page index, and printing checklist for offline binder setup. |
 
 ## SillyTavern campaign kit
@@ -54,13 +56,13 @@ These are smaller sections extracted from the complete binder for users who do n
 
 | File | What it is |
 | --- | --- |
-| [GM guide and stat blocks](pdf/The_Lost_Celebration_GM_Guide_and_Stat_Blocks.pdf) | The 25-page GM-only adventure, run sheets, challenge procedures, keyed references, and creature statistics. |
-| [GM keyed maps](pdf/The_Lost_Celebration_GM_Keyed_Maps.pdf) | Three maps marked with secret locations, starting positions, and encounter notes for the GM. [GitHub preview](pdf/previews/The_Lost_Celebration_GM_Keyed_Maps.pdf). |
-| [Creature stat blocks only](pdf/The_Lost_Celebration_Stat_Blocks_Only.pdf) | A four-page combat reference containing every NPC and enemy stat block used in the adventure. |
-| [Player handouts](pdf/The_Lost_Celebration_Player_Handouts.pdf) | Eighteen pages of commissions, clues, trackers, maps, cards, and rewards that can be given to players during play. |
-| [Player-safe maps](pdf/The_Lost_Celebration_Maps.pdf) | Five spoiler-free illustrated maps for Briar Farm, the Storehouse, the Windmill puzzle, the Honey Steps, and the Founder's Hearth. [GitHub preview](pdf/previews/The_Lost_Celebration_Maps.pdf). |
-| [Tokens, cards, and table pieces](pdf/The_Lost_Celebration_Printable_Tokens_and_Cards.pdf) | Eight cut-out pages containing creature tokens, runes, conditions, actions, loot, hero references, and spell cards. |
-| [Player quick rules](pdf/The_Lost_Celebration_Player_Quick_Rules.pdf) | A one-page 2024-rules reminder covering d20 tests, turns, rests, concentration, death saves, and party roles. |
+| [GM guide and stat blocks](pdf/The_Lost_Celebration_GM_Guide_and_Stat_Blocks.pdf?raw=1) | The 25-page GM-only adventure, run sheets, challenge procedures, keyed references, and creature statistics. |
+| [GM keyed maps](pdf/The_Lost_Celebration_GM_Keyed_Maps.pdf?raw=1) | Three maps marked with secret locations, starting positions, and encounter notes for the GM. [GitHub preview](pdf/previews/The_Lost_Celebration_GM_Keyed_Maps.pdf). |
+| [Creature stat blocks only](pdf/The_Lost_Celebration_Stat_Blocks_Only.pdf?raw=1) | A four-page combat reference containing every NPC and enemy stat block used in the adventure. |
+| [Player handouts](pdf/The_Lost_Celebration_Player_Handouts.pdf?raw=1) | Eighteen pages of commissions, clues, trackers, maps, cards, and rewards that can be given to players during play. |
+| [Player-safe maps](pdf/The_Lost_Celebration_Maps.pdf?raw=1) | Five spoiler-free illustrated maps for Briar Farm, the Storehouse, the Windmill puzzle, the Honey Steps, and the Founder's Hearth. [GitHub preview](pdf/previews/The_Lost_Celebration_Maps.pdf). |
+| [Tokens, cards, and table pieces](pdf/The_Lost_Celebration_Printable_Tokens_and_Cards.pdf?raw=1) | Eight cut-out pages containing creature tokens, runes, conditions, actions, loot, hero references, and spell cards. |
+| [Player quick rules](pdf/The_Lost_Celebration_Player_Quick_Rules.pdf?raw=1) | A one-page 2024-rules reminder covering d20 tests, turns, rests, concentration, death saves, and party roles. |
 
 ## Character sheets
 
@@ -68,11 +70,11 @@ Each hero has a two-page official 2024 character sheet. Use the previews for qui
 
 | File | What it is | Preview | Full-quality PDF |
 | --- | --- | --- | --- |
-| Bramble Stoneheart | Level 3 Champion Fighter and durable front-line protector. | [Preview](pdf/previews/Bramble_Stoneheart_Official_2024_Character_Sheet.pdf) | [Print](pdf/Bramble_Stoneheart_Official_2024_Character_Sheet.pdf) |
-| Elio Starstring | Level 3 Lore Bard with support magic, healing, and strong social skills. | [Preview](pdf/previews/Elio_Starstring_Official_2024_Character_Sheet.pdf) | [Print](pdf/Elio_Starstring_Official_2024_Character_Sheet.pdf) |
-| Nyx Underbough | Level 3 Thief Rogue specializing in stealth, investigation, and Sneak Attack. | [Preview](pdf/previews/Nyx_Underbough_Official_2024_Character_Sheet.pdf) | [Print](pdf/Nyx_Underbough_Official_2024_Character_Sheet.pdf) |
-| Combined character sheets | All three clean character sheets collected into one six-page PDF. | [Preview](pdf/previews/The_Lost_Celebration_Official_2024_Character_Sheets.pdf) | [Print](pdf/The_Lost_Celebration_Official_2024_Character_Sheets.pdf) |
-| Combined binder print layout | The same six character-sheet pages with their binder page numbering preserved. | [Preview](pdf/previews/The_Lost_Celebration_Official_2024_Character_Sheets_Print.pdf) | [Print](pdf/The_Lost_Celebration_Official_2024_Character_Sheets_Print.pdf) |
+| Bramble Stoneheart | Level 3 Champion Fighter and durable front-line protector. | [Preview](pdf/previews/Bramble_Stoneheart_Official_2024_Character_Sheet.pdf) | [Print](pdf/Bramble_Stoneheart_Official_2024_Character_Sheet.pdf?raw=1) |
+| Elio Starstring | Level 3 Lore Bard with support magic, healing, and strong social skills. | [Preview](pdf/previews/Elio_Starstring_Official_2024_Character_Sheet.pdf) | [Print](pdf/Elio_Starstring_Official_2024_Character_Sheet.pdf?raw=1) |
+| Nyx Underbough | Level 3 Thief Rogue specializing in stealth, investigation, and Sneak Attack. | [Preview](pdf/previews/Nyx_Underbough_Official_2024_Character_Sheet.pdf) | [Print](pdf/Nyx_Underbough_Official_2024_Character_Sheet.pdf?raw=1) |
+| Combined character sheets | All three clean character sheets collected into one six-page PDF. | [Preview](pdf/previews/The_Lost_Celebration_Official_2024_Character_Sheets.pdf) | [Print](pdf/The_Lost_Celebration_Official_2024_Character_Sheets.pdf?raw=1) |
+| Combined binder print layout | The same six character-sheet pages with their binder page numbering preserved. | [Preview](pdf/previews/The_Lost_Celebration_Official_2024_Character_Sheets_Print.pdf) | [Print](pdf/The_Lost_Celebration_Official_2024_Character_Sheets_Print.pdf?raw=1) |
 
 ## Preview and printing notes
 

@@ -856,41 +856,19 @@ Skills Perception +4  •  Damage Resistances radiant  •  Senses darkvision 60
 > **FINALE VICTORY RULES**
 > Keep at least 2 runes lit. Only one different hero attempts Reconstruction each round. After 2 successes and during round 3 or later, you may offer Cindermaw a home. Victory takes effect after the current round ends.
 
-**PLAYER MAP — NO SECRET INFORMATION**
+## Illustrated Player Maps
 
-**Briar Farm Zone Map**
+These are the player-safe maps used by the printable release. On tactical maps, 1 square equals 5 feet; the Windmill is a puzzle diagram with no tactical scale.
 
-> **HOW TO USE**
-> TACTICAL SCALE: 1 square = 5 feet. Place hero and moon-hen tokens on the illustrated map and use normal movement; climbing to RAFTERS may require DC 12 Athletics or Acrobatics under pressure.
+![Briar Farm player map](maps/Briar_Farm_Player_Map.png)
 
-| BARN RAFTERS<br>ropes • tools • high path | STONE NEST<br>three Dawn Pearls | HAYLOFT<br>cover • loose hay |
-| --- | --- | --- |
-| FEED TROUGHS<br>distraction • difficult ground | FARMYARD<br>rooster begins here | SIDE GATE<br>warped boards • rusty latch |
-| OLD WELL<br>stone cover | BARN DOORS<br>hero entrance | ORCHARD<br>moon-hen reinforcements |
+![Lamplighter Storehouse player map](maps/Lamplighter_Storehouse_Player_Map.png)
 
-**PLAYER MAP — NO SECRET INFORMATION**
+![Windmill chute puzzle](maps/Windmill_Chute_Puzzle_Map.png)
 
-**Lamplighter Storehouse Zone Map**
+![Honey Steps player map](maps/Honey_Steps_Player_Map.png)
 
-> **HOW TO USE**
-> TACTICAL SCALE: 1 square = 5 feet. Choose an official, covert, or bait route; roll only when a guard, height, lock, or fleeing sootling creates pressure.
-
-| CITY WALL<br>watch post | ROOF WALK<br>guard patrol | CHIMNEY<br>soot trail |
-| --- | --- | --- |
-| COURTYARD<br>Captain Wick | RAFTERS<br>roof vent | OIL ROOM<br>gold • blue • black |
-| FRONT GATE<br>official route | SUPPLY HALL<br>bait route | ALLEY EXIT<br>chase route |
-
-**PLAYER MAP — NO SECRET INFORMATION**
-
-**Founder's Hearth Battle Map**
-
-> **HOW TO USE**
-> TACTICAL SCALE: 1 square = 5 feet. Place the four rune tokens at the glowing platforms, heroes at the entry, Cindermaw by the chimney, and two sootlings at different runes.
-
-| PEARL RUNE | CHIMNEY<br>Cindermaw starts | MEAL RUNE |
-| --- | --- | --- |
-| BROKEN PILLARS<br>cover | SEALED DOME<br>central tablet | STONE HANDS<br>cover |
-| GOLD RUNE | GUILDHALL ENTRY<br>heroes start | SWEET RUNE |
+![Founder's Hearth player map](maps/Founders_Hearth_Player_Map.png)
 
 **CUT-OUT SHEET — PRINT ON CARDSTOCK IF POSSIBLE**
 
@@ -1091,17 +1069,3 @@ Give this card to the group after Bellweather's lost celebration is restored. Th
 > Bramble protects allies and controls space.
 > Nyx scouts, solves locks, and uses Sneak Attack beside an ally.
 > Elio inspires early, controls enemies with magic, and heals fallen friends.
-
-## Illustrated Player Maps
-
-The printable release includes all five player-safe maps. On tactical maps, 1 square equals 5 feet; the Windmill is a puzzle diagram with no tactical scale.
-
-![Briar Farm player map](maps/Briar_Farm_Player_Map.png)
-
-![Lamplighter Storehouse player map](maps/Lamplighter_Storehouse_Player_Map.png)
-
-![Windmill chute puzzle](maps/Windmill_Chute_Puzzle_Map.png)
-
-![Honey Steps player map](maps/Honey_Steps_Player_Map.png)
-
-![Founder's Hearth player map](maps/Founders_Hearth_Player_Map.png)

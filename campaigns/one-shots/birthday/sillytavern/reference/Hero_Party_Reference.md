@@ -1,6 +1,6 @@
 # Hero Party Reference
 
-This page is for the player. The imported Game Master already has this information. The printable character sheets remain authoritative if this summary and a sheet ever disagree.
+This is a GM-facing quick reference for use alongside the Bellweather GM Assistant. The printable character sheets remain authoritative if this summary and a sheet ever disagree.
 
 ## Bramble Stoneheart
 
