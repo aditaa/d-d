@@ -17,6 +17,7 @@ Level 3 dwarf Champion Fighter; neutral good farmer and practical mason.
 - Protection: Reaction while holding a shield; protect an ally within 5 feet and impose Disadvantage on attacks against that ally until Bramble's next turn while Bramble remains nearby.
 - Action Surge: one extra action, except the Magic action; refreshes on a Short or Long Rest.
 - Improved Critical: weapon attacks score a Critical Hit on 19 or 20.
+- Remarkable Athlete: Advantage on Initiative and Strength (Athletics) checks. Immediately after a weapon Critical Hit, Bramble can move up to half Speed without provoking Opportunity Attacks.
 
 ## Nyx Underbough
 
@@ -32,6 +33,8 @@ Level 3 halfling Thief Rogue; chaotic good criminal and curious lock-solver.
 - Cunning Action: Bonus Action to Dash, Disengage, or Hide.
 - Steady Aim: if Nyx has not moved, gain Advantage on the next attack this turn and then Speed becomes 0 for the turn.
 - Fast Hands: Bonus Action to pick a lock, disarm a trap, pick a pocket, take Utilize, or use a magic item requiring the Magic action.
+- Halfling Luck: when Nyx rolls a 1 on the d20 of a D20 Test, reroll it and use the new roll.
+- Brave: Advantage on saving throws to avoid or end the Frightened condition.
 - Alert: Initiative +5 total and may swap initiative with a willing ally.
 
 ## Elio Starstring
@@ -47,8 +50,8 @@ Level 3 high elf College of Lore Bard; chaotic good entertainer searching for a 
 - Cutting Words: Reaction; spend Bardic Inspiration to subtract 1d6 when a visible creature within 60 feet deals damage or succeeds on an attack roll or ability check.
 - Musician: after a Short or Long Rest, give Heroic Inspiration to up to two allies.
 - Cantrips: Mage Hand; Vicious Mockery (Wisdom save, 1d6 Psychic and Disadvantage on next attack); Prestidigitation (High Elf lineage, usable at will).
-- Level 1: Detect Magic (High Elf lineage; one free casting per Long Rest or a spell slot), Healing Word (Bonus Action, heal 2d4+3), Dissonant Whispers (Wisdom save, 3d6 Psychic and Reaction movement), Faerie Fire (Concentration), Thunderwave (2d8 Thunder and push).
-- Level 2: Shatter (3d8 Thunder in a 10-foot sphere), Suggestion (Concentration, achievable non-harmful course for up to eight hours).
+- Level 1: Detect Magic (High Elf lineage; one free casting per Long Rest or a spell slot; a Magic action reveals a visible aura and its school only if a spell created the effect), Healing Word (Bonus Action, heal 2d4+3), Dissonant Whispers (Wisdom save, 3d6 Psychic and Reaction movement), Faerie Fire (Concentration), Thunderwave (2d8 Thunder and push).
+- Level 2: Shatter (3d8 Thunder in a 10-foot-radius Sphere), Suggestion (Concentration, achievable non-harmful course for up to eight hours).
 
 ## Shared reminders
 

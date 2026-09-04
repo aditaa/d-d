@@ -137,7 +137,7 @@ Reward a confident or funny answer with a cheer. Every hero already begins with 
 
 ### Challenge: Battle the Briar Farm brood
 
-Six magically enraged moon-hens surround a stone nest holding three Dawn Pearls. The group may attempt 4 successes before 2 setbacks or enter combat. In combat, use three hens and the silver-combed rooster; add two hens after round 2 only if the heroes are winning easily. Calming the rooster ends the encounter.
+Six magically enraged moon-hens surround a stone nest holding three Dawn Pearls. Four block the farmyard; two peck through the hayloft above. The group may attempt 4 successes before 2 setbacks or enter combat. In combat, begin with three hens and the silver-combed rooster. The two hayloft hens join after round 2 only if the heroes are winning easily. Calming the rooster ends the encounter.
 
 1. Athletics: hold a gate shut, tip a feed trough, or shield an ally from a charging hen.
 
@@ -154,7 +154,7 @@ Six magically enraged moon-hens surround a stone nest holding three Dawn Pearls.
 
 ### Moon-hen — quick combat
 
-AC 12; HP 7 each; Speed 30 ft.; Initiative +2. Furious Peck: +4 to hit, 1d4 + 2 piercing. Once per round, only the rooster may use Wing Flurry: creatures within 5 ft. make a DC 12 Dex save or take 1d4 + 2 bludgeoning and fall prone. The brood flees when three hens fall or the rooster is calmed with a DC 13 Animal Handling or Performance action.
+AC 12; HP 7 each; Speed 30 ft.; Initiative +2. Flock Fury: a moon-hen has Advantage on an attack if another moon-hen is within 5 feet of the target. Furious Peck: +4 to hit, 1d4 + 2 Piercing. Once per round, only the rooster may use Wing Flurry: creatures within 5 feet make a DC 12 Dexterity save or take 1d4 + 2 Bludgeoning damage and have the Prone condition. The brood flees when three hens fall or the rooster is calmed with a DC 13 Wisdom (Animal Handling) or Charisma (Performance) check made as an action.
 
 ### First component recovered
 
@@ -334,7 +334,9 @@ Once in a future adventure, the wearer can turn a failed check into a success by
 | --- | --- | --- |
 | New players | Use DC 12; offer a hint after one failed attempt. | Cindermaw HP 44, or 40 after 3 preparation successes; one sootling; Pearl Rune begins guarded. |
 | Age 13 / default | Use DC 13 and the printed challenges. | Cindermaw HP 52, or 42 after 3 preparation successes; two sootlings; one rune can be extinguished per round. |
-| Experienced players | Use DC 14; add costs on mixed results. | Cindermaw HP 60, or 50 after 3 preparation successes; three sootlings; Gold Rune begins dark. |
+| Combat-focused / experienced | Use DC 14; add costs on mixed results. At the Farm, begin with all six moon-hens. If the Storehouse becomes a fight, add two ordinary sootlings. At the Honey Steps, use five sprites. | Cindermaw HP 68, or 58 after 3 preparation successes; four sootlings; Gold Rune begins dark. This is the recommended setting for players who already know combat. |
+
+The default encounters intentionally sit near the low end of the 2024 encounter benchmarks because the adventure also asks the party to solve puzzles and protect objectives. The combat-focused row adds enemies and pressure without changing the story or blocking fail-forward outcomes. Reduce reinforcements first if the extra turns slow the table.
 
 ### If the table has only two players plus a GM
 
@@ -492,19 +494,19 @@ Award the Restorer's Medal, ask when the players first suspected the answer, and
 **GM Map Key: Briar Farm**
 
 > **RUNNING NOTES**
-> On the illustrated map, 1 square equals 5 feet; use normal movement. Secret: feed in B3 grants Advantage to calm the rooster. Reinforcements enter from B9 only if the heroes dominate the first two rounds.
+> REFERENCE-SCALE BINDER MAP: each square represents 5 feet, but the printed squares are not miniature-sized. Use tokens as markers, or print the separate tiled battle-map PDF at Actual Size for 1-inch squares. Secret: feed in B3 grants Advantage to calm the rooster. Reinforcements enter from B9 only if the heroes dominate the first two rounds.
 
 | B1 RAFTERS<br>DC 12 climb | B2 STONE NEST<br>Dawn Pearls | B3 HAYLOFT<br>hidden feed |
 | --- | --- | --- |
 | B4 TROUGHS<br>difficult terrain | B5 FARMYARD<br>rooster + 3 hens | B6 SIDE GATE<br>DC 12 latch |
-| B7 OLD WELL<br>Half Cover | B8 BARN DOORS<br>heroes enter | B9 ORCHARD<br>optional reinforcements |
+| B7 OLD WELL<br>Half Cover | B8 YARD GATE<br>heroes enter | B9 ORCHARD<br>optional reinforcements |
 
 **GM REFERENCE — KEYED LOCATIONS**
 
 **GM Map Key: Storehouse**
 
 > **RUNNING NOTES**
-> On the illustrated map, 1 square equals 5 feet; use normal movement. The disguised sootling begins in S8, casts no shadow, and flees through S9 after two setbacks. The S5 roof vent opens toward S6.
+> REFERENCE-SCALE BINDER MAP: each square represents 5 feet, but the printed squares are not miniature-sized. Use tokens as markers, or print the separate tiled battle-map PDF at Actual Size for 1-inch squares. The disguised sootling begins in S8, casts no shadow, and flees through S9 after two setbacks. The S5 roof vent opens toward S6.
 
 | S1 CITY WALL<br>watch post | S2 ROOF WALK<br>real guard | S3 CHIMNEY<br>soot clue |
 | --- | --- | --- |
@@ -516,7 +518,7 @@ Award the Restorer's Medal, ask when the players first suspected the answer, and
 **GM Map Key: Founder's Hearth**
 
 > **RUNNING NOTES**
-> On the illustrated map, 1 square equals 5 feet; use normal movement. Start sootlings at H1 and H3, Cindermaw at H2, and heroes at H8. Only one rune can be extinguished each round.
+> REFERENCE-SCALE BINDER MAP: each square represents 5 feet, but the printed squares are not miniature-sized. Use tokens as markers, or print the separate tiled battle-map PDF at Actual Size for 1-inch squares. Start sootlings at H1 and H3, Cindermaw at H2, and heroes at H8. Only one rune can be extinguished each round.
 
 | H1 PEARL RUNE | H2 CHIMNEY<br>Cindermaw | H3 MEAL RUNE |
 | --- | --- | --- |
@@ -858,7 +860,7 @@ Skills Perception +4  •  Damage Resistances radiant  •  Senses darkvision 60
 
 ## Illustrated Player Maps
 
-These are the player-safe maps used by the printable release. On tactical maps, 1 square equals 5 feet; the Windmill is a puzzle diagram with no tactical scale.
+These are the player-safe reference maps used in the binder. On the four tactical maps, each square represents 5 feet, but the binder's printed squares are not miniature-sized. Use the separate tiled battle-map PDFs, printed at Actual Size, when you want physical 1-inch squares. The Windmill is a puzzle diagram with no tactical scale.
 
 ![Briar Farm player map](maps/Briar_Farm_Player_Map.png)
 
@@ -940,6 +942,7 @@ These are the player-safe maps used by the printable release. On tactical maps, 
 > TACTICAL MIND: after a failed ability check, spend Second Wind and add 1d10; if it still fails, the use is not spent.
 > PROTECTION (Reaction): while holding a shield, protect an ally within 5 feet; the triggering and later attacks against that ally have Disadvantage until the start of your next turn while you remain within 5 feet.
 > ACTION SURGE: one extra action, except the Magic action. Javelin Slow reduces Speed 10 feet; Warhammer Push moves a Large or smaller target up to 10 feet away.
+> REMARKABLE ATHLETE: Advantage on Initiative and Strength (Athletics) checks. Immediately after a weapon Critical Hit, move up to half your Speed without provoking Opportunity Attacks.
 
 > **NYX — 2024 THIEF**
 > ATTACK: Shortbow +5, 1d6+3 Piercing. Vex: after a hit that deals damage, gain Advantage on your next attack against that target before the end of your next turn.
@@ -947,6 +950,7 @@ These are the player-safe maps used by the printable release. On tactical maps, 
 > CUNNING ACTION (Bonus Action): Dash, Disengage, or Hide. STEADY AIM: if you have not moved, gain Advantage on your next attack this turn and then Speed 0 for the turn.
 > FAST HANDS (Bonus Action): pick a lock, disarm a trap, pick a pocket, take the Utilize action, or use a magic item that requires the Magic action. SECOND-STORY WORK: Climb Speed 30 feet; use Dexterity for jump distance.
 > DAGGER NICK: make the Light weapon extra attack inside the Attack action instead of as a Bonus Action, once per turn. ALERT: Initiative +5; may swap with a willing ally.
+> HALFLING LUCK: when you roll a 1 on the d20 of a D20 Test, reroll it and use the new roll. BRAVE: Advantage on saves to avoid or end the Frightened condition.
 
 > **ELIO — 2024 LORE BARD**
 > BARDIC INSPIRATION (Bonus Action, 3 uses): an ally within 60 feet who sees or hears you gains a d6 for 1 hour; after failing a D20 Test, they add it and might succeed. Recover all uses on a Long Rest.
@@ -999,7 +1003,7 @@ These are the player-safe maps used by the printable release. On tactical maps, 
 
 > **DETECT MAGIC\***
 > High Elf lineage • Level 1 Divination • Action or Ritual • Self • V, S • Concentration, up to 10 minutes
-> Sense magic within 30 feet. Use a Magic action to see an aura around a visible magical creature or object and learn its school. Cast once per Long Rest without a slot, or cast with a spell slot.
+> Sense magic within 30 feet. Use a Magic action to see an aura around a visible magical creature or object; if a spell created the effect, learn its school. The sense is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead. Cast once per Long Rest without a slot, or cast with a spell slot.
 
 ✂  - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -1016,7 +1020,7 @@ These are the player-safe maps used by the printable release. On tactical maps, 
 ✂  - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 > **SHATTER**
-> Level 2 Evocation • Action • 60 ft. (10-foot Sphere) • V, S, M • Instantaneous
+> Level 2 Evocation • Action • 60 ft. (10-foot-radius Sphere) • V, S, M • Instantaneous
 > Constitution save DC 13. Failure: 3d8 Thunder. Success: half damage. Higher slot: +1d8.
 
 ✂  - - - - - - - - - - - - - - - - - - - - - - - - - - -
