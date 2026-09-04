@@ -46,8 +46,8 @@ Level 3 high elf College of Lore Bard; chaotic good entertainer searching for a 
 - Bardic Inspiration: Bonus Action, three uses; an ally within 60 feet gains a d6 for one hour and may add it after failing a D20 Test. Refreshes on a Long Rest.
 - Cutting Words: Reaction; spend Bardic Inspiration to subtract 1d6 when a visible creature within 60 feet deals damage or succeeds on an attack roll or ability check.
 - Musician: after a Short or Long Rest, give Heroic Inspiration to up to two allies.
-- Cantrips: Mage Hand; Vicious Mockery (Wisdom save, 1d6 Psychic and Disadvantage on next attack); Prestidigitation.
-- Level 1: Detect Magic, Healing Word (Bonus Action, heal 2d4+3), Dissonant Whispers (Wisdom save, 3d6 Psychic and Reaction movement), Faerie Fire (Concentration), Thunderwave (2d8 Thunder and push).
+- Cantrips: Mage Hand; Vicious Mockery (Wisdom save, 1d6 Psychic and Disadvantage on next attack); Prestidigitation (High Elf lineage, usable at will).
+- Level 1: Detect Magic (High Elf lineage; one free casting per Long Rest or a spell slot), Healing Word (Bonus Action, heal 2d4+3), Dissonant Whispers (Wisdom save, 3d6 Psychic and Reaction movement), Faerie Fire (Concentration), Thunderwave (2d8 Thunder and push).
 - Level 2: Shatter (3d8 Thunder in a 10-foot sphere), Suggestion (Concentration, achievable non-harmful course for up to eight hours).
 
 ## Shared reminders

@@ -955,9 +955,11 @@ These are the player-safe maps used by the printable release. On tactical maps, 
 > CANTRIP: Vicious Mockery, DC 13 Wisdom save, 1d6 Psychic. HEALING WORD (Bonus Action): 2d4+3 HP with a level-1 slot.
 > SPELLS: save DC 13; attack +5. Track four level-1 and two level-2 slots.
 
-**PLAYER REFERENCE — CARDS 1–4**
+**PLAYER REFERENCE — CARDS 1–5**
 
 **Elio's Spell Cards**
+
+*An asterisk marks a spell granted by Elio's High Elf lineage rather than his Bard class.*
 
 > **MAGE HAND**
 > Conjuration cantrip • Action • 30 ft. • V, S • 1 minute
@@ -968,6 +970,12 @@ These are the player-safe maps used by the printable release. On tactical maps, 
 > **VICIOUS MOCKERY**
 > Enchantment cantrip • Action • 60 ft. • V • Instantaneous
 > Wisdom save DC 13. Failure: 1d6 Psychic damage and Disadvantage on the target's next attack before its next turn ends.
+
+✂  - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+> **PRESTIDIGITATION\***
+> High Elf lineage • Transmutation cantrip • Action • 10 ft. • V, S • Instantaneous or up to 1 hour
+> Create a harmless magical trick: a brief sensory effect, a small flame, cleaning or soiling, warming, chilling, flavoring, a temporary mark, or a tiny trinket. You can maintain up to three ongoing effects.
 
 ✂  - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -983,9 +991,17 @@ These are the player-safe maps used by the printable release. On tactical maps, 
 
 ✂  - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-**PLAYER REFERENCE — CARDS 5–8**
+**PLAYER REFERENCE — CARDS 6–10**
 
 **Elio's Spell Cards**
+
+*An asterisk marks a spell granted by Elio's High Elf lineage rather than his Bard class.*
+
+> **DETECT MAGIC\***
+> High Elf lineage • Level 1 Divination • Action or Ritual • Self • V, S • Concentration, up to 10 minutes
+> Sense magic within 30 feet. Use a Magic action to see an aura around a visible magical creature or object and learn its school. Cast once per Long Rest without a slot, or cast with a spell slot.
+
+✂  - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 > **FAERIE FIRE**
 > Level 1 Evocation • Action • 60 ft. • V • Concentration, up to 1 minute
